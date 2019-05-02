@@ -1,0 +1,2159 @@
+{
+  "park": [
+    {
+      "address": "Franklin St. bet. Milton St. and Noble St.",
+      "park_name": "American Playground",
+      "zipcode": "11222"
+    },
+    {
+      "address": "E. 38 St., E. 38 St. bet. Ave. I and Ave. J",
+      "park_name": "Amersfort Park",
+      "zipcode": "11210"
+    },
+    {
+      "address": "Prospect Park W., 15 St.",
+      "park_name": "Bartel-Pritchard Square",
+      "zipcode": "11215"
+    },
+    {
+      "address": "Broadway, Stuyvesant Ave., Vernon Ave.",
+      "park_name": "Beattie Square",
+      "zipcode": "11221"
+    },
+    {
+      "address": "Cropsey Ave. bet. 21 Ave. and Bay Pkwy.",
+      "park_name": "Bensonhurst Park",
+      "zipcode": "11214"
+    },
+    {
+      "address": "Blake Ave., Dumont Ave., Livonia Ave. bet. Strauss St., Hopkinson Ave. and Bristol St.",
+      "park_name": "Betsy Head Park",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Washington Ave., Flatbush Ave. bet. Eastern Pkwy. and Empire Blvd.",
+      "park_name": "Brooklyn Botanic Garden",
+      "zipcode": "11238"
+    },
+    {
+      "address": "St. Mark's Ave., Park Pl. bet. Brooklyn Ave. and Kingston Ave.",
+      "park_name": "Brower Park",
+      "zipcode": "11213"
+    },
+    {
+      "address": "Irving Ave., Kinickerbocker Ave. bet. Starr St. and Suydam St.",
+      "park_name": "Maria Hernandez Park",
+      "zipcode": "11237"
+    },
+    {
+      "address": "Knickerbocker Ave. bet. Woodbine St. and Putnam Ave.",
+      "park_name": "Bushwick Playground",
+      "zipcode": "11237"
+    },
+    {
+      "address": "Seaview Ave. bet. Paerdegat Basin and E. 93 St., E. 102 St. and Fresh Creek Basin  ",
+      "park_name": "Canarsie Park",
+      "zipcode": "11236, 11239"
+    },
+    {
+      "address": "Court St., Smith St., bet. Carroll St. and President St.",
+      "park_name": "Carroll Park",
+      "zipcode": "11231"
+    },
+    {
+      "address": "Nassau St., Park Ave., bet. Navy St. and N. Elliot Pl.",
+      "park_name": "Commodore Barry Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Lynch St., Middleton St. bet. Lee Ave. and Bedford Ave.",
+      "park_name": "Middleton Playground",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Lafayette Ave. bet. Malcolm X Blvd. and Patch Ave.",
+      "park_name": "Lafayette Playground",
+      "zipcode": "11221"
+    },
+    {
+      "address": "Maspeth Ave., Sharon St. bet. Olive St. and Morgan Ave.",
+      "park_name": "Cooper Park",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Carlton Ave., Fulton St., Green Ave.",
+      "park_name": "Cuyler Gore Park",
+      "zipcode": "11238"
+    },
+    {
+      "address": "Hegeman Ave., New Lots Ave. bet. Watkins St. and Mother Gaston Blvd.",
+      "park_name": "Veterans Triangle",
+      "zipcode": "11212"
+    },
+    {
+      "address": "86 St., Belt Pkwy. bet. Bay 8 St., 14 Ave., and 7 Ave.",
+      "park_name": "Dyker Beach Park",
+      "zipcode": "11209, 11228"
+    },
+    {
+      "address": "Eastern Pkwy. bet. Grand Army Plaza and Ralph Ave.",
+      "park_name": "Eastern Parkway",
+      "zipcode": "11213, 11216, 11225, 11233, 11238"
+    },
+    {
+      "address": "Eastern Pkwy. bet. Ralph Ave. and Bushwick Ave.",
+      "park_name": "Eastern Parkway Extension",
+      "zipcode": "11207, 11233"
+    },
+    {
+      "address": "Monitor St. bet. Engert Ave. and Meeker Ave.",
+      "park_name": "Fidelity Triangle",
+      "zipcode": "11222"
+    },
+    {
+      "address": "Myrtle Ave., De Kalb Ave. bet. Washington Park and St. Edward's St.",
+      "park_name": "Fort Greene Park",
+      "zipcode": "11201, 11205"
+    },
+    {
+      "address": "5 Ave., 4 Ave., 94 St.",
+      "park_name": "Fort Hamilton Triangle",
+      "zipcode": "11209"
+    },
+    {
+      "address": "101 St., Shore Pkwy. bet. 4 Ave. and Ft. Hamilton Pkwy.",
+      "park_name": "John Paul Jones Park",
+      "zipcode": "11209"
+    },
+    {
+      "address": "Clark St. at Columbia Heights and the Brooklyn-Queens Exwy.",
+      "park_name": "Fort Stirling Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Bushwick Ave., Myrtle Ave., Willoughby Ave.",
+      "park_name": "Freedom Triangle",
+      "zipcode": "11221"
+    },
+    {
+      "address": "Chauncey St. bet. Lewis Ave. and Stuyvesant Ave.",
+      "park_name": "Fulton Park",
+      "zipcode": "11233"
+    },
+    {
+      "address": "Flatbush Ave., Eastern Pkwy. and Prospect Park",
+      "park_name": "Grand Army Plaza",
+      "zipcode": "11215, 11217, 11238"
+    },
+    {
+      "address": "Bedford Ave., Rodgers Ave., Bergen St.",
+      "park_name": "Grant Gore",
+      "zipcode": "11216"
+    },
+    {
+      "address": "18 Ave., 19 Ave., bet. 55 St. and 58 St.",
+      "park_name": "Gravesend Park",
+      "zipcode": "11204"
+    },
+    {
+      "address": "Franklin St. bet. Commerical St. and Dupoint St.",
+      "park_name": "Greenpoint Playground",
+      "zipcode": "11222"
+    },
+    {
+      "address": "Eastern Pkwy., Washington Ave., Classon Ave.",
+      "park_name": "Dr. Ronald McNair Park",
+      "zipcode": "11225"
+    },
+    {
+      "address": "Knickerbocker Ave., Myrtle Ave., Bleecker St.",
+      "park_name": "Heisser Triangle",
+      "zipcode": "11237"
+    },
+    {
+      "address": "Jamaica Ave. and Highland Blvd. from Highland Pl. to Bulwer Pl.",
+      "park_name": "Highland Park",
+      "zipcode": "11207, 11208, 11385"
+    },
+    {
+      "address": "Eastern Pkwy. at Washington Ave.",
+      "park_name": "Brooklyn Museum",
+      "zipcode": "11238"
+    },
+    {
+      "address": "Wilson Ave., Knickerbocker Ave., bet. Halsey St. and Weirfield St.",
+      "park_name": "Irving Square Park",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Columbia St., Hicks St. bet. Congress St. and Atlantic Ave.",
+      "park_name": "Van Voorhees Playground",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Ave. S bet. E. 14 St. and E. 15 St.",
+      "park_name": "Kelly Park Playground",
+      "zipcode": "11229"
+    },
+    {
+      "address": "67 St., 66 St. bet. 4 Ave. and Ft. Hamilton Pkwy.",
+      "park_name": "Leif Ericson Park",
+      "zipcode": "11219, 11220"
+    },
+    {
+      "address": "Eastern Pkwy., E. New York Ave. bet. Rochester Ave. and Portal St.",
+      "park_name": "Lincoln Terrace / Arthur S. Somers Park",
+      "zipcode": "11213, 11233"
+    },
+    {
+      "address": "Lorimer St. bet. Montrose Ave. and Boerum St. ",
+      "park_name": "Sternberg Park",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Dumont Ave., Blake Ave. bet. Bradford St. and Miller Ave.",
+      "park_name": "Martin Luther King Jr. Playground",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Shore Pkwy., Avenue U, Filmore Ave. bet. Brigham St., Gerritsen Ave., and Flatbush Ave.",
+      "park_name": "Marine Park",
+      "zipcode": "11229, 11234, 11235"
+    },
+    {
+      "address": "N. 12 St., Lorimer St., Manhattan Ave. bet. Bayard St. and Berry St. - Nassau Ave. ",
+      "park_name": "McCarren Park",
+      "zipcode": "11211, 11222"
+    },
+    {
+      "address": "73 St., Ft. Hamilton Pkwy., 7 Ave.",
+      "park_name": "McKinley Park",
+      "zipcode": "11228"
+    },
+    {
+      "address": "Jay St., Bridge St. bet. Tillary St. and Cathedral Pl.",
+      "park_name": "McLaughlin Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Metropolitan Ave., Maspeth Ave., bet. Humbolt St. and Bushwick Ave.",
+      "park_name": "Memorial Gore",
+      "zipcode": "11211"
+    },
+    {
+      "address": "18 Ave. bet. 81 St. and 82 St.",
+      "park_name": "Milestone Park",
+      "zipcode": "11214"
+    },
+    {
+      "address": "Ocean Parkway bet. Coney Island Ave., Parkside Ave. and Sea Breeze Ave.",
+      "park_name": "Ocean Parkway Malls",
+      "zipcode": "11218, 11223, 11224, 11230, 11235"
+    },
+    {
+      "address": "Shore Rd., 68 St., Colonial Rd.",
+      "park_name": "Owl's Head Park",
+      "zipcode": "11220"
+    },
+    {
+      "address": "Parkside Ave., Caton Ave., bet. Parade Pl. and Coney Island Ave.",
+      "park_name": "Parade Ground",
+      "zipcode": "11226"
+    },
+    {
+      "address": "Park Cir., Parkside Ave., Ocean Pkwy.",
+      "park_name": "Machate Circle",
+      "zipcode": "11215"
+    },
+    {
+      "address": "Prospect Park W, Parkside Ave. bet. Flatbush Ave., Ocean Ave. and Prospect Park SW",
+      "park_name": "Prospect Park",
+      "zipcode": "11215"
+    },
+    {
+      "address": "Verona St. bet. Richard St. and Dwight St.",
+      "park_name": "Coffey Park",
+      "zipcode": "11231"
+    },
+    {
+      "address": "Vermont St. bet. Pitkin Ave. and Belmont Ave.",
+      "park_name": "Grace Playground",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Halsey St. bet. Howard Ave. and Saratoga Ave.",
+      "park_name": "Saratoga Park",
+      "zipcode": "11233"
+    },
+    {
+      "address": "Boardwalk, Surf Ave., Sea Breeze Ave., Ocean Parkway",
+      "park_name": "Asser Levy Park",
+      "zipcode": "11224"
+    },
+    {
+      "address": "4 Ave., Shore Rd., Belt Pkwy., Verrazano Bridge",
+      "park_name": "Shore Park and Parkway",
+      "zipcode": "11209, 11220"
+    },
+    {
+      "address": "Bedford Ave. bet. Metropolitan Ave. and N. 1 St.",
+      "park_name": "Metropolitan Recreation Center",
+      "zipcode": "11211"
+    },
+    {
+      "address": "41 St., 44 St., bet. 5 Ave. and 7 Ave.",
+      "park_name": "Sunset Park",
+      "zipcode": "11232"
+    },
+    {
+      "address": "Marcy Ave., Tompkins Ave., bet. Greene Ave. and Lafayette Ave.",
+      "park_name": "Herbert Von King Park",
+      "zipcode": "11216"
+    },
+    {
+      "address": "Pacific St., Washington Ave., Underhill Ave.",
+      "park_name": "Lowry Triangle",
+      "zipcode": "11238"
+    },
+    {
+      "address": "Lee Ave., Division Ave., Roebling St.",
+      "park_name": "Sobel Playground",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Howard Ave. bet. Atlantic Ave. and  Herkimer St.",
+      "park_name": "Weeksville Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "E. 12 St., Kings Hwy., Quentin Rd.",
+      "park_name": "Sgt. Joyce Kilmer Triangle",
+      "zipcode": "11229"
+    },
+    {
+      "address": "11 St., 12 St. bet. 2 Ave. and 3 Ave.",
+      "park_name": "Ennis Playground",
+      "zipcode": "11215"
+    },
+    {
+      "address": "Vandervoort Ave. bet. Cherry St. and Anthony St.",
+      "park_name": "Sgt. William Dougherty Playground",
+      "zipcode": "11222"
+    },
+    {
+      "address": "E. 95 St. bet. Ave. L and Ave. K",
+      "park_name": "Sledge Playground",
+      "zipcode": "11236"
+    },
+    {
+      "address": "2 Ave. bet. 55 St. and 56 St.",
+      "park_name": "Martin Luther Playground",
+      "zipcode": "11220"
+    },
+    {
+      "address": "16 Ave., New Utrecht Ave. bet. 70 St. and 71 St.",
+      "park_name": "Lt. Joseph Petrosino Park",
+      "zipcode": "11228"
+    },
+    {
+      "address": "W. 12 St. bet. Bay Pkwy. and Ave. P",
+      "park_name": "Seth Low Playground/ Bealin Square",
+      "zipcode": "11204"
+    },
+    {
+      "address": "Classon Ave. bet. Fulton St. and Lefferts Pl.",
+      "park_name": "Crispus Attucks Playground",
+      "zipcode": "11238"
+    },
+    {
+      "address": "Euclid Ave. bet. Dumont Ave. and Blake Ave.",
+      "park_name": "Cypress Hills Playground",
+      "zipcode": "11208"
+    },
+    {
+      "address": "Taaffe Pl. bet. Park Ave. and Myrtle Ave.",
+      "park_name": "Taaffe Playground",
+      "zipcode": "11205"
+    },
+    {
+      "address": "W. 13 St., Stillwell Ave. bet. Ave. U and Ave. V",
+      "park_name": "Scarangella Park",
+      "zipcode": "11223"
+    },
+    {
+      "address": "Stillwell Ave., Benson Ave., Bay 43 St.",
+      "park_name": "Lafayette Playground",
+      "zipcode": "11214"
+    },
+    {
+      "address": "Riverdale Ave. bet. Van Sinderen Ave. and Snediker Ave.",
+      "park_name": "Lion's Pride Playground",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Ave. Y, Ave. X bet. E. 24 St. and Bedford Ave.",
+      "park_name": "Bill Brown Playground",
+      "zipcode": "11235"
+    },
+    {
+      "address": "Hopkinson Ave. bet. Marion St. and Chauncey St.",
+      "park_name": "Marion Hopkinson Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "3 St., 4 St. bet. 4 Ave. and 5 Ave.",
+      "park_name": "J.J. Byrne Playground",
+      "zipcode": "11215"
+    },
+    {
+      "address": "5 St., 4 St. bet. 4 Ave. and 5 Ave.",
+      "park_name": "Washington Park",
+      "zipcode": "11215"
+    },
+    {
+      "address": "Cadman Plaza West, Cadman Plaza East bet. BQE and Tillary St.",
+      "park_name": "Cadman Plaza Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Cadman Plaza West, Cadman Plaza East bet. Tillary St. and Johnson St.",
+      "park_name": "Korean War Veterans Plaza",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Adam St., Court St., Cadman Plaza West bet. Johnson St. and Fulton St.",
+      "park_name": "Columbus Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Cadman Plaza East, Adams St. bet. Red Cross Pl. and Tillary St. ",
+      "park_name": "Walt Whitman Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Russell St., Monitor St. bet. Nassau Ave. and Driggs Ave.",
+      "park_name": "Msgr. McGolrick Park",
+      "zipcode": "11222"
+    },
+    {
+      "address": "Bedford Ave. at Division Ave.",
+      "park_name": "Cohn Triangle",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Pitkin Ave., E. New York Ave. bet. Crafton St. and Legon St.",
+      "park_name": "Zion Triangle",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Throop Ave., Lormer St., Broadway",
+      "park_name": "Lindsay Triangle",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Smith St. bet. Luquer St. and Nelson St.",
+      "park_name": "St. Mary's Park",
+      "zipcode": "11231"
+    },
+    {
+      "address": "Smith St. bet. Nelson St. and Huntington St.",
+      "park_name": "St. Mary's Park",
+      "zipcode": "11231"
+    },
+    {
+      "address": "Sullican Pl. bet. Rogers Ave. and Nostrand Ave.",
+      "park_name": "Dodger Playground",
+      "zipcode": "11225"
+    },
+    {
+      "address": "46 St., 11 Ave., New Utrecht Ave.",
+      "park_name": "Alben Triangle",
+      "zipcode": "11219"
+    },
+    {
+      "address": "Wythe Ave. bet. Grand St. and S. 1 St.",
+      "park_name": "William Sheridan Playground",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Gravesend Bay, Bay 44 St. to Bay 49 St., Shore Pkwy.",
+      "park_name": "Calvert Vaux Park",
+      "zipcode": "11214"
+    },
+    {
+      "address": "Halleck St., Bush St. bet. Otsego St. and Court St. ",
+      "park_name": "Red Hook Recreation Area",
+      "zipcode": "11231"
+    },
+    {
+      "address": "Halleck St. at Columbia St.",
+      "park_name": "Todd Triangle",
+      "zipcode": "11231"
+    },
+    {
+      "address": "Scholes St. bet. Manhattan Ave. and Graham Ave.",
+      "park_name": "Martinez Playground",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Ave. P bet. E. 4 St. and Ocean Pkwy.",
+      "park_name": "Colonel David Marcus Playground",
+      "zipcode": "11230"
+    },
+    {
+      "address": "Neptune Ave., Bayview Ave.,W. 24 St. to W. 32 St.",
+      "park_name": "Kaiser Park",
+      "zipcode": "11224"
+    },
+    {
+      "address": "Ft Hamilton Pkwy., Prospect Ave., Greenwood Ave.",
+      "park_name": "Greenwood Playground",
+      "zipcode": "11218"
+    },
+    {
+      "address": "Arberdeen St., Furman Ave. north of Bushwick Ave.",
+      "park_name": "Rudd Playground",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Mc Kibbin St. bet. White St. and Bogart St.",
+      "park_name": "Gilbert Ramirez Park",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Commercial St., Dupont St.",
+      "park_name": "Newtown Barge Playground",
+      "zipcode": "11222"
+    },
+    {
+      "address": "Schermerhorn St. bet. Nevins St. and 3 Ave.",
+      "park_name": "Sixteen Sycamores Playground",
+      "zipcode": "11217"
+    },
+    {
+      "address": "Linden St. bet. Central Ave. and Wilson Ave.",
+      "park_name": "Heckscher Playground",
+      "zipcode": "11221"
+    },
+    {
+      "address": "Macy Ave. bet. Lafayette Ave. and Kosciuszko St.",
+      "park_name": "Banneker Playground",
+      "zipcode": "11216"
+    },
+    {
+      "address": "Atlantic Ave. bet. Fountain Ave. and N. Conduit Ave.",
+      "park_name": "City Line Park",
+      "zipcode": "11208"
+    },
+    {
+      "address": "Bedford Ave. bet. S. 9 St. and Division Ave.",
+      "park_name": "Bedford Playground",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Dean St., Bergen St. bet. Rockaway Ave.and Hopkinson Ave.",
+      "park_name": "Ocean Hill Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "Nevins St., 3 Ave., bet. De Graw St. and Douglas St. ",
+      "park_name": "Thomas Greene Playground",
+      "zipcode": "11217"
+    },
+    {
+      "address": "8 Ave. bet. 65 St. and 66 St. ",
+      "park_name": "Quaker Parrot Park at the Dust Bowl",
+      "zipcode": "11220"
+    },
+    {
+      "address": "Ave. U bet. E. 58 St., E. 59 St., and E. 60 St.",
+      "park_name": "Monsignor Crawford Field",
+      "zipcode": "11234"
+    },
+    {
+      "address": "Clarkson Ave., New York Ave.",
+      "park_name": "Rolph Henry Playground",
+      "zipcode": "11226"
+    },
+    {
+      "address": "Elton St. bet. New Lots Ave. and Hegeman Ave.",
+      "park_name": "Elton Playground",
+      "zipcode": "11208"
+    },
+    {
+      "address": "Linwood St. bet. New Lots Ave. and Hegeman Ave.",
+      "park_name": "Linwood Playground",
+      "zipcode": "11208"
+    },
+    {
+      "address": "Ave. L bet. E. 17 St. and E. 18 St.",
+      "park_name": "Kolbert Playground",
+      "zipcode": "11230"
+    },
+    {
+      "address": "Dahill Rd. bet. 37 St. and 38 St.",
+      "park_name": "Dome Playground",
+      "zipcode": "11218"
+    },
+    {
+      "address": "Ft. Hamilton Pkwy. bet. 52 St. and 53 St.",
+      "park_name": "Rappaport Playground",
+      "zipcode": "11219"
+    },
+    {
+      "address": "Howard Ave. bet. Pacific St. and Dean St.",
+      "park_name": "South Pacific Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "S. 3 St. bet. Berry St. and Bedford Ave.",
+      "park_name": "Berry Playground",
+      "zipcode": "11211"
+    },
+    {
+      "address": "New Lots Ave., Dumont Ave., Atkins Ave.",
+      "park_name": "Triangle",
+      "zipcode": "11208"
+    },
+    {
+      "address": "Sackman To Powell Sts bet. Glenmore and Pit",
+      "park_name": "Powell Playground",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Ave. S, Morre Pl. bet. E. 16 St. and E. 17 St.",
+      "park_name": "Kelly Park Playground",
+      "zipcode": "11229"
+    },
+    {
+      "address": "18 Ave. bet. 83 St. and 82 St.",
+      "park_name": "Garibaldi Playground",
+      "zipcode": "11214"
+    },
+    {
+      "address": "Eastern Pkwy., Flatbush Ave. bet. Underhill Ave. and Washington Ave.",
+      "park_name": "Mount Prospect Park",
+      "zipcode": "11238"
+    },
+    {
+      "address": "Quentin Rd., Kings Hwy., W. 9 St.",
+      "park_name": "Ketchum Triangle",
+      "zipcode": "11223"
+    },
+    {
+      "address": "Underhill Ave. bet. Prospect Pl. and Park Pl.",
+      "park_name": "Underhill Playground",
+      "zipcode": "11238"
+    },
+    {
+      "address": "10 Ave., New Utrecht Ave. bet. 43 St. and 42 St. ",
+      "park_name": "Brizzi Playground",
+      "zipcode": "11219"
+    },
+    {
+      "address": "Atlantic Ave., Cleveland St. and Liberty Ave.",
+      "park_name": "Sperandeo Brothers Playground",
+      "zipcode": "11208"
+    },
+    {
+      "address": "Shore Pkwy. bet. Bay 14 St. and Bay 16 St.",
+      "park_name": "Bath Beach Park",
+      "zipcode": "11214"
+    },
+    {
+      "address": "Fountain Ave., 75 St. bet. Belt Pkwy., Flatlands Ave.,",
+      "park_name": "Spring Creek Park",
+      "zipcode": "11208, 11414"
+    },
+    {
+      "address": "Belt Pkwy., Fresh Creek, Seaview Ave.",
+      "park_name": "Spring Creek Park",
+      "zipcode": "11239"
+    },
+    {
+      "address": "Belt Pkwy. bet. Verrazano Bridge and Cross Bay Blvd.",
+      "park_name": "Belt Parkway/Shore Parkway",
+      "zipcode": "11208, 11209, 11214, 11223, 11228, 11234, 11235, 1"
+    },
+    {
+      "address": "Belt Pkwy., Williams Court  bet. E. 12 St. and Homecrest Ave",
+      "park_name": "Homecrest Playground",
+      "zipcode": "11235"
+    },
+    {
+      "address": "W. 22 St. bet. Bay 56 St. and Shore Pkwy.",
+      "park_name": "Coney Island Boat Basin",
+      "zipcode": "11214"
+    },
+    {
+      "address": "Ave Y., Bergen Ave. bet. Ave. V and Belt Pkwy.",
+      "park_name": "McGuire Fields",
+      "zipcode": "11234"
+    },
+    {
+      "address": "E. 16 St., Shore Pkwy., Bay Ct. ",
+      "park_name": "Sixteen Lindens Triangle",
+      "zipcode": "11235"
+    },
+    {
+      "address": "S. 4 St. bet. Roebling St. and Williamsburg Bridge Ramp",
+      "park_name": "La Guardia Playground",
+      "zipcode": "11211"
+    },
+    {
+      "address": "S. 5 St., Broadway, Havemeyer St.",
+      "park_name": "La Guardia Playground",
+      "zipcode": "11211"
+    },
+    {
+      "address": "S. 4 St. bet. S. 5 Pl. and Roebling St.",
+      "park_name": "Continental Army Plaza",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Corbin Pl. to W. 37 St., Boardwalk",
+      "park_name": "Coney Island Beach & Boardwalk",
+      "zipcode": "11224, 11235"
+    },
+    {
+      "address": "Brighton 2 St. bet. Brightwater Ct. and Boardwalk E.",
+      "park_name": "Brighton Playground",
+      "zipcode": "11235"
+    },
+    {
+      "address": "Surf Ave. bet. W. 25 St. to W. 27 St., Boardwalk",
+      "park_name": "Poseidon Playground",
+      "zipcode": "11224"
+    },
+    {
+      "address": "Linden Blvd., Church Ave., E. 92 St.",
+      "park_name": "Linden Sitting Area",
+      "zipcode": "11236"
+    },
+    {
+      "address": "New Utrecht Ave., 9 Ave., 39 St.",
+      "park_name": "Heffernan Triangle",
+      "zipcode": "11219"
+    },
+    {
+      "address": "Kings Highway, Ave. M, E. 34 St. to E. 35 St.",
+      "park_name": "Fraser Square",
+      "zipcode": "11234"
+    },
+    {
+      "address": "Willmohr St., E. 91 St., Linden Blvd.",
+      "park_name": "Park",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Dahill Rd., 24 Ave., 62 St.",
+      "park_name": "Dahill Triangle",
+      "zipcode": "11204"
+    },
+    {
+      "address": "Flatbush Ave., Schenctady Ave., Ave. O",
+      "park_name": "Trust Triangle",
+      "zipcode": "11234"
+    },
+    {
+      "address": "Glenwood Rd. bet. E. 23 St. and Coney Island Ave.",
+      "park_name": "Flatbush Malls",
+      "zipcode": "11210, 11230"
+    },
+    {
+      "address": "E. 17 St. bet. Foster Ave. and Ave. H",
+      "park_name": "Flatbush Malls",
+      "zipcode": "11230"
+    },
+    {
+      "address": "E. 17 St., South of Ave. H",
+      "park_name": "Flatbush Mall",
+      "zipcode": "11230"
+    },
+    {
+      "address": "Blake Ave., Tapscott St., Howard Ave.",
+      "park_name": "Howard Malls",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Ave. R from E. 7 St. To Coney Island Ave.",
+      "park_name": "Avenue R Mall",
+      "zipcode": "11223"
+    },
+    {
+      "address": "Ave. U, E. 71 St., Veterans Ave.",
+      "park_name": "Barone Triangle",
+      "zipcode": "11234"
+    },
+    {
+      "address": "New Utrecht Ave., 45 St., Ft Hamilton Pkwy.",
+      "park_name": "Park",
+      "zipcode": "11219"
+    },
+    {
+      "address": "Colonial Rd. from 83 St. to 85 St.",
+      "park_name": "Russell Pedersen Playground",
+      "zipcode": "11209"
+    },
+    {
+      "address": "83 St. to 85 St. bet. Colonial Rd. and Narrows Ave.",
+      "park_name": "Fort Hamilton Athletic Field",
+      "zipcode": "11209"
+    },
+    {
+      "address": "Albany Ave., E. New York Ave., Lefferts Ave.",
+      "park_name": "Hamilton Metz Field",
+      "zipcode": "11203"
+    },
+    {
+      "address": "Middleton St., Harrison Ave., Union Ave.",
+      "park_name": "Harmony Triangle",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Union Ave., N. 11 St. and Roebling St.",
+      "park_name": "Pvt. Sonsire Triangle",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Avenue V bet. E. 13 St. and E. 14 St.",
+      "park_name": "Mellett Playground",
+      "zipcode": "11229"
+    },
+    {
+      "address": "Kings Highway between 25 St. and 98 St.",
+      "park_name": "Kings Highway Malls",
+      "zipcode": "11203, 11210, 11212, 11229, 11234"
+    },
+    {
+      "address": "Stuyvesant Ave. and Fulton St.",
+      "park_name": "Elizabeth Stroud Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "Stagg St., Hewes St., Union Ave.",
+      "park_name": "Lithuania Square",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Ave. P, Kings Hwy., Ocean Ave.",
+      "park_name": "Corporal Wiltshire Square",
+      "zipcode": "11229"
+    },
+    {
+      "address": "Avenue H bet. Kings Hwy. and E. 49 St.",
+      "park_name": "Sunners Playground",
+      "zipcode": "11234"
+    },
+    {
+      "address": "E. 38 St., Ave. M, Flatlands Ave.",
+      "park_name": "Sarsfield Playground",
+      "zipcode": "11234"
+    },
+    {
+      "address": "Nostrand Ave. bet. Kings Hwy. and Ave. P",
+      "park_name": "Pfc Norton Playground",
+      "zipcode": "11229"
+    },
+    {
+      "address": "Bedford Ave., Gravesend Neck Rd., Ave. V, E. 24 St. ",
+      "park_name": "Galapo Playground",
+      "zipcode": "11229"
+    },
+    {
+      "address": "3 Ave. bet. 64 St. and 65 St.",
+      "park_name": "John Allen Payne Playground",
+      "zipcode": "11220"
+    },
+    {
+      "address": "3 Ave. bet. 35 St. and 34 St. ",
+      "park_name": "D'Emic Playground",
+      "zipcode": "11232"
+    },
+    {
+      "address": "Hamilton Ave., Court St. Garnet St.",
+      "park_name": "Cough Triangle",
+      "zipcode": "11231"
+    },
+    {
+      "address": "Hamilton Ave., Nelson St. Clinton St.",
+      "park_name": "Admiral Triangle",
+      "zipcode": "11231"
+    },
+    {
+      "address": "3 Ave. bet. Hamilton Ave. and 16 St.",
+      "park_name": "Triangle Three Sixteen",
+      "zipcode": "11215"
+    },
+    {
+      "address": "Hamitlon Ave. ber. Van Brunt St. and Woodull St.",
+      "park_name": "Harold Ickes Playground",
+      "zipcode": "11231"
+    },
+    {
+      "address": "3 Ave. bet. 40 St. and 41 St.",
+      "park_name": "Gonzalo Plasencia Playground",
+      "zipcode": "11232"
+    },
+    {
+      "address": "3 Ave. bet. 47 St. and 46 St.",
+      "park_name": "Pena Herrera Playground",
+      "zipcode": "11220"
+    },
+    {
+      "address": "7 Ave. bet. 81 St. and 82 St.",
+      "park_name": "Dan Ross Playground",
+      "zipcode": "11209"
+    },
+    {
+      "address": "Dahlgreen Pl. bet. Exit 17 and Ft. Hill Pl.",
+      "park_name": "Park",
+      "zipcode": "11228"
+    },
+    {
+      "address": "Ft. Hamilton Pkwy. bet. 94 St. and 101 St.",
+      "park_name": "John J Carty Park",
+      "zipcode": "11209"
+    },
+    {
+      "address": "Village Rd. N., Ave. U bet. Van Sicklen St. and Lake St.",
+      "park_name": "Lady Moody Triangle",
+      "zipcode": "11223"
+    },
+    {
+      "address": "Campus Rd. bet. E. 21 St. and Ocean Ave.",
+      "park_name": "Hot Spot Tot Lot",
+      "zipcode": "11210"
+    },
+    {
+      "address": "Gravesend Neck Rd., E. 2 St., Ave. V",
+      "park_name": "Gravesend Triangle",
+      "zipcode": "11223"
+    },
+    {
+      "address": "Vermont St. bet. Linden Blvd. and Stanley Ave.",
+      "park_name": "Linden Park",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Decatur St., Macdonough St. bet. Lewis Ave. and Marcus Garvey Blvd.",
+      "park_name": "Decatur Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "Marcus Garvey Blvd. bet. Monore St. and Madison St.",
+      "park_name": "Raymond Bush Playground",
+      "zipcode": "11221"
+    },
+    {
+      "address": "Myrtle Ave. bet. Nostrand Ave. and Marcy Ave.",
+      "park_name": "Marcy Playground",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Albany Ave., E. 40 St. bet. Farragut Rd. and Foster Ave.",
+      "park_name": "Paerdegat Park",
+      "zipcode": "11203"
+    },
+    {
+      "address": "Fulton St., Truxton St., bet. Eastern Pkwy. and Van Sinderen Ave.",
+      "park_name": "Callahan-Kelly Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "Park Ave. bet. Washington Ave. and Hall St.",
+      "park_name": "Washington Hall Park",
+      "zipcode": "11205"
+    },
+    {
+      "address": "Flushing Ave., Steuben St., Williamsburg Pl.",
+      "park_name": "Steuben Playground",
+      "zipcode": "11205"
+    },
+    {
+      "address": "bet. Pierrepont Pl., Pierrepont St. and the BQE",
+      "park_name": "Pierrepont Playground",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Rapelye St., Hicks St., Coles St.",
+      "park_name": "Dimattina Playground",
+      "zipcode": "11231"
+    },
+    {
+      "address": "Hicks St. bet. Woodhull St. and Rapelye St.",
+      "park_name": "Dimattina Playground",
+      "zipcode": "11231"
+    },
+    {
+      "address": "Atlantic Ave., Columbia Pl., State St.",
+      "park_name": "Adam Yauch Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "BQE bet. Joralemon St. and Grace Ct.",
+      "park_name": "Brooklyn Heights Promenade",
+      "zipcode": "11201"
+    },
+    {
+      "address": "BQE bet. Remsen St. and Grace Ct.",
+      "park_name": "Brooklyn Heights Promenade",
+      "zipcode": "11201"
+    },
+    {
+      "address": "BQE bet. Remsen St. and Montague St.",
+      "park_name": "Brooklyn Heights Promenade",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Montague St. bet. Montague Ter. and BQE",
+      "park_name": "Brooklyn Heights Promenade",
+      "zipcode": "11201"
+    },
+    {
+      "address": "BQE at Montague St.",
+      "park_name": "Brooklyn Heights Promenade",
+      "zipcode": "11201"
+    },
+    {
+      "address": "BQE bet. Clark St. and Pierrepoint St.",
+      "park_name": "Brooklyn Heights Promenade",
+      "zipcode": "11201"
+    },
+    {
+      "address": "BQE bet. Clark St. and Pineapple St.",
+      "park_name": "Brooklyn Heights Promenade",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Pineapple St. bet. Columbia Heights and the BQE",
+      "park_name": "Brooklyn Heights Promenade",
+      "zipcode": "11201"
+    },
+    {
+      "address": "BQE bet. Pineapple St. and Orange St.",
+      "park_name": "Brooklyn Heights Promenade",
+      "zipcode": "11201"
+    },
+    {
+      "address": "BQE over-hang bet. Remsen St. and Orange St.",
+      "park_name": "Brooklyn Heights Promenade",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Columbia Heights and Orange St. To Cranberry St.",
+      "park_name": "Fruit Street Sitting Area",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Middagh St. between Columbia Heights & Furman St.",
+      "park_name": "Squibb Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Columbia Hts., Hicks St., bet. Middagh St. and Vine St.",
+      "park_name": "Hillside Dog Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Columbia Hts. at Middagh St.",
+      "park_name": "Harry Chapin Playground",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Fulton St., York St., Washington St. and  Prospect St.; Brooklyn Bridge",
+      "park_name": "Anchorage Plaza",
+      "zipcode": "11201"
+    },
+    {
+      "address": "BQE, Prospect St. bet. Washington St. and Adams St.",
+      "park_name": "Clumber Corner",
+      "zipcode": "11201"
+    },
+    {
+      "address": "York St., through BQE bet. Adams St. and Pearl St.",
+      "park_name": "Bar and Grill Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Pearl St. at York St. and Manh. Bridge",
+      "park_name": "Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Jay St. bet. York St. and Prospect St.",
+      "park_name": "Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Prospect St., York St. bet. Jay St. and Bridge St.",
+      "park_name": "Bridge Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Sands St., Prospect St. bet. Bridge St. and Manh. Bridge",
+      "park_name": "Bridge Park 3",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Nassau St., Sands St. bet. Manh. Bridge and Gold St.",
+      "park_name": "Trinity Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Tillary St., Park Ave., Navy St.",
+      "park_name": "Arbor Place",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Kent Ave. to Flushing Ave., bet. Williamsburg St. W. and Classon Ave., at the BQE",
+      "park_name": "Classon Playground",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Kent Ave., Classon Ave., Wallabout St.",
+      "park_name": "Classon Triangle",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Penn St., Wythe Ave., Williamsburg St. E.",
+      "park_name": "Penn Triangle",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Keap St., Bedford Ave., Williamsburg St. W.",
+      "park_name": "Park",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Marcy Ave. bet. S. 9 St. and Division St.",
+      "park_name": "Marcy Park South",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Division Ave., Rodney St., S. 9 St.",
+      "park_name": "Rodney Park South",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Broadway, Rodney St., S. 5 St.",
+      "park_name": "Rodney Park Center",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Rodney St., S. 4 St. and S. 5 St.",
+      "park_name": "Rodney Park North",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Rodney St., S. 3 St. and S. 4 St.",
+      "park_name": "Rodney Playground South",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Rodney St., S. 3 St., Borniquen Pl.",
+      "park_name": "Rodney Playground Center",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Borinquen Pl., Rodney St. and S. 1 St.",
+      "park_name": "Rodney Playground North",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Broadway, Marcy Ave. and S. 5 St.",
+      "park_name": "Marcy Green South",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Marcy Ave., S. 4 St. and S. 5 St.",
+      "park_name": "Marcy Green Center",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Marcy Ave., S. 3 St. and S. 4 St.",
+      "park_name": "Marcy Green North",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Hope St., Marcy Ave., Metropolitan Ave.",
+      "park_name": "Jaime Campiz Playground",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Metropolitan, Union, Meeker Avs",
+      "park_name": "Macri Triangle",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Jackson St., Lorimer St., Meeker Ave.",
+      "park_name": "Father Giorgio Triangle",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Graham Ave., Meeker Ave., Humbolt St., BQE",
+      "park_name": "Lentol Garden",
+      "zipcode": "11222"
+    },
+    {
+      "address": "Leonard St., Withers St., Meeker Ave.",
+      "park_name": "Badame Sessa Triangle",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Monroe St. to Madison St. between Patchen Ave. and Ralph Ave.",
+      "park_name": "P.O. Reinaldo Salgado Playground",
+      "zipcode": "11221"
+    },
+    {
+      "address": "Atlantic Ave., Herkimer St., Kingston Ave., St Andrew's Pl.",
+      "park_name": "St. Andrew's Playground",
+      "zipcode": "11216"
+    },
+    {
+      "address": "Union Ave., Meeker Ave., Jackson St.",
+      "park_name": "Mt. Carmel Triangle",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Rockaway Ave. bet. Blake Ave. and Dumont Ave.",
+      "park_name": "P.S. 125 Playground",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Mother Gaston Blvd. and Sutter Ave.",
+      "park_name": "Dr. Green Playground",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Ralph Ave., Ave. T and E. 61 St.",
+      "park_name": "Triangle",
+      "zipcode": "11234"
+    },
+    {
+      "address": "Wyckoff St. between Hoyt St. and Bond St.",
+      "park_name": "Nicholas Naquan Heyward Jr. Park",
+      "zipcode": "11217"
+    },
+    {
+      "address": "65 St., Ave. O, W. 3 St.",
+      "park_name": "Samuel Goldberg Triangle",
+      "zipcode": "11204"
+    },
+    {
+      "address": "Dean St. to Bergen St. between 6 Ave. and Carlton Ave.",
+      "park_name": "Dean Playground",
+      "zipcode": "11217"
+    },
+    {
+      "address": "Flatbush Ave. from Nassau St. to Concord St. between Bridge St. and Bridge Plaza Ct.",
+      "park_name": "Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Tilden Ave. between E. 48 St. and E. 49 St.",
+      "park_name": "Tilden Playground",
+      "zipcode": "11203"
+    },
+    {
+      "address": "Ave. V between Nostrand Ave. and Batchelder St.",
+      "park_name": "Herman Dolgon Playground",
+      "zipcode": "11229"
+    },
+    {
+      "address": "Ralph Ave. and Farragut Rd.",
+      "park_name": "Glenwood Playground",
+      "zipcode": "11234"
+    },
+    {
+      "address": "Bedford Ave., Hancock St., Jefferson Ave.",
+      "park_name": "John Hancock Playground",
+      "zipcode": "11216"
+    },
+    {
+      "address": "Ave. Z between Nostrand Ave. and E. 29 St.",
+      "park_name": "Sheepshead Playground",
+      "zipcode": "11235"
+    },
+    {
+      "address": "E. 27 St. and Emmons Ave.",
+      "park_name": "Tucker Place",
+      "zipcode": "11235"
+    },
+    {
+      "address": "Ave U, 86 St.  and W. 12 St.",
+      "park_name": "Meucci Triangle",
+      "zipcode": "11223"
+    },
+    {
+      "address": "Gold St. between Nassau St. and Concord St.",
+      "park_name": "Golconda Playground",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Mcdonald Ave. between Ave. S and Ave. T",
+      "park_name": "McDonald Playground",
+      "zipcode": "11223"
+    },
+    {
+      "address": "Troy Ave., Bergen St., Prospect Pl., Schenectady Ave.",
+      "park_name": "St. John's Park",
+      "zipcode": "11213"
+    },
+    {
+      "address": "Wortman Ave. between Jerome St. and Warwick St.",
+      "park_name": "Jerome Playground",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Louisiana Ave., Stanley Ave., Flatlands Ave., Williams Ave.",
+      "park_name": "Breukelen Ballfields",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Ave. H between E. 54 St. to E. 55 St.",
+      "park_name": "Fox Playground",
+      "zipcode": "11234"
+    },
+    {
+      "address": "Dumont Ave. between Powell St. and Mother Gaston Blvd.",
+      "park_name": "Van Dyke Playground",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Nostrand Ave. between Foster Ave. and Farragut Pl.",
+      "park_name": "Nostrand Playground",
+      "zipcode": "11210"
+    },
+    {
+      "address": "Oriental Blvd. between Ocean Ave. and Mackenzie St.",
+      "park_name": "Manhattan Beach Park",
+      "zipcode": "11235"
+    },
+    {
+      "address": "Ave. Z between W. 1 St. and West St.",
+      "park_name": "West Playground",
+      "zipcode": "11223"
+    },
+    {
+      "address": "Adelphi St., Clermont Ave., Dekalb Ave., Willoughby Ave.",
+      "park_name": "Albert J. Parham Playground",
+      "zipcode": "11205"
+    },
+    {
+      "address": "Winthrop St., Brooklyn Ave., Rutland Rd.",
+      "park_name": "Wingate Park",
+      "zipcode": "11203"
+    },
+    {
+      "address": "17 St. bet. 5 Ave. and 6 Ave.",
+      "park_name": "Purple Playground",
+      "zipcode": "11215"
+    },
+    {
+      "address": "Prospect Ave., 6 Ave., Prospect Exwy.",
+      "park_name": "Park",
+      "zipcode": "11215"
+    },
+    {
+      "address": "S/B Prospect Exwy. bet. 6 Ave., 7 Ave., and 18 St.",
+      "park_name": "Park",
+      "zipcode": "11215"
+    },
+    {
+      "address": "N/B Prospect Exwy., 17 St., bet. 6 Ave. and 7 Ave.",
+      "park_name": "Detective Joseph Mayrose Park",
+      "zipcode": "11215"
+    },
+    {
+      "address": "7 Ave. bet. 18 St. and 17 St.",
+      "park_name": "Butterfly Gardens",
+      "zipcode": "11215"
+    },
+    {
+      "address": "19 St. bet. 11 Ave. and Seeley St.",
+      "park_name": "Thomas J. Cuite Park",
+      "zipcode": "11218"
+    },
+    {
+      "address": "18 St. bet. 11 Ave. and Seeley St.",
+      "park_name": "Park",
+      "zipcode": "11218"
+    },
+    {
+      "address": "S/B Prospect Exwy. bet. Seeley St. and Vanderbilt St.",
+      "park_name": "Seeley Park",
+      "zipcode": "11218"
+    },
+    {
+      "address": "N/B Prospect Exwy. bet. Seeley St. and Greenwood Ave.",
+      "park_name": "Sitting Area",
+      "zipcode": "11218"
+    },
+    {
+      "address": "Vanderbilt St. bet. E. 4 St. and E. 5 St.",
+      "park_name": "Captain John McKenna, IV Park",
+      "zipcode": "11218"
+    },
+    {
+      "address": "Sherman St. at Ocean Pkwy.",
+      "park_name": "Park",
+      "zipcode": "11218"
+    },
+    {
+      "address": "Ocean Pkwy. at E. 8 St.",
+      "park_name": "Park",
+      "zipcode": "11218"
+    },
+    {
+      "address": "18 St. bet. 10 Ave. and Prospect Park West",
+      "park_name": "Park",
+      "zipcode": "11215"
+    },
+    {
+      "address": "Lafayette Ave between St Felix St. and Ashland Pl.",
+      "park_name": "Brooklyn Academy Of Music",
+      "zipcode": "11217"
+    },
+    {
+      "address": "Frost St. bet. Debevoise Ave. and Kingsland Ave.",
+      "park_name": "Frost Playground",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Ralph Ave. bet. Chauncey St. and Sumpter St.",
+      "park_name": "Brevoort Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "Lafayette Ave. bet. Waverly Ave. and Washington Ave.",
+      "park_name": "Underwood Park",
+      "zipcode": "11205"
+    },
+    {
+      "address": "Mother Gaston Blvd. and Glenmore Ave.",
+      "park_name": "Howard Playground",
+      "zipcode": "11212"
+    },
+    {
+      "address": "E. New York Ave. between Mother Gaston Blvd. and St. Mark's Ave.",
+      "park_name": "Howard Pool",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Livonia Ave. between Barbey St. and Schenck Ave.",
+      "park_name": "Schenck Playground",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Tompkins Ave. between Halsey St. and Macon St.",
+      "park_name": "Potomac Playground",
+      "zipcode": "11216"
+    },
+    {
+      "address": "Throop Ave. between Myrtle Ave. and Park Ave.",
+      "park_name": "Sumner Playground",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Lee Ave. between Wilson St. and Taylor St.",
+      "park_name": "Roebling Playground",
+      "zipcode": "11211"
+    },
+    {
+      "address": "6 Ave. bet. 55 St. and 56 St.",
+      "park_name": "Rainbow Playground",
+      "zipcode": "11220"
+    },
+    {
+      "address": "Franklin Ave. between Willoughby Ave. and Dekalb Ave.",
+      "park_name": "Star Spangled Playground",
+      "zipcode": "11205"
+    },
+    {
+      "address": "Winthrop St. between Rogers Ave. and Bedford Ave.",
+      "park_name": "Winthrop Playground",
+      "zipcode": "11225"
+    },
+    {
+      "address": "Public Beach, W. 29 St. and W. 32 St.",
+      "park_name": "Nautilus Playground",
+      "zipcode": "11224"
+    },
+    {
+      "address": "Lafayette Ave. bet. Stuyvesant Ave. and Malcom X Blvd.",
+      "park_name": "Jesse Owens Playground",
+      "zipcode": "11221"
+    },
+    {
+      "address": "Hegeman Ave., Linden Blvd. bet. Powell St. and Mother Gaston Blvd.",
+      "park_name": "Brownsville Playground",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Ditmas Ave. bet. E. 92 St. and E. 91 St.",
+      "park_name": "Railroad Playground",
+      "zipcode": "11236"
+    },
+    {
+      "address": "W. 11 St. at Ave. W",
+      "park_name": "Marlboro Playground",
+      "zipcode": "11223"
+    },
+    {
+      "address": "Ave. P, Madison Pl., Nostrand Ave.",
+      "park_name": "Aimee Triangle",
+      "zipcode": "11229"
+    },
+    {
+      "address": "Seaview Ave. between E. 99 St. and E. 101 St.",
+      "park_name": "Bayview Playground",
+      "zipcode": "11236"
+    },
+    {
+      "address": "Shore Pkwy., Brighton 3 St., Brighton 4 St.",
+      "park_name": "Grady Playground",
+      "zipcode": "11235"
+    },
+    {
+      "address": "Bath Ave. between Bay 22 St. and Bay 23 St.",
+      "park_name": "Benson Playground",
+      "zipcode": "11214"
+    },
+    {
+      "address": "Highland Pl. at Etna St., Forcetube Ave.",
+      "park_name": "Sam Leggio Triangle",
+      "zipcode": "11208"
+    },
+    {
+      "address": "Ave. K between E. 100 St. and E. 101 St.",
+      "park_name": "Wilson Playground",
+      "zipcode": "11236"
+    },
+    {
+      "address": "S/s Shore Pkwy between 25 Ave. and Bay 41 St.",
+      "park_name": "Nellie Bly Park",
+      "zipcode": "11214"
+    },
+    {
+      "address": "80 St. To 81 St., 11 Ave. To 12 Ave.",
+      "park_name": "Patrick O'Rourke Playground",
+      "zipcode": "11228"
+    },
+    {
+      "address": "Belmont Ave. between Forbell St. and Drew St.",
+      "park_name": "Belmont Playground",
+      "zipcode": "11208"
+    },
+    {
+      "address": "Sterling St., Empire Blvd., New York Ave., Nostrand Ave.",
+      "park_name": "Marc And Jason's Playground",
+      "zipcode": "11225"
+    },
+    {
+      "address": "Ave. D, Ditmas Ave. bet. E. 56 St. and E. 57 St.",
+      "park_name": "Harry Maze Playground",
+      "zipcode": "11203"
+    },
+    {
+      "address": "Whipple St., Bartlett St., between Throop Ave. and Flushing Ave.",
+      "park_name": "Bartlett Playground",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Nostrand Ave. between Ave. L and Ave. K",
+      "park_name": "Andries Playground",
+      "zipcode": "11210"
+    },
+    {
+      "address": "6 Ave. between 18 St. and 19 St.",
+      "park_name": "Slope Park Playground",
+      "zipcode": "11215"
+    },
+    {
+      "address": "Ave. W, W. 6 St. and 86 St.",
+      "park_name": "Cutinella Triangle",
+      "zipcode": "11223"
+    },
+    {
+      "address": "Eldert La. between Liberty Ave. and Glenmore Ave.",
+      "park_name": "Public Place",
+      "zipcode": "11208"
+    },
+    {
+      "address": "Ave. N between E. 49 St. and Utica Ave.",
+      "park_name": "Power Playground",
+      "zipcode": "11234"
+    },
+    {
+      "address": "Willoughby Ave. between Stuben St. and Emerson Pl.",
+      "park_name": "Pratt Playground",
+      "zipcode": "11205"
+    },
+    {
+      "address": "Lafayette Ave. and Classon Ave.",
+      "park_name": "Classon Playground",
+      "zipcode": "11205"
+    },
+    {
+      "address": "Malcom X Blvd. between Chauncey St. and Marion St.",
+      "park_name": "Jackie Robinson Park Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "Flushing Ave. between N. Portland Ave. and N. Oxford St.",
+      "park_name": "Oxport Playground",
+      "zipcode": "11205"
+    },
+    {
+      "address": "Surf Ave. between W. 12 St. and W. 8 St.",
+      "park_name": "Luna Playground",
+      "zipcode": "11224"
+    },
+    {
+      "address": "Albemarle Rd., Dahill Rd., Mcdonald Ave.",
+      "park_name": "Albemarle Playground",
+      "zipcode": "11218"
+    },
+    {
+      "address": "Park Ave., Martin Luther King Pl., Marcy Ave.",
+      "park_name": "Stockton Playground",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Adelphi St., Myrtle Ave., Clermont Ave.",
+      "park_name": "Oracle Playground",
+      "zipcode": "11205"
+    },
+    {
+      "address": "Greene Ave. bet. Waverly Ave. and Washington Ave.",
+      "park_name": "Greene Playground",
+      "zipcode": "11238"
+    },
+    {
+      "address": "Ellery St. at Delmonico Pl., Hopkinds St. bet. Tompkins Ave. and Throop Ave.",
+      "park_name": "Charlie's Place",
+      "zipcode": "11206"
+    },
+    {
+      "address": "E. 93 St. to E. 94 St., between Lenox Rd. and Clarkson Ave.",
+      "park_name": "Kennedy King Playground",
+      "zipcode": "11212"
+    },
+    {
+      "address": "E. 103 St. to E. 104 St. between Ave. J and Ave. K",
+      "park_name": "P.S. 279 Playground",
+      "zipcode": "11236"
+    },
+    {
+      "address": "Ave. Y between Brown St. and Haring St.",
+      "park_name": "Playground 286",
+      "zipcode": "11235"
+    },
+    {
+      "address": "Evergreen Ave. between Eldert St. and Covert St.",
+      "park_name": "Tiger Playground",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Ave. Y between Coyle St. and Batchelder St.",
+      "park_name": "Yak Playground",
+      "zipcode": "11235"
+    },
+    {
+      "address": "Stanley Ave. and Eldert La.",
+      "park_name": "Pink Playground",
+      "zipcode": "11208"
+    },
+    {
+      "address": "Flushing Ave. bet.. Beaver St. and Garden St.",
+      "park_name": "Bushwick Playground",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Scholes St bet. Bushwick Av and Waterbury St",
+      "park_name": "Ten Eyck Playground",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Stanley Ave. between Autumn Ave. and Hemlock St.",
+      "park_name": "Woodruff Playground",
+      "zipcode": "11208"
+    },
+    {
+      "address": "Macdonough St. between Malcolm X Blvd. and Stuyvesant Ave.",
+      "park_name": "El Shabazz Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "Surf Ave. between W. 25 St. and W. 27 St.",
+      "park_name": "Surf Playground",
+      "zipcode": "11224"
+    },
+    {
+      "address": "Ave. F bet. McDonald Ave. and E. 2 St.",
+      "park_name": "DiGilio Playground",
+      "zipcode": "11218"
+    },
+    {
+      "address": "Lafayette Ave. and Franklin Ave.",
+      "park_name": "Lafayette Gardens Playground",
+      "zipcode": "11205"
+    },
+    {
+      "address": "Berkeley Pl. and Lincoln Pl. between 5 Ave. and 6 Ave.",
+      "park_name": "Park Slope Playground",
+      "zipcode": "11217"
+    },
+    {
+      "address": "Dekalb Ave. between Adelphi St. and Carlton Ave.",
+      "park_name": "Edmonds Playground",
+      "zipcode": "11205"
+    },
+    {
+      "address": "Hart St. to Pulaski St. between Throop Ave. and Marcus Garvey Blvd.",
+      "park_name": "Pulaski Playground",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Monroe St. to Madison St. between Marcy Ave. and Tompkins Ave.",
+      "park_name": "Hattie Carthan Playground",
+      "zipcode": "11216"
+    },
+    {
+      "address": "Ave. K between E. 58 St. and E. 59 St.",
+      "park_name": "Jacob Joffe Fields",
+      "zipcode": "11234"
+    },
+    {
+      "address": "Fulton St. between Saratoga Ave. and Hopkinson Ave.",
+      "park_name": "Fish Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "Clinton St. between Verandah Pl. and Congress St.",
+      "park_name": "Cobble Hill Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Strickland Ave. between Mill Ave. and E. 60 Pl.",
+      "park_name": "Lindower Park",
+      "zipcode": "11234"
+    },
+    {
+      "address": "Veterans Ave. between E. 66 St. and E 68 St.",
+      "park_name": "Hickman Playground",
+      "zipcode": "11234"
+    },
+    {
+      "address": "W. 12 St. between Neptune Ave. and Surf Ave.",
+      "park_name": "Neptune Playground",
+      "zipcode": "11224"
+    },
+    {
+      "address": "Decatur St. to Schaefer St. between Bushwick Ave. and Evergreen Ave.",
+      "park_name": "Evergreen Playground",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Central Ave., Troutman St. and Starr St.",
+      "park_name": "Fermi Playground",
+      "zipcode": "11221"
+    },
+    {
+      "address": "Flatlands Ave. between E. 81 St. and E. 82 St.",
+      "park_name": "Bildersee Playground",
+      "zipcode": "11236"
+    },
+    {
+      "address": "Surf Ave. to the Boardwalk between W. 19 St. and W. 20 St.",
+      "park_name": "Abe Stark Skating Rink",
+      "zipcode": "11224"
+    },
+    {
+      "address": "W. Brighton Ave. between W. 2 St. and W. 3 St.",
+      "park_name": "Century Playground",
+      "zipcode": "11224"
+    },
+    {
+      "address": "Ft Hamilton Pkwy., 83 St., 6 Ave.",
+      "park_name": "Tom McDonald Triangle",
+      "zipcode": "11209"
+    },
+    {
+      "address": "Riverdale Ave. bet. Thatford Ave. and Osborn St.",
+      "park_name": "Newport Playground",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Flushing Ave. between Beaver St. and Garden St.",
+      "park_name": "Garden Playground",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Glenwood Rd. between E. 100 St. and E. 101 St.",
+      "park_name": "100% Playground",
+      "zipcode": "11236"
+    },
+    {
+      "address": "Linden Blvd., Osborn St., Rockaway Ave., Hegeman Ave.",
+      "park_name": "Osborn Playground",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Wortman Ave. between Vermont St. and New Jersey Ave.",
+      "park_name": "Ethan Allen Playground",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Manhattan Ave. and Leonard St.",
+      "park_name": "Ericsson Playground",
+      "zipcode": "11222"
+    },
+    {
+      "address": "Sumpter St. to Marion St. between Howard Ave. and Ralph Ave. ",
+      "park_name": "Carver Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "Tompkins Ave., Willoughby Ave., Vernon Ave.",
+      "park_name": "Willoughby Playground",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Bath Ave. between 24 Ave. and Bay 37 St.",
+      "park_name": "Bath Playground",
+      "zipcode": "11214"
+    },
+    {
+      "address": "Sterling Pl. to Park Pl. between Classon Ave. and Washington Ave.",
+      "park_name": "Stroud Playground",
+      "zipcode": "11238"
+    },
+    {
+      "address": "Marcy Ave. between Kosciuszko St. and Dekalb Ave.",
+      "park_name": "Kosciuszko Pool",
+      "zipcode": "11216"
+    },
+    {
+      "address": "Foster Ave. between E. 81 St. and E. 82 St.",
+      "park_name": "Curtis Playground",
+      "zipcode": "11236"
+    },
+    {
+      "address": "E. 71 St. between Ave. N and Ave. T",
+      "park_name": "Bergen Beach Playground",
+      "zipcode": "11234"
+    },
+    {
+      "address": "Pacific St. between Nevins St. and 3 Ave.",
+      "park_name": "North Pacific Playground",
+      "zipcode": "11217"
+    },
+    {
+      "address": "Montgomery St. between Franklin Ave. and McKeever Pl.",
+      "park_name": "Jackie Robinson Playground",
+      "zipcode": "11225"
+    },
+    {
+      "address": "Harrison Ave. between Walton St. and Lorimer St.",
+      "park_name": "De Hostos Playground",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Kosciuszko St. to Dekalb Ave. between Lewis Ave. and Stuyvesant Ave.",
+      "park_name": "Eleanor Roosevelt Playground",
+      "zipcode": "11221"
+    },
+    {
+      "address": "Remsen Ave. and Glenwood Rd.",
+      "park_name": "Remsen Playground",
+      "zipcode": "11236"
+    },
+    {
+      "address": "Warren St. to Baltic St. between Hoyt St. and Smith St.",
+      "park_name": "Boerum Park",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Chester St. to Bristol St. between Sutter Ave. and Pitkin Ave.",
+      "park_name": "Chester Playground",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Glenmore Ave. between Powell St. and Sackman St.",
+      "park_name": "Houston Playground",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Bergen St., Utica Ave., Rochester Ave., St Mark's Ave.",
+      "park_name": "Woods Playground",
+      "zipcode": "11213"
+    },
+    {
+      "address": "New Jersey Ave. between Blake Ave. and Dumont Ave.",
+      "park_name": "Duke Park",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Livonia Ave. between Powell St. and Junius St.",
+      "park_name": "Livonia Park",
+      "zipcode": "11212"
+    },
+    {
+      "address": "W. 10 St. between Surf Ave. and Public Beach",
+      "park_name": "The Cyclone",
+      "zipcode": "11224"
+    },
+    {
+      "address": "Surf Ave. between W. 16 St. and W. 19 St., Public Beach",
+      "park_name": "Steeplechase Park",
+      "zipcode": "11224"
+    },
+    {
+      "address": "Shore Pkwy and Seaview Ave., Schenk Ave.",
+      "park_name": "Spring Creek Park",
+      "zipcode": "11208, 11239, 11414"
+    },
+    {
+      "address": "Ave. L, E. 4 St., Mcdonald Ave., Ave. M",
+      "park_name": "Friends Field",
+      "zipcode": "11230"
+    },
+    {
+      "address": "Farragut Rd. between E. 45 St. and E. 46 St.",
+      "park_name": "Chiarantano Playground",
+      "zipcode": "11203"
+    },
+    {
+      "address": "E. 59 St.,Ditmas Ave., Clarendon Rd., Ralph Ave.",
+      "park_name": "Fidler-Wyckoff House Park",
+      "zipcode": "11203"
+    },
+    {
+      "address": "Christopher Ave., Riverdale Ave., Newport St., Mother Gaston Blvd.",
+      "park_name": "Floyd Patterson Ballfields",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Flatbush Ave. at Fleet St.",
+      "park_name": "University Place",
+      "zipcode": "11201"
+    },
+    {
+      "address": "Bay View Ave. between Sea Gate Ave. and W. 33 St.",
+      "park_name": "Coney Island Creek Park",
+      "zipcode": "11224"
+    },
+    {
+      "address": "Belmont Ave., Sutter Ave., Sheridan Ave. and Grant Ave.",
+      "park_name": "Robert E. Venable Park",
+      "zipcode": "11208"
+    },
+    {
+      "address": "Broadway between Granite St. and Aberdeen St.",
+      "park_name": "Thomas Boyland Park",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Division Ave. between Wythe Ave. and Kent Ave.",
+      "park_name": "Roberto Clemente Ballfield",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Clymer St. to Morton St. between Kent Ave. and Wythe Ave.",
+      "park_name": "Jacob's Ladder Playground",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Flatlands Ave, Louisiana Ave., E 108 St. and Belt Parkway",
+      "park_name": "Fresh Creek Nature Preserve",
+      "zipcode": "11236, 11239"
+    },
+    {
+      "address": "West St. bet. Kent St. and Greenpoint Ave.",
+      "park_name": "WNYC Transmitter Park",
+      "zipcode": "11222"
+    },
+    {
+      "address": "Ten Eyck St. to Stagg St. between Lorimer St. and Union Ave.",
+      "park_name": "Ten Eyck Plaza",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Hopkinson Ave. bet. Pacific St. and Dean St.",
+      "park_name": "Hilltop Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "Vanderbilt Ave., Gates Ave. and Fulton St.",
+      "park_name": "Gateway Triangle",
+      "zipcode": "11238"
+    },
+    {
+      "address": "Woodruff Ave. and Ocean Ave.",
+      "park_name": "Umma Park",
+      "zipcode": "11226"
+    },
+    {
+      "address": "President St. and Van Brunt St.",
+      "park_name": "Mother Cabrini Park",
+      "zipcode": "11231"
+    },
+    {
+      "address": "Argyle Rd. and Cortelyou Rd.",
+      "park_name": "Lt. Federico Narvaez Tot Lot",
+      "zipcode": "11226"
+    },
+    {
+      "address": "Emmons Ave. bet. Ocean Ave. and E. 26 St.",
+      "park_name": "Sheepshead Bay Piers",
+      "zipcode": "11235"
+    },
+    {
+      "address": "Flatbush Ave., Belt Pkwy., Mill Basin",
+      "park_name": "Four Sparrow Marsh",
+      "zipcode": "11234"
+    },
+    {
+      "address": "Flushing Ave., Central Ave., Noll St., Evergreen Ave.",
+      "park_name": "Green Central Knoll",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Watkins St., Mother Gaston Blvd., Livonia Ave., Riverdale Ave.",
+      "park_name": "Nehemiah Park",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Christopher Ave. between Sutter Ave. and Belmont Ave.",
+      "park_name": "Carter G. Woodson Children's Park",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Marcy Ave between Clifton Pl. and Lafayette Ave.",
+      "park_name": "Hattie Carthan Community Garden",
+      "zipcode": "11216"
+    },
+    {
+      "address": "Grand St. at River St. ",
+      "park_name": "Grand Ferry Park",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Wyona St. to Vermont St. between Fulton St. and Jamaica Ave.",
+      "park_name": "George Walker Jr. Park",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Troy Ave. to Schenectady Ave. between Atlantic Ave. and Herkimer St.",
+      "park_name": "Harmony Park",
+      "zipcode": "11213"
+    },
+    {
+      "address": "E. 94 St. bet. Rutland Rd. and E. New York Ave.",
+      "park_name": "East Flatbush Children's Playground",
+      "zipcode": "11212"
+    },
+    {
+      "address": "Berry St. between S. 9 St. and S. 10 St.",
+      "park_name": "Epiphany Playground",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Bergen Ave., E. 76 St., Paerdegat Ave. North",
+      "park_name": "Paerdegat Basin Park",
+      "zipcode": "11234, 11236"
+    },
+    {
+      "address": "S. Oxford St. bet. Commos and Atlantic Ave.",
+      "park_name": "South Oxford Park",
+      "zipcode": "11217"
+    },
+    {
+      "address": "Ferris St. between Coffey St. and Van Dyke St. ",
+      "park_name": "Valentino Pier",
+      "zipcode": "11231"
+    },
+    {
+      "address": "Belmont Ave. to Sutter Ave. between Schenck Ave. and Barbey St.",
+      "park_name": "Sutter Ballfields",
+      "zipcode": "11207"
+    },
+    {
+      "address": "Knickerbocker Ave. between Grove St. and Menahan St.",
+      "park_name": "Hope Ballfield",
+      "zipcode": "11237"
+    },
+    {
+      "address": "Willoughby Ave. between Lewis Ave. and Marcus Garvey Blvd.",
+      "park_name": "Lewis Playground",
+      "zipcode": "11206"
+    },
+    {
+      "address": "Furman St.,Water St. and John St. bet. Atlantic Ave.,Old Fulton St.,Main St.,Adams St., and Jay St.",
+      "park_name": "Brooklyn Bridge Park",
+      "zipcode": "11201, 11201, 11201, 11201, 11201"
+    },
+    {
+      "address": "Bay Ridge Ave., Shore Rd., Upper Bay",
+      "park_name": "American Veterans Memorial Pier",
+      "zipcode": "11220"
+    },
+    {
+      "address": "E. 35 St. to E. 36 St. between Fillmore Ave. and Ave. S",
+      "park_name": "Hendrick I. Lott House",
+      "zipcode": "11234"
+    },
+    {
+      "address": "Van Sicklen St. to McDonald Ave. between Village Rd. and Gravesend Neck Rd.",
+      "park_name": "Old Gravesend Cemetery",
+      "zipcode": "11223"
+    },
+    {
+      "address": "Kent Ave. bet. Quay St. and N 9 St.",
+      "park_name": "Bushwick Inlet Park",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Kent Ave. bet. N. 4 St. and N. 6 St.",
+      "park_name": "North 5th Street Pier and Park",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Grand Ave. bet. Putnam Ave. and Fulton St.",
+      "park_name": "Park",
+      "zipcode": "11238"
+    },
+    {
+      "address": "Grand Ave. bet. Putnam Ave. and Fulton St.",
+      "park_name": "Park",
+      "zipcode": "11238"
+    },
+    {
+      "address": "East River and Kent Ave. between S. 9th St. and S. 10 St.",
+      "park_name": "Schaefer Landing",
+      "zipcode": "11211"
+    },
+    {
+      "address": "Maple St. bet. Rogers Ave. and Nostrand Ave.",
+      "park_name": "Park",
+      "zipcode": "11225"
+    },
+    {
+      "address": "Commercial St. bet. Franklin St. and Clay St.",
+      "park_name": "Greenpoint Landing",
+      "zipcode": "11222"
+    },
+    {
+      "address": "Shore Blvd. and Emmons Ave.. Neptune Ave.",
+      "park_name": "Holocaust Memorial Park",
+      "zipcode": "11235"
+    },
+    {
+      "address": "Marginal St. bet. 44 St. and 50 St.",
+      "park_name": "Bush Terminal Park",
+      "zipcode": "11232"
+    }
+  ]
+}

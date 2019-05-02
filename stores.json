@@ -1,0 +1,1316 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "ud4g-9x9z",
+      "name" : "Recognized Shop Healthy Stores",
+      "attribution" : "Department of Health and Mental Hygiene",
+      "averageRating" : 0,
+      "category" : "Health",
+      "createdAt" : 1534516179,
+      "description" : "Bodegas & Grocery Stores Receiving Recognition from Borough President's Office\n\nEach year, bodegas and grocery stores located in and around  Action Center catchment areas participate in the Shop Healthy NYC program's Retail Challenge to increase (1) availability of healthier foods, such as low-sodium canned goods, healthier snacks and deli options; (2) promotion of healthier foods by posting Shop Healthy marketing materials for healthier foods and removing unhealthy advertising from the front door; and (3) visibility of healthier foods by placing them in more prominent locations, such as placing produce at the checkout counter or near the front entrance of the store, and water and other low-calorie drinks at eye-level. Stores that have implemented all of the program’s criteria at the conclusion of the Retail Challenge, and maintain them for at least one month, receive a recognition award from the Borough President's Office to acknowledge their efforts and dedication to make the healthy choice, the easier choice for their communities.\n\nThis is a manually compiled list of stores, which is based on data collected through implementation checklists; these are forms completed by Shop Healthy staff as part of store observations that track whether each criteria has been met. At this time, the program does not have processes in place to ensure that stores maintain the changes past one-month.",
+      "displayType" : "table",
+      "downloadCount" : 242,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1538486456,
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 29545655,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1534954924,
+      "publicationGroup" : 15458029,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1538486086,
+      "rowsUpdatedBy" : "5fuc-pqz2",
+      "tableId" : 15467746,
+      "totalTimesRated" : 0,
+      "viewCount" : 942,
+      "viewLastModified" : 1538486447,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 372105959,
+        "name" : "Store Name",
+        "dataTypeName" : "text",
+        "description" : "Name of grocery store or supermarket that was awarded the proclamation",
+        "fieldName" : "store_name",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 68475882,
+        "cachedContents" : {
+          "largest" : "ZAEL DELI & GROCERY",
+          "non_null" : 294,
+          "null" : 0,
+          "top" : [ {
+            "item" : "Third Avenue Gourmet",
+            "count" : 20
+          }, {
+            "item" : "Cherry Valley Supermarket",
+            "count" : 19
+          }, {
+            "item" : "El Barrio Superette",
+            "count" : 18
+          }, {
+            "item" : "New King Deli Grocery Corp.",
+            "count" : 17
+          }, {
+            "item" : "Little Mexico Meat Grocery",
+            "count" : 16
+          }, {
+            "item" : "Paniagua Deli Grocery",
+            "count" : 15
+          }, {
+            "item" : "JJ Food Market",
+            "count" : 14
+          } ],
+          "smallest" : ".NYC Fresh Market"
+        },
+        "format" : { }
+      }, {
+        "id" : 372105960,
+        "name" : "Street Address",
+        "dataTypeName" : "text",
+        "description" : "Address of store that was awarded the proclamation",
+        "fieldName" : "street_address",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 68475868,
+        "cachedContents" : {
+          "largest" : "994",
+          "non_null" : 294,
+          "null" : 0,
+          "top" : [ {
+            "item" : "2121",
+            "count" : 20
+          }, {
+            "item" : "2105",
+            "count" : 19
+          }, {
+            "item" : "1635",
+            "count" : 18
+          }, {
+            "item" : "23",
+            "count" : 17
+          }, {
+            "item" : "2119",
+            "count" : 16
+          }, {
+            "item" : "203",
+            "count" : 15
+          }, {
+            "item" : "153",
+            "count" : 14
+          } ],
+          "smallest" : "10"
+        },
+        "format" : { }
+      }, {
+        "id" : 372105961,
+        "name" : "Address",
+        "dataTypeName" : "text",
+        "description" : "The address of the store receiving the proclamation. ",
+        "fieldName" : "address",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 68475881,
+        "cachedContents" : {
+          "largest" : "Winthrop St",
+          "non_null" : 294,
+          "null" : 0,
+          "top" : [ {
+            "item" : "Fulton Street",
+            "count" : 20
+          }, {
+            "item" : "Lexington Avenue",
+            "count" : 19
+          }, {
+            "item" : "2nd Avenue",
+            "count" : 18
+          }, {
+            "item" : "Rockaway Ave",
+            "count" : 17
+          }, {
+            "item" : "Hegeman Ave",
+            "count" : 16
+          }, {
+            "item" : "Church Ave",
+            "count" : 15
+          }, {
+            "item" : "Mother Gaston Blvd",
+            "count" : 14
+          }, {
+            "item" : "Belmont Ave",
+            "count" : 13
+          }, {
+            "item" : "Pitkin Ave",
+            "count" : 12
+          }, {
+            "item" : "E New York Ave",
+            "count" : 11
+          }, {
+            "item" : "2nd Ave",
+            "count" : 10
+          }, {
+            "item" : "1st Ave",
+            "count" : 9
+          }, {
+            "item" : "Madison Ave",
+            "count" : 8
+          }, {
+            "item" : "E 112th St.",
+            "count" : 7
+          }, {
+            "item" : "3rd Ave",
+            "count" : 6
+          }, {
+            "item" : "Lexington Ave",
+            "count" : 5
+          }, {
+            "item" : "East 106th St.",
+            "count" : 4
+          }, {
+            "item" : "Park Ave",
+            "count" : 3
+          }, {
+            "item" : "Third Ave",
+            "count" : 2
+          }, {
+            "item" : "East 115th St.",
+            "count" : 1
+          } ],
+          "smallest" : "110th St."
+        },
+        "format" : { }
+      }, {
+        "id" : 372105962,
+        "name" : "Borough",
+        "dataTypeName" : "text",
+        "description" : "The NYC borough in which the store receiving the proclamation is located. ",
+        "fieldName" : "borough",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 68475880,
+        "cachedContents" : {
+          "largest" : "New York",
+          "non_null" : 294,
+          "null" : 0,
+          "top" : [ {
+            "item" : "Bronx",
+            "count" : 20
+          }, {
+            "item" : "Brooklyn",
+            "count" : 19
+          }, {
+            "item" : "New York",
+            "count" : 18
+          } ],
+          "smallest" : "Bronx"
+        },
+        "format" : { }
+      }, {
+        "id" : 372105975,
+        "name" : "Zip \nCode",
+        "dataTypeName" : "text",
+        "description" : "The 5-Digit zip code in which the store receiving the proclamation is located. ",
+        "fieldName" : "zip_code",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 68609557,
+        "cachedContents" : {
+          "largest" : "11212",
+          "non_null" : 294,
+          "null" : 0,
+          "top" : [ {
+            "item" : "10458",
+            "count" : 20
+          }, {
+            "item" : "10460",
+            "count" : 19
+          }, {
+            "item" : "10459",
+            "count" : 18
+          }, {
+            "item" : "10455",
+            "count" : 17
+          }, {
+            "item" : "10474",
+            "count" : 16
+          }, {
+            "item" : "11208",
+            "count" : 15
+          }, {
+            "item" : "10457",
+            "count" : 14
+          }, {
+            "item" : "11207",
+            "count" : 13
+          }, {
+            "item" : "10029",
+            "count" : 12
+          }, {
+            "item" : "10456",
+            "count" : 11
+          }, {
+            "item" : "10035",
+            "count" : 10
+          }, {
+            "item" : "11212",
+            "count" : 9
+          } ],
+          "smallest" : "10029"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 372105974,
+        "name" : "Year Awarded",
+        "dataTypeName" : "text",
+        "description" : "The specific year in which the store received a proclamation award. ",
+        "fieldName" : "year_awarded",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 68609556,
+        "cachedContents" : {
+          "largest" : "2017",
+          "non_null" : 294,
+          "null" : 0,
+          "top" : [ {
+            "item" : "2013",
+            "count" : 20
+          }, {
+            "item" : "2014",
+            "count" : 19
+          }, {
+            "item" : "2015",
+            "count" : 18
+          }, {
+            "item" : "2016",
+            "count" : 17
+          }, {
+            "item" : "2017",
+            "count" : 16
+          } ],
+          "smallest" : "2013"
+        },
+        "format" : { }
+      }, {
+        "id" : 372105965,
+        "name" : "Program \nWave",
+        "dataTypeName" : "number",
+        "description" : "The specific year of the program in which the store was a participant.",
+        "fieldName" : "program_wave",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 68475877,
+        "cachedContents" : {
+          "largest" : "5",
+          "non_null" : 294,
+          "average" : "3.462585034013605",
+          "null" : 0,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          }, {
+            "item" : "2",
+            "count" : 19
+          }, {
+            "item" : "3",
+            "count" : 18
+          }, {
+            "item" : "4",
+            "count" : 17
+          }, {
+            "item" : "5",
+            "count" : 16
+          } ],
+          "smallest" : "1",
+          "sum" : "1018"
+        },
+        "format" : { }
+      }, {
+        "id" : 372105966,
+        "name" : "Latitude",
+        "dataTypeName" : "number",
+        "description" : "Latitude of the store's location. ",
+        "fieldName" : "latitude",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 68475876,
+        "cachedContents" : {
+          "largest" : "40.866359",
+          "non_null" : 280,
+          "average" : "40.77544557857143",
+          "null" : 14,
+          "top" : [ {
+            "item" : "40.787585",
+            "count" : 20
+          }, {
+            "item" : "40.786124",
+            "count" : 19
+          }, {
+            "item" : "40.791007",
+            "count" : 18
+          }, {
+            "item" : "40.790581",
+            "count" : 17
+          }, {
+            "item" : "40.795008",
+            "count" : 16
+          }, {
+            "item" : "40.794249",
+            "count" : 15
+          }, {
+            "item" : "40.791658",
+            "count" : 14
+          }, {
+            "item" : "40.793056",
+            "count" : 13
+          }, {
+            "item" : "40.793985",
+            "count" : 12
+          }, {
+            "item" : "40.796457",
+            "count" : 11
+          }, {
+            "item" : "40.792642",
+            "count" : 10
+          }, {
+            "item" : "40.792853",
+            "count" : 9
+          }, {
+            "item" : "40.795771",
+            "count" : 8
+          }, {
+            "item" : "40.796145",
+            "count" : 7
+          }, {
+            "item" : "40.788417",
+            "count" : 6
+          }, {
+            "item" : "40.789717",
+            "count" : 5
+          }, {
+            "item" : "40.789379",
+            "count" : 4
+          }, {
+            "item" : "40.790544",
+            "count" : 3
+          }, {
+            "item" : "40.79131",
+            "count" : 2
+          }, {
+            "item" : "40.792765",
+            "count" : 1
+          } ],
+          "smallest" : "40.654327",
+          "sum" : "11417.124762"
+        },
+        "format" : { }
+      }, {
+        "id" : 372105967,
+        "name" : "Longitude",
+        "dataTypeName" : "number",
+        "description" : "Longitude of the store's location. ",
+        "fieldName" : "longitude",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 68475875,
+        "cachedContents" : {
+          "largest" : "-73.864858",
+          "non_null" : 280,
+          "average" : "-73.90866373928571",
+          "null" : 14,
+          "top" : [ {
+            "item" : "-73.944655",
+            "count" : 20
+          }, {
+            "item" : "-73.942594",
+            "count" : 19
+          }, {
+            "item" : "-73.939069",
+            "count" : 18
+          }, {
+            "item" : "-73.948343",
+            "count" : 17
+          }, {
+            "item" : "-73.948495",
+            "count" : 16
+          }, {
+            "item" : "-73.939799",
+            "count" : 15
+          }, {
+            "item" : "-73.938591",
+            "count" : 14
+          }, {
+            "item" : "-73.94067",
+            "count" : 13
+          }, {
+            "item" : "-73.942905",
+            "count" : 12
+          }, {
+            "item" : "-73.947439",
+            "count" : 11
+          }, {
+            "item" : "-73.940956",
+            "count" : 10
+          }, {
+            "item" : "-73.940822",
+            "count" : 9
+          }, {
+            "item" : "-73.946725",
+            "count" : 8
+          }, {
+            "item" : "-73.943676",
+            "count" : 7
+          }, {
+            "item" : "-73.94096",
+            "count" : 6
+          }, {
+            "item" : "-73.943111",
+            "count" : 5
+          }, {
+            "item" : "-73.943332",
+            "count" : 4
+          }, {
+            "item" : "-73.94541100000001",
+            "count" : 3
+          }, {
+            "item" : "-73.946949",
+            "count" : 2
+          }, {
+            "item" : "-73.945886",
+            "count" : 1
+          } ],
+          "smallest" : "-73.950144",
+          "sum" : "-20694.42584700000001"
+        },
+        "format" : { }
+      }, {
+        "id" : 372105968,
+        "name" : "Community Board",
+        "dataTypeName" : "number",
+        "description" : "The Community Board field indicates the New York City Community District where the store is located.",
+        "fieldName" : "community_board",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 68475874,
+        "cachedContents" : {
+          "largest" : "17",
+          "non_null" : 280,
+          "average" : "8.182142857142857",
+          "null" : 14,
+          "top" : [ {
+            "item" : "6",
+            "count" : 20
+          }, {
+            "item" : "3",
+            "count" : 19
+          }, {
+            "item" : "5",
+            "count" : 18
+          }, {
+            "item" : "2",
+            "count" : 17
+          }, {
+            "item" : "7",
+            "count" : 16
+          }, {
+            "item" : "1",
+            "count" : 15
+          }, {
+            "item" : "4",
+            "count" : 14
+          }, {
+            "item" : "11",
+            "count" : 13
+          }, {
+            "item" : "16",
+            "count" : 12
+          }, {
+            "item" : "17",
+            "count" : 11
+          } ],
+          "smallest" : "1",
+          "sum" : "2291"
+        },
+        "format" : { }
+      }, {
+        "id" : 372105969,
+        "name" : "Council District",
+        "dataTypeName" : "number",
+        "description" : "The Council District field indicates the New York City Council District where the store is located.",
+        "fieldName" : "council_district",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 68475873,
+        "cachedContents" : {
+          "largest" : "42",
+          "non_null" : 280,
+          "average" : "21.45714285714286",
+          "null" : 14,
+          "top" : [ {
+            "item" : "15",
+            "count" : 20
+          }, {
+            "item" : "17",
+            "count" : 19
+          }, {
+            "item" : "16",
+            "count" : 18
+          }, {
+            "item" : "8",
+            "count" : 17
+          }, {
+            "item" : "37",
+            "count" : 16
+          }, {
+            "item" : "42",
+            "count" : 15
+          }, {
+            "item" : "5",
+            "count" : 14
+          }, {
+            "item" : "9",
+            "count" : 13
+          }, {
+            "item" : "41",
+            "count" : 12
+          } ],
+          "smallest" : "5",
+          "sum" : "6008"
+        },
+        "format" : { }
+      }, {
+        "id" : 372105970,
+        "name" : "Census Tract",
+        "dataTypeName" : "number",
+        "description" : "The Census Tract field indicates the U.S. Census Tract where the store is located.",
+        "fieldName" : "census_tract",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 68475872,
+        "cachedContents" : {
+          "largest" : "118201",
+          "non_null" : 280,
+          "average" : "7336.489285714286",
+          "null" : 14,
+          "top" : [ {
+            "item" : "385",
+            "count" : 20
+          }, {
+            "item" : "23502",
+            "count" : 19
+          }, {
+            "item" : "169",
+            "count" : 18
+          }, {
+            "item" : "188",
+            "count" : 17
+          }, {
+            "item" : "166",
+            "count" : 16
+          }, {
+            "item" : "22902",
+            "count" : 15
+          }, {
+            "item" : "379",
+            "count" : 14
+          }, {
+            "item" : "37504",
+            "count" : 13
+          }, {
+            "item" : "381",
+            "count" : 12
+          }, {
+            "item" : "924",
+            "count" : 11
+          }, {
+            "item" : "916",
+            "count" : 10
+          }, {
+            "item" : "918",
+            "count" : 9
+          }, {
+            "item" : "908",
+            "count" : 8
+          }, {
+            "item" : "900",
+            "count" : 7
+          }, {
+            "item" : "892",
+            "count" : 6
+          }, {
+            "item" : "890",
+            "count" : 5
+          }, {
+            "item" : "888",
+            "count" : 4
+          }, {
+            "item" : "906",
+            "count" : 3
+          }, {
+            "item" : "910",
+            "count" : 2
+          }, {
+            "item" : "170",
+            "count" : 1
+          } ],
+          "smallest" : "35",
+          "sum" : "2054217"
+        },
+        "format" : { }
+      }, {
+        "id" : 372105971,
+        "name" : "BIN",
+        "dataTypeName" : "number",
+        "description" : "The BIN (store Identification Number) is a unique identifier for each store in the City.",
+        "fieldName" : "bin",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 68475871,
+        "cachedContents" : {
+          "largest" : "3402540",
+          "non_null" : 276,
+          "average" : "2139329.057971014",
+          "null" : 18,
+          "top" : [ {
+            "item" : "1051581",
+            "count" : 20
+          }, {
+            "item" : "1052504",
+            "count" : 19
+          }, {
+            "item" : "1052837",
+            "count" : 18
+          }, {
+            "item" : "1052444",
+            "count" : 17
+          }, {
+            "item" : "1052445",
+            "count" : 16
+          }, {
+            "item" : "1085254",
+            "count" : 15
+          }, {
+            "item" : "1052825",
+            "count" : 14
+          }, {
+            "item" : "1052439",
+            "count" : 13
+          }, {
+            "item" : "1051617",
+            "count" : 12
+          }, {
+            "item" : "1087212",
+            "count" : 11
+          }, {
+            "item" : "1087780",
+            "count" : 10
+          }, {
+            "item" : "1052391",
+            "count" : 9
+          }, {
+            "item" : "1052702",
+            "count" : 8
+          }, {
+            "item" : "1052399",
+            "count" : 7
+          }, {
+            "item" : "1051980",
+            "count" : 6
+          }, {
+            "item" : "1052050",
+            "count" : 5
+          }, {
+            "item" : "1051897",
+            "count" : 4
+          }, {
+            "item" : "1089312",
+            "count" : 3
+          }, {
+            "item" : "1051514",
+            "count" : 2
+          }, {
+            "item" : "1051884",
+            "count" : 1
+          } ],
+          "smallest" : "1051507",
+          "sum" : "590454820"
+        },
+        "format" : { }
+      }, {
+        "id" : 372105972,
+        "name" : "BBL",
+        "dataTypeName" : "number",
+        "description" : "The BBL (Borough, Block, and Lot) is a unique identifier for each tax lot in the City.",
+        "fieldName" : "bbl",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 68475870,
+        "cachedContents" : {
+          "largest" : "3046920044",
+          "non_null" : 276,
+          "average" : "2101627616.398551",
+          "null" : 18,
+          "top" : [ {
+            "item" : "1016140014",
+            "count" : 20
+          }, {
+            "item" : "1016610027",
+            "count" : 19
+          }, {
+            "item" : "1016810023",
+            "count" : 18
+          }, {
+            "item" : "1016590028",
+            "count" : 17
+          }, {
+            "item" : "1016590045",
+            "count" : 16
+          }, {
+            "item" : "1016160001",
+            "count" : 15
+          }, {
+            "item" : "1016810001",
+            "count" : 14
+          }, {
+            "item" : "1016590023",
+            "count" : 13
+          }, {
+            "item" : "1016160035",
+            "count" : 12
+          }, {
+            "item" : "1016390057",
+            "count" : 11
+          }, {
+            "item" : "1016767504",
+            "count" : 10
+          }, {
+            "item" : "1016540027",
+            "count" : 9
+          }, {
+            "item" : "1016760001",
+            "count" : 8
+          }, {
+            "item" : "1016540045",
+            "count" : 7
+          }, {
+            "item" : "1016320053",
+            "count" : 6
+          }, {
+            "item" : "1016340049",
+            "count" : 5
+          }, {
+            "item" : "1016300053",
+            "count" : 4
+          }, {
+            "item" : "1016317501",
+            "count" : 3
+          }, {
+            "item" : "1016120001",
+            "count" : 2
+          }, {
+            "item" : "1016300021",
+            "count" : 1
+          } ],
+          "smallest" : "1016100058",
+          "sum" : "580049222126"
+        },
+        "format" : { }
+      }, {
+        "id" : 372105973,
+        "name" : "NTA",
+        "dataTypeName" : "text",
+        "description" : "The Neighborhood Tabulation Area field indicates the New York City Neighborhood area where the store is located.",
+        "fieldName" : "nta",
+        "position" : 15,
+        "renderTypeName" : "text",
+        "tableColumnId" : 68475869,
+        "cachedContents" : {
+          "largest" : "Rugby-Remsen Village",
+          "non_null" : 280,
+          "null" : 14,
+          "top" : [ {
+            "item" : "Belmont",
+            "count" : 20
+          }, {
+            "item" : "Crotona Park East",
+            "count" : 19
+          }, {
+            "item" : "East Tremont",
+            "count" : 18
+          }, {
+            "item" : "Bedford Park-Fordham North",
+            "count" : 17
+          }, {
+            "item" : "Hunts Point",
+            "count" : 16
+          }, {
+            "item" : "Claremont-Bathgate",
+            "count" : 15
+          }, {
+            "item" : "Morrisania-Melrose",
+            "count" : 14
+          }, {
+            "item" : "Longwood",
+            "count" : 13
+          }, {
+            "item" : "Mott Haven-Port Morris",
+            "count" : 12
+          }, {
+            "item" : "Melrose South-Mott Haven North",
+            "count" : 11
+          }, {
+            "item" : "Cypress Hills-City Line",
+            "count" : 10
+          }, {
+            "item" : "East New York",
+            "count" : 9
+          }, {
+            "item" : "Mount Hope",
+            "count" : 8
+          }, {
+            "item" : "Fordham South",
+            "count" : 7
+          }, {
+            "item" : "Bushwick North",
+            "count" : 6
+          }, {
+            "item" : "Bushwick South",
+            "count" : 5
+          }, {
+            "item" : "East Harlem North",
+            "count" : 4
+          }, {
+            "item" : "East Harlem South",
+            "count" : 3
+          }, {
+            "item" : "East Concourse-Concourse Village",
+            "count" : 2
+          }, {
+            "item" : "East New York (Pennsylvania Ave)",
+            "count" : 1
+          } ],
+          "smallest" : "Bedford Park-Fordham North"
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "attachments" : [ {
+          "filename" : "DOHMH_ShopHealthyDD_2018.xlsx",
+          "assetId" : "7ab642c9-d550-4d82-9cf2-f75b7c1a13ce",
+          "name" : "DOHMH_ShopHealthyDD_2018.xlsx"
+        } ],
+        "custom_fields" : {
+          "Update" : {
+            "Automation" : "No",
+            "Date Made Public" : "10/2/2018",
+            "Update Frequency" : "Annually"
+          },
+          "Dataset Information" : {
+            "Agency" : "Department of Health and Mental Hygiene (DOHMH)"
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "5fuc-pqz2",
+        "displayName" : "NYC OpenData",
+        "profileImageUrlLarge" : "/api/users/5fuc-pqz2/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/5fuc-pqz2/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/5fuc-pqz2/profile_images/TINY",
+        "screenName" : "NYC OpenData",
+        "type" : "interactive",
+        "flags" : [ "mayBeStoriesCoOwner" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "5fuc-pqz2",
+        "displayName" : "NYC OpenData",
+        "profileImageUrlLarge" : "/api/users/5fuc-pqz2/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/5fuc-pqz2/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/5fuc-pqz2/profile_images/TINY",
+        "screenName" : "NYC OpenData",
+        "type" : "interactive",
+        "flags" : [ "mayBeStoriesCoOwner" ]
+      },
+      "tags" : [ "shop healthy", "supermarket", "bodega", "grocery store", "retail challenge", "phase 2" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ "row-c7v7-uaij-iet5", "00000000-0000-0000-DF87-ECCB8BC77896", 0, 1534954953, null, 1534954953, null, "{ }", "Rivas Deli Grocery", "651", "East 183rd Street", "Bronx", "10458", "2013", "1", "40.852568", "-73.887484", "6", "15", "391", "2012464", "2030870033", "Belmont" ]
+, [ "row-8xf5-yhp4~mna3", "00000000-0000-0000-054F-B034F86C6484", 0, 1534954953, null, 1534954953, null, "{ }", "C-Town", "1761", "Southern Boulevard", "Bronx", "10460", "2013", "1", "40.837267", "-73.888016", "3", "17", "155", "2009878", "2029400047", "Crotona Park East" ]
+, [ "row-guvu_iy7t~idg7", "00000000-0000-0000-557F-611D7D16A0EE", 0, 1534954953, null, 1534954953, null, "{ }", "La India Mini Market", "1942", "Marmion Avenue", "Bronx", "10460", "2013", "1", "40.842942", "-73.887136", "6", "17", "36502", "2010156", "2029600059", "East Tremont" ]
+, [ "row-pmk9_4g52.fxjk", "00000000-0000-0000-52D9-E9EB1A58629C", 0, 1534954953, null, 1534954953, null, "{ }", "Los Hermanos", "2019", "Vyse Avenue", "Bronx", "10460", "2013", "1", "40.842391", "-73.881835", "6", "17", "363", "2013203", "2031270020", "East Tremont" ]
+, [ "row-4vh8.hd92~cxu2", "00000000-0000-0000-F73A-B607CEDED323", 0, 1534954953, null, 1534954953, null, "{ }", "Price Choice Food Market", "820", "East 180th Street", "Bronx", "10460", "2013", "1", "40.846173", "-73.884871", "6", "15", "36501", "2012955", "2031080008", "East Tremont" ]
+, [ "row-dhj2~5dcb~knuj", "00000000-0000-0000-DD9A-4AB5A9CD3145", 0, 1534954953, null, 1534954953, null, "{ }", "D&A Deli Grocery", "1155", "East Tremont Avenue", "Bronx", "10460", "2013", "1", "40.839889", "-73.875193", "6", "15", "220", "2042470", "2040070022", "East Tremont" ]
+, [ "row-bjch_ht3b_85br", "00000000-0000-0000-0AE9-A3E3E6F545A6", 0, 1534954953, null, 1534954953, null, "{ }", "Lucky Star Gourmet Deli", "856", "East 188th Street", "Bronx", "10460", "2013", "1", null, null, null, null, null, null, null, null ]
+, [ "row-a2s9_7yi9.v2jj", "00000000-0000-0000-BFF6-49B0127FF6FD", 0, 1534954953, null, 1534954953, null, "{ }", "Food Choice", "333", "East 184th Street", "Bronx", "10458", "2013", "1", "40.858274", "-73.896071", "5", "15", "39902", "2010979", "2030220001", "Bedford Park-Fordham North" ]
+, [ "row-8ef4~imfs-ru3u", "00000000-0000-0000-49EE-B7DF46E94DDE", 0, 1534954953, null, 1534954953, null, "{ }", "Cache Grocery", "804", "East 178th Street", "Bronx", "10460", "2013", "1", "40.844534", "-73.887046", "6", "17", "36501", "2012942", "2031070004", "East Tremont" ]
+, [ "row-8yn6-pe8u~5cq6", "00000000-0000-0000-9EC3-A0702B4FC681", 0, 1534954953, null, 1534954953, null, "{ }", "Associated Supermarket", "1334", "Louis Nine Boulevard", "Bronx", "10459", "2013", "1", "40.831441", "-73.892279", "3", "17", "123", "2118405", "2029767501", "Crotona Park East" ]
+, [ "row-5t6m-7jf6~jnyb", "00000000-0000-0000-1A07-69279915B62F", 0, 1534954953, null, 1534954953, null, "{ }", "AZ Deli", "1093A", "Southern Boulevard", "Bronx", "10459", "2013", "1", "40.825924", "-73.89193", "2", "17", "12701", "2005806", "2027270045", "Hunts Point" ]
+, [ "row-r7sy~s36c.fb9n", "00000000-0000-0000-B99C-A0319F598B7A", 0, 1534954953, null, 1534954953, null, "{ }", "Price Choice Food Market", "807", "Tremont Avenue", "Bronx", "10460", "2013", "1", null, null, null, null, null, null, null, null ]
+, [ "row-rqkw_9fcj.4udn", "00000000-0000-0000-7F3E-FAC8F99158F5", 0, 1534954953, null, 1534954953, null, "{ }", "Key Foods", "1050", "Westchester Boulevard", "Bronx", "10459", "2013", "1", null, null, null, null, null, null, null, null ]
+, [ "row-2hrb_un39_ckmu", "00000000-0000-0000-0634-0ABD43A0188A", 0, 1534954953, null, 1534954953, null, "{ }", "Pioneer Supermarket", "2865", "Webester Avenue", "Bronx", "10458", "2013", "1", null, null, null, null, null, null, null, null ]
+, [ "row-reqf_uwdx.7vwu", "00000000-0000-0000-C198-3608C777CD2C", 0, 1534954953, null, 1534954953, null, "{ }", "Compare Foods", "4800", "Park Avenue", "Bronx", "10458", "2013", "1", null, null, null, null, null, null, null, null ]
+, [ "row-y6ee.pksh_d48r", "00000000-0000-0000-9268-DE77A7278304", 0, 1534954953, null, 1534954953, null, "{ }", "Met Supermarket", "277", "198th Street", "Bronx", "10458", "2013", "1", null, null, null, null, null, null, null, null ]
+, [ "row-j5jw-zjh7.mj5p", "00000000-0000-0000-7291-3E759E6DE7FC", 0, 1534954953, null, 1534954953, null, "{ }", "EEJ Deli", "550", "East 187th Street", "Bronx", "10458", "2013", "1", "40.856355", "-73.889094", "6", "15", "387", "2011662", "2030540022", "Belmont" ]
+, [ "row-difz.vhrb-xrmg", "00000000-0000-0000-A102-35B001680C04", 0, 1534954953, null, 1534954953, null, "{ }", "Santana", "4664", "Park Avenue", "Bronx", "10458", "2013", "1", "40.85817", "-73.892869", "6", "15", "385", "2011392", "2030400007", "Claremont-Bathgate" ]
+, [ "row-n2eh_6mwm_5se3", "00000000-0000-0000-259B-BE826F707628", 0, 1534954953, null, 1534954953, null, "{ }", "FineFare", "1472", "Boston Road", "Bronx", "10460", "2013", "1", "40.834232", "-73.89488", "3", "16", "153", "2010262", "2029640042", "Crotona Park East" ]
+, [ "row-8gct~u8tq.dm38", "00000000-0000-0000-7E6A-F953EF8410DD", 0, 1534954953, null, 1534954953, null, "{ }", "Deli Grocery", "275", "East Kingsbridge Road", "Bronx", "10458", "2013", "1", "40.863691", "-73.894244", "7", "15", "39901", "2016817", "2032930106", "Bedford Park-Fordham North" ]
+, [ "row-kvhf~peam_ust5", "00000000-0000-0000-090B-135252DC78ED", 0, 1534954953, null, 1534954953, null, "{ }", "965 Castillo Meat and Produce", "965", "East 172nd Street", "Bronx", "10460", "2013", "1", "40.833364", "-73.887683", "3", "17", "157", "2010797", "2029960049", "Crotona Park East" ]
+, [ "row-dzkm-j96t-cxhq", "00000000-0000-0000-B3D9-4958695E38E5", 0, 1534954953, null, 1534954953, null, "{ }", "Santos", "2641", "Bainbridge Avenue", "Bronx", "10458", "2013", "1", "40.864814", "-73.892048", "7", "15", "40501", "2016832", "2032940001", "Bedford Park-Fordham North" ]
+, [ "row-8aiu-sjpd.jg2g", "00000000-0000-0000-D3DB-66899CF8A124", 0, 1534954953, null, 1534954953, null, "{ }", "Alondra Food Corp.", "838", "East 180th Street", "Bronx", "10460", "2013", "1", "40.8457", "-73.883911", "6", "17", "363", "2088384", "2031180157", "East Tremont" ]
+, [ "row-ejry~jsqt~pne4", "00000000-0000-0000-24CE-CB9F12C52894", 0, 1534954953, null, 1534954953, null, "{ }", "Brianelly", "2308", "Washington Avenue", "Bronx", "10458", "2013", "1", "40.855606", "-73.892808", "6", "15", "385", "2011628", "2030530062", "Claremont-Bathgate" ]
+, [ "row-qcq9-qw3x-j4te", "00000000-0000-0000-2EFB-7D7E4C7C80AB", 0, 1534954953, null, 1534954953, null, "{ }", "Emerald Food Store", "2709-11", "Briggs Avenue", "Bronx", "10458", "2013", "1", "40.866359", "-73.891673", "7", "15", "40501", "2115734", "2033000055", "Bedford Park-Fordham North" ]
+, [ "row-gt64~k67w-k5kh", "00000000-0000-0000-1429-E99255BCB156", 0, 1534954953, null, 1534954953, null, "{ }", "Bx Supermarket/Compare Foods", "312", "E. 194th Street", "Bronx", "10458", "2013", "1", "40.864421", "-73.891799", "7", "15", "39901", "2016607", "2032870008", "Bedford Park-Fordham North" ]
+, [ "row-xsx9.zqxe_zuhc", "00000000-0000-0000-7F92-08B8360BA9BA", 0, 1534954953, null, 1534954953, null, "{ }", "1030 Deli & Food Corp", "1030", "East Tremont Avenue", "Bronx", "10460", "2013", "1", "40.840342", "-73.88087", "6", "17", "359", "2010893", "2030050065", "East Tremont" ]
+, [ "row-bs3a_kbuh.5etk", "00000000-0000-0000-CF02-EBC798F98E90", 0, 1534954953, null, 1534954953, null, "{ }", "Kelvin Food Mart, Inc", "724", "East 187th Street", "Bronx", "10458", "2013", "1", "40.853863", "-73.883499", "6", "15", "393", "2092312", "2031020029", "Belmont" ]
+, [ "row-iz5t~pfw6-45m5", "00000000-0000-0000-E4BE-C75EDD9E6904", 0, 1534954953, null, 1534954953, null, "{ }", "Stop One", "2431", "Hoffman Street", "Bronx", "10458", "2013", "1", "40.856754", "-73.887821", "6", "15", "387", null, null, "Belmont" ]
+, [ "row-zz6t.rajd_7cxn", "00000000-0000-0000-EA28-511D3E6E112B", 0, 1534954953, null, 1534954953, null, "{ }", "A-Mart", "2433", "Hoffman Street", "Bronx", "10458", "2013", "1", "40.857023", "-73.887585", "6", "15", "387", "2011809", "2030580105", "Belmont" ]
+, [ "row-hs5f.x2ts_r2nh", "00000000-0000-0000-A06A-222097CED108", 0, 1534954953, null, 1534954953, null, "{ }", "Modern Food", "2385", "Arthur Avenue", "Bronx", "10458", "2013", "1", "40.855237", "-73.887849", "6", "15", "391", "2011890", "2030650033", "Belmont" ]
+, [ "row-vg45-k645_nm4z", "00000000-0000-0000-D0D1-5C26251E9BE0", 0, 1534954953, null, 1534954953, null, "{ }", "Mickey & Elvis College", "717", "East 187th Street", "Bronx", "10458", "2013", "1", "40.854025", "-73.883997", "6", "15", "389", "2012928", "2031050058", "Belmont" ]
+, [ "row-xenz_k2s9~pxzb", "00000000-0000-0000-A77A-447BA4DEB49C", 0, 1534954953, null, 1534954953, null, "{ }", "Bronx Zoo Deli Corp", "732", "East 187th Street", "Bronx", "10460", "2013", "1", "40.853821", "-73.883351", "6", "15", "393", "2012837", "2031020030", "Belmont" ]
+, [ "row-24z7.qace-c8zy", "00000000-0000-0000-0FE3-CF1AF4AD0CF8", 0, 1534954953, null, 1534954953, null, "{ }", "548 Gourmet Deli", "548", "East 183rd Street", "Bronx", "10458", "2013", "1", "40.854186", "-73.891042", "6", "15", "385", "2011589", "2030510031", "Claremont-Bathgate" ]
+, [ "row-edvs.754w.us3t", "00000000-0000-0000-8417-5A4269979FF8", 0, 1534954953, null, 1534954953, null, "{ }", "Danery's Grocery Corp.", "765", "East 175th Street", "Bronx", "10460", "2013", "1", "40.841486", "-73.891125", "6", "17", "367", "2010014", "2029530001", "East Tremont" ]
+, [ "row-6a85-2u5x.q3v4", "00000000-0000-0000-DBCE-F8D9BDBCAF48", 0, 1534954953, null, 1534954953, null, "{ }", "Will Grocery & Meat Market", "1492", "Vyse Avenue", "Bronx", "10460", "2013", "1", "40.833029", "-73.888186", "3", "17", "157", "2010757", "2029950017", "Crotona Park East" ]
+, [ "row-8gfw.cnve.sw88", "00000000-0000-0000-B640-B717F5021A0F", 0, 1534954953, null, 1534954953, null, "{ }", "A & G Gourmet Deli", "2132", "Mohegan Avenue", "Bronx", "10460", "2013", "1", "40.84641", "-73.882688", "6", "15", "363", "2013164", "2031240043", "East Tremont" ]
+, [ "row-dwj6-uaip_qv8k", "00000000-0000-0000-8CB4-C5F885367F1B", 0, 1534954953, null, 1534954953, null, "{ }", "Caña Arriba", "1465", "Bryant Avenue", "Bronx", "10460", "2013", "1", "40.831953", "-73.887823", "3", "17", "157", "2010773", "2029950042", "Crotona Park East" ]
+, [ "row-fzhz_gpfq_hxhd", "00000000-0000-0000-3BA6-27B3BE96E57A", 0, 1534954953, null, 1534954953, null, "{ }", "885 East Tremont Deli", "885", "East Tremont Avenue", "Bronx", "10460", "2013", "1", "40.842463", "-73.885123", "6", "17", "363", "2013110", "2031210002", "East Tremont" ]
+, [ "row-uqzt_pcc6-25h8", "00000000-0000-0000-DC02-AD78F4E712F7", 0, 1534954953, null, 1534954953, null, "{ }", "Pioneer Supermarket", "2865", "Webester Avenue", "Bronx", "10458", "2013", "1", null, null, null, null, null, null, null, null ]
+, [ "row-yey6-nbu5_iqtp", "00000000-0000-0000-F9E1-53822E7DA1D3", 0, 1534954953, null, 1534954953, null, "{ }", "Compare Foods", "4800", "Park Avenue", "Bronx", "10458", "2013", "1", null, null, null, null, null, null, null, null ]
+, [ "row-nbry-yij4-53d5", "00000000-0000-0000-4165-850C267AC978", 0, 1534954953, null, 1534954953, null, "{ }", "Tejada Castillo Food Corporation", "1675", "Boston Road", "Bronx", "10458", "2013", "1", "40.836404", "-73.889409", "3", "17", "155", "2009883", "2029400065", "Crotona Park East" ]
+, [ "row-7m9v.m493-rjpq", "00000000-0000-0000-DB71-A13201C26629", 0, 1534954953, null, 1534954953, null, "{ }", "Tony's Family", "526", "East 183rd Street", "Bronx", "10458", "2013", "1", "40.854678", "-73.891945", "6", "15", "385", "2011560", "2030500066", "Claremont-Bathgate" ]
+, [ "row-hv7a_r3kx-84td", "00000000-0000-0000-9164-A4392D89CB60", 0, 1534954953, null, 1534954953, null, "{ }", "Compare Foods", "2477", "Valentine Avenue", "Bronx", "10458", "2013", "1", "40.86156", "-73.896196", "5", "15", "23702", "2013602", "2031530031", "Bedford Park-Fordham North" ]
+, [ "row-krh6_h7jx_bn9q", "00000000-0000-0000-0A38-43F4A06EBD8F", 0, 1534954953, null, 1534954953, null, "{ }", "20/20 Deli", "1120", "Southern Boulevard", "Bronx", "10459", "2014", "2", "40.827058", "-73.891896", "3", "17", "125", "2006049", "2027450001", "Morrisania-Melrose" ]
+, [ "row-k8kp~b2jf~czzp", "00000000-0000-0000-77AE-E17D89F7EF62", 0, 1534954953, null, 1534954953, null, "{ }", "543 Deli", "543", "Southern Boulevard", "Bronx", "10455", "2014", "2", "40.812296", "-73.90361", "2", "17", "83", "2005080", "2026830001", "Longwood" ]
+, [ "row-fjbf-prhw~wy4a", "00000000-0000-0000-0E16-0A89D53E4863", 0, 1534954953, null, 1534954953, null, "{ }", "908 Garcia Fruit and Grocery", "908", "East 163rd Street", "Bronx", "10459", "2014", "2", "40.821006", "-73.898026", "2", "17", "87", "2005349", "2026960103", "Longwood" ]
+, [ "row-65gy_hygg~4nd3", "00000000-0000-0000-46DD-DFDA13F6B308", 0, 1534954953, null, 1534954953, null, "{ }", "Alan Deli Grocery", "798", "East 170th Street", "Bronx", "10459", "2014", "2", "40.833138", "-73.89559", "3", "16", "153", "2010216", "2029630012", "Crotona Park East" ]
+, [ "row-tms5-9abn.94we", "00000000-0000-0000-7E5E-E43E886C8673", 0, 1534954953, null, 1534954953, null, "{ }", "Amelia Grocery", "954", "Prospect Avenue", "Bronx", "10459", "2014", "2", "40.822696", "-73.900354", "2", "17", "12901", "2005207", "2026900105", "Longwood" ]
+, [ "row-kagx.3c9w-crm9", "00000000-0000-0000-13FF-DD408F6E905F", 0, 1534954953, null, 1534954953, null, "{ }", "Asociados Meat Market", "1025", "Westchester Avenue", "Bronx", "10459", "2014", "2", "40.824114", "-73.893017", "2", "17", "12701", "2095487", "2027260070", "Hunts Point" ]
+, [ "row-99ay-6xre.w97c", "00000000-0000-0000-B7C2-5655710373FC", 0, 1534954953, null, 1534954953, null, "{ }", "Associated Supermarket", "1334", "Louis Nine Boulevard", "Bronx", "10459", "2014", "2", "40.831441", "-73.892279", "3", "17", "123", "2118405", "2029767501", "Crotona Park East" ]
+, [ "row-gygm.abwz_mrj3", "00000000-0000-0000-A175-0872A10F85AD", 0, 1534954953, null, 1534954953, null, "{ }", "Celia", "966", "Longwood Avenue", "Bronx", "10459", "2014", "2", "40.817424", "-73.898101", "2", "8", "85", "2005569", "2027080046", "Longwood" ]
+, [ "row-qt5m-w9ts.unfg", "00000000-0000-0000-7EB6-A2AD500190BD", 0, 1534954953, null, 1534954953, null, "{ }", "Crystal Grocery", "1090", "Longfellow Avenue", "Bronx", "10459", "2014", "2", "40.826005", "-73.887826", "2", "17", "12102", "2006286", "2027570066", "Hunts Point" ]
+, [ "row-hs4j~zpcn~ntu6", "00000000-0000-0000-89B7-4762ADDBB230", 0, 1534954953, null, 1534954953, null, "{ }", "Deli Farm Meat and Grocery", "850", "Longwood Avenue", "Bronx", "10459", "2014", "2", "40.819376", "-73.901378", "2", "17", "85", "2005169", "2026880048", "Longwood" ]
+, [ "row-n94k.zg6b-x45w", "00000000-0000-0000-0883-78182926F41E", 0, 1534954953, null, 1534954953, null, "{ }", "El Patio Grocery", "643", "Wales Avenue/766 E 152 ST", "Bronx", "10455", "2014", "2", null, null, null, null, null, null, null, null ]
+, [ "row-3mbj.j5us_36gu", "00000000-0000-0000-9D46-A9BCC722723D", 0, 1534954953, null, 1534954953, null, "{ }", "Fair Farm", "950", "Westchester Avenue", "Bronx", "10459", "2014", "2", "40.822388", "-73.896326", "2", "17", "87", "2114693", "2027037501", "Longwood" ]
+, [ "row-mhz2-dudw.rwqb", "00000000-0000-0000-A8FA-769E0FD41FC2", 0, 1534954953, null, 1534954953, null, "{ }", "Genao Food Store", "926", "Intervale Avenue", "Bronx", "10459", "2014", "2", "40.819986", "-73.896695", "2", "17", "87", "2005450", "2027030001", "Longwood" ]
+, [ "row-wtbz.tb9x.8btz", "00000000-0000-0000-5E09-8BEF018CCC06", 0, 1534954953, null, 1534954953, null, "{ }", "Home Street Deli", "-892", "894 Home Street", "Bronx", "10459", "2014", "2", null, null, null, null, null, null, null, null ]
+, [ "row-rmgb_7wyt_6ftz", "00000000-0000-0000-A9CC-A89B6AB7F0ED", 0, 1534954953, null, 1534954953, null, "{ }", "Ivoire African Market", "1339", "Prospect Avenue", "Bronx", "10459", "2014", "2", "40.829569", "-73.897522", "3", "17", "151", "2010310", "2029680008", "Morrisania-Melrose" ]
+, [ "row-hpcu~cmui_bmip", "00000000-0000-0000-11E5-328108545760", 0, 1534954953, null, 1534954953, null, "{ }", "J&W Food Center", "990", "Leggett Avenue", "Bronx", "10455", "2014", "2", "40.814565", "-73.899875", "2", "17", "83", "2005101", "2026840076", "Longwood" ]
+, [ "row-skqv-eddc-etpv", "00000000-0000-0000-F0B8-42AC88D4E6BF", 0, 1534954953, null, 1534954953, null, "{ }", "Los Hermanos Meat & Grocery", "501B", "Jackson Avenue", "Bronx", "10455", "2014", "2", "40.812032", "-73.909517", "1", "8", "35", "2003696", "2025570078", "Mott Haven-Port Morris" ]
+, [ "row-cq7t~v5p9.43py", "00000000-0000-0000-1A45-63479F4C3040", 0, 1534954953, null, 1534954953, null, "{ }", "Luis & Angie Deli Grocery", "976", "Prospect Avenue", "Bronx", "10459", "2014", "2", "40.823225", "-73.900133", "2", "17", "12901", "2005212", "2026900119", "Longwood" ]
+, [ "row-pc6k.7epg~v2y2", "00000000-0000-0000-B02E-9C11B6B0ED50", 0, 1534954953, null, 1534954953, null, "{ }", "Paulino Deli Grocery", "798", "Hunts Point Avenue", "Bronx", "10474", "2014", "2", "40.816473", "-73.887795", "2", "17", "117", "2006548", "2027630190", "Hunts Point" ]
+, [ "row-g9ga_ny6x_updt", "00000000-0000-0000-630E-9D27D1525E89", 0, 1534954953, null, 1534954953, null, "{ }", "REAL Supermarket", "818", "Westchester Ave. (795 Prospect Ave.)", "Bronx", "10459", "2014", "2", "40.819173", "-73.902571", "1", "17", "79", "2004992", "2026760049", "Melrose South-Mott Haven North" ]
+, [ "row-kd7r_5qwp-kbcf", "00000000-0000-0000-0A4D-B9D0BD7FAE00", 0, 1534954953, null, 1534954953, null, "{ }", "Salgados Superette", "1131", "West Farms Road", "Bronx", "10459", "2014", "2", "40.82643", "-73.890307", "2", "17", "12701", "2006048", "2027440063", "Hunts Point" ]
+, [ "row-2jpw_54ck.daju", "00000000-0000-0000-319B-CA0B3F298FA1", 0, 1534954953, null, 1534954953, null, "{ }", "South Side Food", "726", "East 152nd Street", "Bronx", "10455", "2014", "2", "40.816005", "-73.907976", "1", "8", "73", "2004560", "2026430013", "Melrose South-Mott Haven North" ]
+, [ "row-a7vy-k2cg~ay9j", "00000000-0000-0000-920F-14B4C29E88FC", 0, 1534954953, null, 1534954953, null, "{ }", "Super Deli Grocery Store", "740", "East 149th Street", "Bronx", "10455", "2014", "2", "40.813082", "-73.908389", "1", "8", "35", "2003927", "2025790025", "Mott Haven-Port Morris" ]
+, [ "row-a6gp_aw3a_ktmq", "00000000-0000-0000-7D46-E1D02B90845C", 0, 1534954953, null, 1534954953, null, "{ }", "Top Quality", "1019", "SIimpson Street", "Bronx", "10459", "2014", "2", null, null, null, null, null, null, null, null ]
+, [ "row-7rq9~9p76_dtku", "00000000-0000-0000-9F4C-C0C4842BCD8C", 0, 1534954953, null, 1534954953, null, "{ }", "Torres Meat & Grocery", "950", "Longwood Avenue", "Bronx", "10459", "2014", "2", "40.817614", "-73.898415", "2", "8", "85", "2005568", "2027080040", "Longwood" ]
+, [ "row-gayq~iaxj~bfd5", "00000000-0000-0000-D0AB-43108481979E", 0, 1534954953, null, 1534954953, null, "{ }", "Union Foods", "835", "East152nd Street", "Bronx", "10455", "2014", "2", "40.815242", "-73.904242", "1", "17", "79", "2004919", "2026750001", "Melrose South-Mott Haven North" ]
+, [ "row-2c29.6vr8.znbi", "00000000-0000-0000-B9A4-17A5BF52AFB9", 0, 1534954953, null, 1534954953, null, "{ }", "VR Vegetable N Grocery", "928", "Sothern Boulevard", "Bronx", "10459", "2014", "2", null, null, null, null, null, null, null, null ]
+, [ "row-ek62~34b2_h8zt", "00000000-0000-0000-7BF5-1CBAE4195BC8", 0, 1534954953, null, 1534954953, null, "{ }", "3368 Cypress Deli & Grocery", "3368", "Fulton Street", "Brooklyn", "11208", "2015", "2", "40.683854", "-73.871439", "5", "37", "1184", "3092807", "3041470039", "Cypress Hills-City Line" ]
+, [ "row-ejjy-bfgg_d2xi", "00000000-0000-0000-96A4-2C01AE5A0071", 0, 1534954953, null, 1534954953, null, "{ }", "Apple Deli and Grill", "1203", "Sutter Avenue", "Brooklyn", "11208", "2015", "2", "40.672551", "-73.873509", "5", "42", "1196", "3095362", "3042480001", "East New York" ]
+, [ "row-vpcx~giui.zyn4", "00000000-0000-0000-BEF7-D0E8063B9CD5", 0, 1534954953, null, 1534954953, null, "{ }", "Bangla Supermarket", "1211", "Liberty Avenue", "Brooklyn", "11208", "2015", "2", "40.678988", "-73.864858", "5", "37", "1188", "3094137", "3041840065", "Cypress Hills-City Line" ]
+, [ "row-ityi~s7h6.ctnw", "00000000-0000-0000-DEC8-073D3CFE101F", 0, 1534954953, null, 1534954953, null, "{ }", "Claribel Deli & Grocery", "241", "Ridgewood Avenue", "Brooklyn", "11208", "2015", "2", "40.683696", "-73.87966", "5", "37", "1174", "3086802", "3039160030", "Cypress Hills-City Line" ]
+, [ "row-2gdz-3uxt~92ex", "00000000-0000-0000-964C-FF42F7A144D5", 0, 1534954953, null, 1534954953, null, "{ }", "Dari's Grocery", "224", "Lincoln Avenue", "Brooklyn", "11208", "2015", "2", "40.684755", "-73.869599", "5", "37", "1184", "3092433", "3041330054", "Cypress Hills-City Line" ]
+, [ "row-jm29~f3kw.chn9", "00000000-0000-0000-A616-3E28FDFA4D23", 0, 1534954953, null, 1534954953, null, "{ }", "Decayagua Deli Grocery", "290", "Arlington Avenue", "Brooklyn", "11208", "2015", "2", "40.680961", "-73.883826", "5", "37", "1168", "3087697", "3039420001", "East New York" ]
+, [ "row-de44.r6km~axqn", "00000000-0000-0000-4E9E-1F3DDE300BE3", 0, 1534954953, null, 1534954953, null, "{ }", "Dumont Deli & Grocery", "690", "Linwood St.", "Brooklyn", "11208", "2015", "2", "40.668497", "-73.88122", "5", "42", "1164", "3090191", "3040660039", "East New York" ]
+, [ "row-4xdd_7bya_upe9", "00000000-0000-0000-8C15-A3D0005E0ECD", 0, 1534954953, null, 1534954953, null, "{ }", "Four Star Supermarket", "1075", "Liberty Avenue", "Brooklyn", "11208", "2015", "2", "40.678354", "-73.869546", "5", "37", "1190", "3093593", "3041710029", "Cypress Hills-City Line" ]
+, [ "row-bwp3_atut~h84b", "00000000-0000-0000-9260-15FD6CF669E8", 0, 1534954953, null, 1534954953, null, "{ }", "Fulton Gourmet Deli and Grill", "3336", "Fulton St", "Brooklyn", "11208", "2015", "2", "40.683548", "-73.872518", "5", "37", "1178", "3092740", "3041460037", "Cypress Hills-City Line" ]
+, [ "row-gg7h.kvgi_shdv", "00000000-0000-0000-3B2F-41520CE1E7CF", 0, 1534954953, null, 1534954953, null, "{ }", "J and J Grocery", "1055", "Blake Avenue", "Brooklyn", "11208", "2015", "2", "40.670136", "-73.879335", "5", "42", "1164", "3089840", "3040530001", "East New York" ]
+, [ "row-d2cm-w9vy~ibi4", "00000000-0000-0000-218B-A7FCFE73FCCC", 0, 1534954953, null, 1534954953, null, "{ }", "J R Grocery", "944", "Hegeman Avenue", "Brooklyn", "11208", "2015", "2", "40.665825", "-73.877941", "5", "42", "1116", "3097609", "3043390010", "East New York" ]
+, [ "row-34uh-92cs_vsk8", "00000000-0000-0000-D99F-0CFA87859B39", 0, 1534954953, null, 1534954953, null, "{ }", "J.T. Deli Grocery", "1145", "Glenmore Avenue", "Brooklyn", "11208", "2015", "2", "40.677497", "-73.866563", "5", "37", "1188", "3094418", "3042030001", "Cypress Hills-City Line" ]
+, [ "row-k75z.px6k.8gtd", "00000000-0000-0000-04DE-0C5D97F5FEDA", 0, 1534954953, null, 1534954953, null, "{ }", "Los Chamona Deli Grocery", "576", "Ridgewood Avenue", "Brooklyn", "11208", "2015", "2", "40.686622", "-73.867839", "5", "37", "1184", "3092546", "3041360023", "Cypress Hills-City Line" ]
+, [ "row-ebsu.edea_stdb", "00000000-0000-0000-5075-C16100533FF4", 0, 1534954953, null, 1534954953, null, "{ }", "Luna Grocery", "1082", "Hegeman Avenue", "Brooklyn", "11208", "2015", "2", "40.667838", "-73.873244", "5", "42", "1116", null, null, "East New York" ]
+, [ "row-i95p-9ddz.jrwm", "00000000-0000-0000-1CB9-1D40F51F8078", 0, 1534954953, null, 1534954953, null, "{ }", "MACO Food Corp.", "1018", "Belmont Avenue", "Brooklyn", "11208", "2015", "2", "40.674146", "-73.871458", "5", "42", "1196", "3095428", "3042500021", "East New York" ]
+, [ "row-44x5.rgjw.5i9m", "00000000-0000-0000-4D2B-8E8BBE828C31", 0, 1534954953, null, 1534954953, null, "{ }", "Melendez Deli Grocery", "145", "Euclid Avenue", "Brooklyn", "11208", "2015", "2", "40.685225", "-73.874621", "5", "37", "117602", "3091605", "3041170001", "Cypress Hills-City Line" ]
+, [ "row-xazg_qtu4_un5n", "00000000-0000-0000-F2F3-7185130F36A1", 0, 1534954953, null, 1534954953, null, "{ }", "Mike's Grocery Corp.", "1268", "Sutter Avenue", "Brooklyn", "11208", "2015", "2", "40.672872", "-73.871161", "5", "42", "1208", "3095683", "3042660021", "East New York" ]
+, [ "row-vt5g.42wd~5yge", "00000000-0000-0000-2C23-56F49ED6A0F0", 0, 1534954953, null, 1534954953, null, "{ }", "My Neighborhood Grocery", "385", "Chestnut Street", "Brooklyn", "11208", "2015", "2", "40.677517", "-73.873983", "5", "37", "1196", "3094276", "3041930012", "East New York" ]
+, [ "row-7gex-th6w.ns7b", "00000000-0000-0000-FF9E-6A3C3015B05D", 0, 1534954953, null, 1534954953, null, "{ }", "New Way Grocery", "145", "Ridgewood Avenue", "Brooklyn", "11208", "2015", "2", "40.68303", "-73.883368", "5", "37", "117202", "3336135", "3039110059", "Cypress Hills-City Line" ]
+, [ "row-mnbk-uhqe_9jxe", "00000000-0000-0000-97F7-487CBF0C578D", 0, 1534954953, null, 1534954953, null, "{ }", "Reyes & G Mini Market", "120", "Autumn Avenue", "Brooklyn", "11208", "2015", "2", "40.687414", "-73.871065", "5", "37", "118201", "3091802", "3041200057", "Cypress Hills-City Line" ]
+, [ "row-x8xa-rqqg.p2kd", "00000000-0000-0000-454E-85469829AB71", 0, 1534954953, null, 1534954953, null, "{ }", "Sutter Grocery", "978", "Sutter Avenue", "Brooklyn", "11208", "2015", "2", "40.671237", "-73.882578", "5", "42", "1164", "3089793", "3040500017", "East New York" ]
+, [ "row-ehta_w9tc-64sg", "00000000-0000-0000-0E80-1B84BDD1DEAE", 0, 1534954953, null, 1534954953, null, "{ }", "1879 Deli Carter Corp", "1879", "Carter Avenue", "Bronx", "10457", "2015", "3", "40.847345", "-73.901904", "5", "15", "231", "2009377", "2028920039", "Mount Hope" ]
+, [ "row-kfnj-r6kb-my7y", "00000000-0000-0000-372F-765AB012707D", 0, 1534954953, null, 1534954953, null, "{ }", "Anthony's Place Deli Grocery", "306", "East 178 Street", "Bronx", "10457", "2015", "3", "40.849999", "-73.902497", "5", "15", "381", "2007766", "2028140029", "Mount Hope" ]
+, [ "row-cifn-ypnb.ewsu", "00000000-0000-0000-EF45-45F831A77583", 0, 1534954953, null, 1534954953, null, "{ }", "Aurora Deli Grocery", "150", "East 174 STREET", "Bronx", "10457", "2015", "3", "40.844842", "-73.909679", "4", "15", "22703", "2007873", "2028240051", "Mount Hope" ]
+, [ "row-n56f-eesk.35hz", "00000000-0000-0000-4DE7-F378EBCD2DAF", 0, 1534954953, null, 1534954953, null, "{ }", "C & T Deli Grocery", "2275", "Washington Avenue", "Bronx", "10457", "2015", "3", "40.855028", "-73.893336", "6", "15", "385", "2011339", "2030380027", "Claremont-Bathgate" ]
+, [ "row-rkbr_fbvn-qrkj", "00000000-0000-0000-B8E5-8D301F83F71A", 0, 1534954953, null, 1534954953, null, "{ }", "Concourse Food Plaza", "2096", "Grand Concourse", "Bronx", "10457", "2015", "3", "40.854042", "-73.902295", "5", "15", "23502", "2013681", "2031560102", "Mount Hope" ]
+, [ "row-j6vn_2ygr_2z9b", "00000000-0000-0000-9628-464D811EB38A", 0, 1534954953, null, 1534954953, null, "{ }", "C-Town", "229", "East Tremont Avenue", "Bronx", "10457", "2015", "3", "40.848997", "-73.904772", "5", "15", "23502", "2007719", "2028090051", "Mount Hope" ]
+, [ "row-p3xp-rkv3-e8c2", "00000000-0000-0000-E1C9-130ACF504FD8", 0, 1534954953, null, 1534954953, null, "{ }", "C-Town", "309", "East Burnside Avenue", "Bronx", "10457", "2015", "3", "40.850588", "-73.901133", "5", "15", "381", "2013524", "2031490068", "Mount Hope" ]
+, [ "row-awrn~t3u2_cz54", "00000000-0000-0000-0529-21B6C5783721", 0, 1534954953, null, 1534954953, null, "{ }", "Deli Grocery", "2236", "Grand Concourse", "Bronx", "10457", "2015", "3", "40.856256", "-73.90064", "5", "15", "38301", "2013718", "2031580001", "Fordham South" ]
+, [ "row-tv3t~sp6j.araa", "00000000-0000-0000-EE53-558A44EFEAB3", 0, 1534954953, null, 1534954953, null, "{ }", "El Abanico Deli Grocery Corp.", "214", "East 180 Street", "Bronx", "10457", "2015", "3", "40.853232", "-73.901971", "5", "15", "23502", "2013632", "2031560018", "Mount Hope" ]
+, [ "row-gwyv~r7zd~g4yb", "00000000-0000-0000-3D0D-8A8257103236", 0, 1534954953, null, 1534954953, null, "{ }", "Fresh Food Deli Grocery", "2179", "Washington Avenue", "Bronx", "10457", "2015", "3", "40.853505", "-73.89442", "6", "15", "395", "2011324", "2030370077", "Claremont-Bathgate" ]
+, [ "row-iccj-m6pr_q5ft", "00000000-0000-0000-D164-27F06E022976", 0, 1534954953, null, 1534954953, null, "{ }", "J.J.N. Corp Deli Grocery", "1512", "Washington Avenue", "Bronx", "10457", "2015", "3", "40.837956", "-73.90315", "3", "16", "169", "2009543", "2029120001", "Claremont-Bathgate" ]
+, [ "row-sxjr_tkek~d22j", "00000000-0000-0000-86B4-E74A3CFE3906", 0, 1534954953, null, 1534954953, null, "{ }", "Jade Food Center", "3822", "3rd AVENUE", "Bronx", "10457", "2015", "3", "40.837875", "-73.901412", "3", "16", "169", "2009644", "2029280012", "Claremont-Bathgate" ]
+, [ "row-c76x-edkv.spry", "00000000-0000-0000-1029-6CC92B4F66DC", 0, 1534954953, null, 1534954953, null, "{ }", "Los Primos Grocery", "1965", "Webster Avenue", "Bronx", "10457", "2015", "3", "40.849462", "-73.899949", "5", "15", "379", "2013301", "2031420094", "Mount Hope" ]
+, [ "row-685k-kf94~j3rt", "00000000-0000-0000-62DD-6BB168664B26", 0, 1534954953, null, 1534954953, null, "{ }", "Los Primos Grocery", "1798", "Crotona Avenue", "Bronx", "10457", "2015", "3", "40.842792", "-73.893526", "6", "17", "36902", "2009916", "2029480001", "East Tremont" ]
+, [ "row-iphp_hgv4~kj67", "00000000-0000-0000-A218-6F5B6FD39216", 0, 1534954953, null, 1534954953, null, "{ }", "Mills Grocery", "1570", "Bathgate Avenue", "Bronx", "10457", "2015", "3", "40.838762", "-73.901563", "3", "16", "167", "2009581", "2029190001", "Claremont-Bathgate" ]
+, [ "row-4xb5~src9.64xq", "00000000-0000-0000-3F75-3399C14D2107", 0, 1534954953, null, 1534954953, null, "{ }", "Naranjal Grocery", "200", "East Tremont Avenue", "Bronx", "10457", "2015", "3", "40.84911", "-73.905415", "5", "15", "23302", "2007593", "2028040005", "Mount Hope" ]
+, [ "row-s93f_3xkf.gz9s", "00000000-0000-0000-B9F1-9AF7C18B54DF", 0, 1534954953, null, 1534954953, null, "{ }", "Omale New York Grocery", "2172", "Crotona Avenue", "Bronx", "10457", "2015", "3", "40.850097", "-73.886683", "6", "15", "371", "2012768", "2030980025", "East Tremont" ]
+, [ "row-ygsx_ze53-igd7", "00000000-0000-0000-B999-2DAF24CE6192", 0, 1534954953, null, 1534954953, null, "{ }", "Vasquez Deli Grocery", "1959", "Clinton Avenue", "Bronx", "10457", "2015", "3", "40.845028", "-73.890002", "6", "17", "371", "2012627", "2030920044", "East Tremont" ]
+, [ "row-rp4k.8anq_3usy", "00000000-0000-0000-D14B-2E9F178F427F", 0, 1534954953, null, 1534954953, null, "{ }", "Webster Food Corp", "2031", "Webster Avenue", "Bronx", "10457", "2015", "3", "40.85091", "-73.899032", "5", "15", "379", "2013300", "2031420074", "Mount Hope" ]
+, [ "row-728g-ysbv-i3ht", "00000000-0000-0000-FB9D-2297F612C0C9", 0, 1534954953, null, 1534954953, null, "{ }", "Almontaser Enterprises LLC", "2792", "Fulton Street", "Brooklyn", "11207", "2016", "3", "40.678053", "-73.891478", "5", "37", "1198", "3397940", "3039470017", "East New York" ]
+, [ "row-jekq~wmki_jfua", "00000000-0000-0000-4198-B3A6AA746EDD", 0, 1534954953, null, 1534954953, null, "{ }", "Habibi Gourmet Deli", "2761", "Fulton Street", "Brooklyn", "11207", "2016", "3", "40.677879", "-73.892772", "5", "37", "1146", "3083215", "3036640045", "Cypress Hills-City Line" ]
+, [ "row-nbja~2t95~smjb", "00000000-0000-0000-2355-F643BD33513F", 0, 1534954953, null, 1534954953, null, "{ }", "J & K Grocery", "2737", "Fulton Street", "Brooklyn", "11207", "2016", "3", "40.677742", "-73.893678", "5", "37", "1146", "3083171", "3036630042", "Cypress Hills-City Line" ]
+, [ "row-zf7c_fhxx.726m", "00000000-0000-0000-63CD-807CCA81E452", 0, 1534954953, null, 1534954953, null, "{ }", "La Vega Grocery", "2772", "Fulton Street", "Brooklyn", "11207", "2016", "3", "40.677936", "-73.892268", "5", "37", "1198", "3087748", "3039460014", "East New York" ]
+, [ "row-fsg8~88nm-prsa", "00000000-0000-0000-3415-E79DC1CB36A2", 0, 1534954953, null, 1534954953, null, "{ }", "Marien Groceries Corp.", "99", "Jamaica Avenue", "Brooklyn", "11207", "2016", "3", "40.678656", "-73.896416", "5", "37", "114201", "3080596", "3034860007", "Cypress Hills-City Line" ]
+, [ "row-9qd3-cr2n.8ttq", "00000000-0000-0000-4F01-BD745179DE0F", 0, 1534954953, null, 1534954953, null, "{ }", "One Apple Grocery Store", "609", "Wilson Avenue", "Brooklyn", "11207", "2016", "3", "40.69016", "-73.907173", "4", "37", "409", "3079530", "3034300008", "Bushwick North" ]
+, [ "row-pg7w~y66v~br82", "00000000-0000-0000-4D71-3562BD5E6BD4", 0, 1534954953, null, 1534954953, null, "{ }", "Plaza Meat Market", "100", "Cooper Street", "Brooklyn", "11207", "2016", "3", "40.68619", "-73.908898", "4", "37", "403", "3079921", "3034390035", "Bushwick South" ]
+, [ "row-4ypj-294f~54cd", "00000000-0000-0000-F42A-CAD95FCE1522", 0, 1534954953, null, 1534954953, null, "{ }", "Shorty Meat Farm", "2949", "Fulton Street", "Brooklyn", "11207", "2016", "3", "40.679549", "-73.885916", "5", "37", "117201", "3339498", "3039390027", "Cypress Hills-City Line" ]
+, [ "row-fqqt_fu43_bf3g", "00000000-0000-0000-EC34-62DDF4C0C8AF", 0, 1534954953, null, 1534954953, null, "{ }", "Sunny Supermarket", "200", "Jamaica Avenue", "Brooklyn", "11207", "2016", "3", "40.68039", "-73.892682", "5", "37", "1146", "3342632", "3039170007", "Cypress Hills-City Line" ]
+, [ "row-f83h.bbhg_a37p", "00000000-0000-0000-AF11-50E0596F668F", 0, 1534954953, null, 1534954953, null, "{ }", "VLT Mini Market Inc.", "2837", "Fulton Street", "Brooklyn", "11207", "2016", "3", "40.678348", "-73.889747", "5", "37", "1146", "3087552", "3039350052", "Cypress Hills-City Line" ]
+, [ "row-9sqw-jskv.qgq9", "00000000-0000-0000-2D90-1FB12618A9E8", 0, 1534954953, null, 1534954953, null, "{ }", "Comidas Dominicanas Capellan Deli", "1626", "Park Avenue", "New York", "10029", "2015", "3", "40.798843", "-73.943587", "11", "8", "184", "1051645", "1016210035", "East Harlem North" ]
+, [ "row-f8tj.9mgd_64kf", "00000000-0000-0000-0872-0946D73CEA32", 0, 1534954953, null, 1534954953, null, "{ }", "Deli Superette", "1858", "Lexington Avenue", "New York", "10029", "2015", "3", "40.798118", "-73.942006", "11", "8", "182", "1052235", "1016430015", "East Harlem North" ]
+, [ "row-459d~swvs~yjmt", "00000000-0000-0000-FBFA-A20492183E9B", 0, 1534954953, null, 1534954953, null, "{ }", "Puchito Grocery", "2122", "2nd Avenue", "New York", "10029", "2015", "3", "40.792642", "-73.940956", "11", "8", "180", "1052825", "1016810001", "East Harlem North" ]
+, [ "row-x232.wpxx_ycdx", "00000000-0000-0000-80BA-1D375962E863", 0, 1534954953, null, 1534954953, null, "{ }", "Annabelle Deli", "2121", "2nd Avenue", "New York", "10029", "2015", "3", "40.792729", "-73.940913", "11", "8", "180", "1052437", "1016590021", "East Harlem North" ]
+, [ "row-hhbf-riwf~hxks", "00000000-0000-0000-B3A9-D8264B66B452", 0, 1534954953, null, 1534954953, null, "{ }", "Juice Bar Deli", "308", "East 116th Street", "New York", "10029", "2015", "3", "40.796768", "-73.937236", "11", "8", "188", "1052929", "1016870046", "East Harlem North" ]
+, [ "row-ja49~uf67-74kn", "00000000-0000-0000-CD20-B97577D1625E", 0, 1534954953, null, 1534954953, null, "{ }", "AA Deli and Grocery", "2100", "2nd Avenue", "New York", "10029", "2015", "3", "40.792074", "-73.941372", "11", "8", "170", "1052801", "1016800001", "East Harlem South" ]
+, [ "row-8d4v-7fgj-i4bi", "00000000-0000-0000-D1B2-7B5049466584", 0, 1534954953, null, 1534954953, null, "{ }", "Mini Market Corps", "1690", "Lexington Avenue", "New York", "10029", "2015", "3", "40.79235", "-73.946215", "11", "8", "172", "1052019", "1016340015", "East Harlem South" ]
+, [ "row-puds~n8f5.es3g", "00000000-0000-0000-E8D4-1F47B441A2F3", 0, 1534954953, null, 1534954953, null, "{ }", "Madison Deli and Grocery", "1550", "Madison Avenue", "New York", "10029", "2015", "3", "40.792753", "-73.950144", "11", "8", "168", "1051507", "1016100058", "East Harlem South" ]
+, [ "row-rpph~9kd9-pej6", "00000000-0000-0000-D69B-9B48FD23072A", 0, 1534954953, null, 1534954953, null, "{ }", "El Tepeyac Grocery", "1621", "Lexington Avenue", "New York", "10029", "2015", "3", "40.789922", "-73.947961", "11", "8", "166", "1051884", "1016300021", "East Harlem South" ]
+, [ "row-6qx3.fz58~u4i4", "00000000-0000-0000-08B6-37FA88AD80A7", 0, 1534954953, null, 1534954953, null, "{ }", "Mi Mexico Mini Market", "172", "East 104th Street", "New York", "10029", "2015", "3", "40.790605", "-73.946469", "11", "8", "166", "1051933", "1016310045", "East Harlem South" ]
+, [ "row-wrx4-ppe6.hzug", "00000000-0000-0000-D66C-EB9E8BA19481", 0, 1534954953, null, 1534954953, null, "{ }", "East Side Gourmet Deli", "1863", "3rd Avenue", "New York", "10029", "2015", "3", "40.789515", "-73.946163", "11", "8", "164", null, null, "East Harlem South" ]
+, [ "row-hakf~seag_unse", "00000000-0000-0000-25EF-40D763893D35", 0, 1534954953, null, 1534954953, null, "{ }", "2015 Food Deli", "2015", "1st Avenue", "New York", "10029", "2015", "3", "40.788176", "-73.941133", "11", "8", "164", "1052687", "1016750029", "East Harlem South" ]
+, [ "row-wsn7-qh4c_ne43", "00000000-0000-0000-8DFD-3F74124F5487", 0, 1534954953, null, 1534954953, null, "{ }", "JJ Food  Market", "153", "East 99th Street", "New York", "10029", "2015", "3", "40.787686", "-73.94923", "11", "5", "166", "1051758", "1016270023", "East Harlem South" ]
+, [ "row-j83m~pc5c.vhrx", "00000000-0000-0000-ED02-DF3AB9D00682", 0, 1534954953, null, 1534954953, null, "{ }", "Deli Mini Mart", "339", "East 115th Street", "New York", "10029", "2015", "3", "40.79565", "-73.936703", "11", "8", "188", "1052907", "1016870021", "East Harlem North" ]
+, [ "row-y5mt.98va.8jk6", "00000000-0000-0000-9E81-C3562A115D30", 0, 1534954953, null, 1534954953, null, "{ }", "Cherry Deli Gourmet", "1575", "Lexington Avenue", "New York", "10029", "2015", "3", "40.78874", "-73.948825", "11", "8", "166", "1051813", "1016280050", "East Harlem South" ]
+, [ "row-tm5u-zbfc_n5pv", "00000000-0000-0000-78F7-FC0033E6B188", 0, 1534954953, null, 1534954953, null, "{ }", "Cherry Valley Market", "309", "East 115th Street", "New York", "10029", "2015", "3", "40.796167", "-73.937941", "11", "8", "188", "1052901", "1016870005", "East Harlem North" ]
+, [ "row-c77s_mshb~bq37", "00000000-0000-0000-5531-7A9F6D3520B6", 0, 1534954953, null, 1534954953, null, "{ }", "Super Fi Emporium", "1635", "Lexington Avenue", "New York", "10029", "2015", "3", "40.790501", "-73.947538", "11", "8", "166", "1089312", "1016317501", "East Harlem South" ]
+, [ "row-a3tb_8zib~esju", "00000000-0000-0000-2237-C0C5B6E4C003", 0, 1534954953, null, 1534954953, null, "{ }", "NYC Fresh Market", "1656", "Madison Avenue", "New York", "10029", "2015", "3", "40.796358", "-73.947512", "11", "9", "17402", "1085254", "1016160001", "East Harlem South" ]
+, [ "row-a2t2-j63i-ct5d", "00000000-0000-0000-C22D-F018EA5ED5F2", 0, 1534954953, null, 1534954953, null, "{ }", "Fine Fare", "1718", "Madison Avenue", "New York", "10029", "2015", "3", "40.798265", "-73.94612", "11", "9", "184", "1080504", "1016180001", "East Harlem North" ]
+, [ "row-ttja_ihzt-cppp", "00000000-0000-0000-3009-B6A6E0B1B229", 0, 1534954953, null, 1534954953, null, "{ }", "City Fresh Market", "235", "East 106th Street", "New York", "10029", "2015", "3", "40.791026", "-73.943359", "11", "8", "170", "1084323", "1016560001", "East Harlem South" ]
+, [ "row-at3u.63tf~ufd7", "00000000-0000-0000-1EC8-FE5850BBE801", 0, 1534954953, null, 1534954953, null, "{ }", "1408 Deli & Grocery Corp.", "1408", "Fulton Avenue", "Bronx", "10456", "2016", "4", "40.834741", "-73.901771", "3", "16", "149", "2009720", "2029320015", "Morrisania-Melrose" ]
+, [ "row-8ay2.wiae-xqa2", "00000000-0000-0000-9A48-E86E66DF3052", 0, 1534954953, null, 1534954953, null, "{ }", "2009 Melissa Deli Corp.", "621", "East 170th Street", "Bronx", "10456", "2016", "4", "40.834199", "-73.900167", "3", "16", "149", "2009800", "2029360001", "Morrisania-Melrose" ]
+, [ "row-ws6f_46vg-9dn8", "00000000-0000-0000-E78F-2388EB2ABE55", 0, 1534954953, null, 1534954953, null, "{ }", "99 Cent Deli Square", "3754", "3rd AVE", "Bronx", "10456", "2016", "4", "40.836328", "-73.902603", "3", "16", "169", "2009632", "2029270007", "Claremont-Bathgate" ]
+, [ "row-xwwd~v8dt~8vqu", "00000000-0000-0000-D02F-95836E7CB0D5", 0, 1534954953, null, 1534954953, null, "{ }", "Associated Supermarket", "724", "East 161st Street", "Bronx", "10456", "2016", "4", "40.821432", "-73.905183", "1", "17", "77", "2098384", "2026470045", "Melrose South-Mott Haven North" ]
+, [ "row-d7u5-mtw8.cdac", "00000000-0000-0000-B5D8-FFFAE0BE2DB1", 0, 1534954953, null, 1534954953, null, "{ }", "Baraka African Market", "1345", "Webster Avenue", "Bronx", "10456", "2016", "4", "40.835698", "-73.907714", "4", "16", "17702", "2009309", "2028870165", "East Concourse-Concourse Village" ]
+, [ "row-gdsg_x3ne_8k3h", "00000000-0000-0000-FF25-543D10F3CC79", 0, 1534954953, null, 1534954953, null, "{ }", "College Ave.  Deli and Market Inc.", "288", "East 168th Street", "Bronx", "10456", "2016", "4", "40.833333", "-73.912802", "4", "16", "175", "2002293", "2024350015", "East Concourse-Concourse Village" ]
+, [ "row-sgip-cwit~wmzu", "00000000-0000-0000-3BE7-7B09880DBBA0", 0, 1534954953, null, 1534954953, null, "{ }", "First Food Market", "3706", "3rd Avenue", "Bronx", "10456", "2016", "4", "40.835694", "-73.903052", "3", "16", "14702", "2009624", "2029260002", "Claremont-Bathgate" ]
+, [ "row-f6eq.nmey~wvu2", "00000000-0000-0000-B2A1-B719AFDC3CEA", 0, 1534954953, null, 1534954953, null, "{ }", "Food Bazaar", "535", "East 170th Street", "Bronx", "10456", "2016", "4", "40.834931", "-73.903144", "3", "16", "14702", "2009624", "2029260002", "Claremont-Bathgate" ]
+, [ "row-69wd~f5id_g96t", "00000000-0000-0000-5275-9880E8D2C78C", 0, 1534954953, null, 1534954953, null, "{ }", "Key Food Supermarket.", "340", "Pennsylvania Avenue", "Bronx", "10456", "2016", "4", null, null, null, null, null, null, null, null ]
+, [ "row-4xbu~n59r.57yu", "00000000-0000-0000-B31F-A711C2E9210B", 0, 1534954953, null, 1534954953, null, "{ }", "La Hermadad Supermarket Inc.", "193", "McClellan Street", "Bronx", "10456", "2016", "4", "40.832698", "-73.917847", "4", "16", "18102", "2002752", "2024560181", "East Concourse-Concourse Village" ]
+, [ "row-y9wd-ei4z_mk28", "00000000-0000-0000-A511-AC049A38B063", 0, 1534954953, null, 1534954953, null, "{ }", "M&G Food Corp.", "391", "East 167th Street", "Bronx", "10456", "2016", "4", "40.830848", "-73.910854", "4", "16", "17701", "2002074", "2024260048", "East Concourse-Concourse Village" ]
+, [ "row-98g3.q3hk~3uf6", "00000000-0000-0000-8533-5C34336F77E7", 0, 1534954953, null, 1534954953, null, "{ }", "Soumandji Meat Fish Market", "381", "East 169th Street", "Bronx", "10456", "2016", "4", "40.834317", "-73.909953", "4", "16", "17702", "2007151", "2027820147", "East Concourse-Concourse Village" ]
+, [ "row-qna4_rpwz_a4ei", "00000000-0000-0000-22BA-B203F79259CE", 0, 1534954953, null, 1534954953, null, "{ }", "Z&F Deli Grocery", "3321", "Third Avenue", "Bronx", "10456", "2016", "4", "40.826215", "-73.907857", "3", "17", "185", "2116712", "2023697502", "Morrisania-Melrose" ]
+, [ "row-js4h~ss2z.m5ry", "00000000-0000-0000-CE2C-89FF18674C6B", 0, 1534954953, null, 1534954953, null, "{ }", "Angelic Grocery and Deli Corp", "305", "Jerome St", "Brooklyn", "11207", "2016", "4", "40.67425", "-73.886974", "5", "37", "1150", "3088849", "3039980011", "East New York" ]
+, [ "row-a6cq.v6bk.u5ig", "00000000-0000-0000-1C97-8911040F3CD3", 0, 1534954953, null, 1534954953, null, "{ }", "Dama Food Market", "2303", "Pitkin Avenue", "Brooklyn", "11207", "2016", "4", "40.673169", "-73.887315", "5", "37", "1150", "3088841", "3039970034", "East New York" ]
+, [ "row-f6rj-upk5.hrzd", "00000000-0000-0000-1BD6-AAE2F36C92DF", 0, 1534954953, null, 1534954953, null, "{ }", "Danilo's Corp Deli Grocery", "731", "Schenck Avenue", "Brooklyn", "11207", "2016", "4", "40.662374", "-73.884828", "5", "42", "1104", "3097519", "3043310059", "East New York" ]
+, [ "row-7z7f_uwwe-paxk", "00000000-0000-0000-DF8B-962CC4224556", 0, 1534954953, null, 1534954953, null, "{ }", "George Deli & Grocery", "710", "Georgia Avenue", "Brooklyn", "11207", "2016", "4", "40.659602", "-73.893566", "5", "42", "1130", "3402540", "3042960039", "East New York (Pennsylvania Ave)" ]
+, [ "row-a78j~57ry.tdin", "00000000-0000-0000-A318-5D7401A2BE02", 0, 1534954953, null, 1534954953, null, "{ }", "JLC Deli Grocery", "653", "Liberty Avenue", "Brooklyn", "11207", "2016", "4", "40.676038", "-73.885551", "5", "37", "1170", "3088356", "3039680042", "East New York" ]
+, [ "row-tx6r~6u9p~va57", "00000000-0000-0000-D6C2-CD1186E67115", 0, 1534954953, null, 1534954953, null, "{ }", "Melissa Meat Market", "772", "Sutter Avenue", "Brooklyn", "11207", "2016", "4", "40.670122", "-73.890085", "5", "42", "1160", "3089672", "3040410027", "East New York" ]
+, [ "row-ihwm.byhc.gf4d", "00000000-0000-0000-A69A-3B97E866EA0A", 0, 1534954953, null, 1534954953, null, "{ }", "Quezada Deli Grocery", "570", "Van Siclen Avenue", "Brooklyn", "11207", "2016", "4", "40.66582", "-73.888567", "5", "42", "1124", "3090357", "3040730052", "East New York" ]
+, [ "row-dqwt.rawb-csjz", "00000000-0000-0000-EAD9-97172FECF766", 0, 1534954953, null, 1534954953, null, "{ }", "Sajoma Deli Grocery", "772", "Miller Avenue", "Brooklyn", "11207", "2016", "4", "40.661971", "-73.887788", "5", "42", "1122", "3096720", "3043030037", "East New York (Pennsylvania Ave)" ]
+, [ "row-775v.hs5x_zexs", "00000000-0000-0000-52A0-63DEDB98868E", 0, 1534954953, null, 1534954953, null, "{ }", "VA Grocery & Deli Corp  \n(Brother's Mini Market)", "207", "Hull Street", "Brooklyn", "11207", "2016", "4", "40.679876", "-73.908009", "16", "37", "369", "3041784", "3015350057", "Ocean Hill" ]
+, [ "row-gg76-g2sr.87x5", "00000000-0000-0000-1A87-3DF442327FB3", 0, 1534954953, null, 1534954953, null, "{ }", "Wild Olive Market", "10", "East 125th Street", "New York", "10035", "2016", "4", "40.806215", "-73.941807", "11", "9", "198", "1085291", "1017490066", "East Harlem North" ]
+, [ "row-g8bd~2w7w-in3d", "00000000-0000-0000-88E5-D0D7A5E99C9F", 0, 1534954953, null, 1534954953, null, "{ }", "Juan Calito Meat Corp./City Fresh", "2212", "3rd Avenue", "New York", "10035", "2016", "4", "40.80083", "-73.937926", "11", "8", "196", "1087272", "1017697501", "East Harlem North" ]
+, [ "row-nyxt~63xq_saaj", "00000000-0000-0000-BA1B-0BDA33DFC204", 0, 1534954953, null, 1534954953, null, "{ }", "Prince Deli Grocery", "1461", "5th Avenue", "New York", "10035", "2016", "4", "40.80211", "-73.945394", "11", "9", "184", "1053946", "1017450001", "East Harlem North" ]
+, [ "row-x7bn.vxn6-ct2y", "00000000-0000-0000-F057-D3FF16A3F503", 0, 1534954953, null, 1534954953, null, "{ }", "TSM 2ND Ave Gourmet Deli", "248", "East 119th street", "New York", "10035", "2016", "4", "40.799408", "-73.937479", "11", "8", "188", "1054534", "1017830028", "East Harlem North" ]
+, [ "row-t6e4~39vz~gxfk", "00000000-0000-0000-CB13-B7F2996FE6D7", 0, 1534954953, null, 1534954953, null, "{ }", "Fine Fare Supermarket", "2330", "1st Avenue", "New York", "10035", "2016", "4", "40.798278", "-73.933731", "11", "8", "192", "1054882", "1018070048", "East Harlem North" ]
+, [ "row-zai9.5gjt_zna6", "00000000-0000-0000-D9B2-CC428D52BF74", 0, 1534954953, null, 1534954953, null, "{ }", "Viva Deli", "2330", "1st Avenue", "New York", "10035", "2016", "4", "40.798278", "-73.933731", "11", "8", "192", "1054882", "1018070048", "East Harlem North" ]
+, [ "row-9ikr_d39u_rp5m", "00000000-0000-0000-D657-30F135309B96", 0, 1534954953, null, 1534954953, null, "{ }", "Abdur Sami", "2262", "2nd Avenue", "New York", "10035", "2016", "4", "40.797155", "-73.937651", "11", "8", "188", "1052946", "1016880001", "East Harlem North" ]
+, [ "row-8da7_i9d5.yag5", "00000000-0000-0000-5AC0-DCD6AC22CCE7", 0, 1534954953, null, 1534954953, null, "{ }", "Mis Hijos", "2401", "2nd Avenue", "New York", "10035", "2016", "4", "40.801484", "-73.934425", "11", "8", "194", "1054643", "1017880022", "East Harlem North" ]
+, [ "row-srmj_3kjk-6743", "00000000-0000-0000-89BC-7961908F0620", 0, 1534954953, null, 1534954953, null, "{ }", "Oasis Gourmet Deli", "1966", "Madison Avenue", "New York", "10035", "2016", "4", "40.806313", "-73.94024", "11", "9", "198", "1054058", "1017500056", "East Harlem North" ]
+, [ "row-q6z2.79c8.bg4c", "00000000-0000-0000-8177-451285F389F3", 0, 1534954953, null, 1534954953, null, "{ }", "Tasty Pick Deli & Grocery", "1878", "Lexington Avenue", "New York", "10035", "2016", "4", "40.799202", "-73.94121", "11", "8", "182", "1052330", "1016440156", "East Harlem North" ]
+, [ "row-skwn.5pzp.pmxp", "00000000-0000-0000-F274-44A6239D132C", 0, 1534954953, null, 1534954953, null, "{ }", "K&O Deli Grocery", "2288", "2nd Avenue", "New York", "10035", "2016", "4", "40.797964", "-73.937061", "11", "8", "188", "1052985", "1016890004", "East Harlem North" ]
+, [ "row-bkcb-avn5~z3yk", "00000000-0000-0000-E023-D3D9D2111297", 0, 1534954953, null, 1534954953, null, "{ }", "Finest Food Corp", "315", "Pleasant Avenue", "New York", "10035", "2016", "4", "40.795527", "-73.932824", "11", "8", "178", "1053088", "1017100029", "East Harlem North" ]
+, [ "row-cavk~svef_fndb", "00000000-0000-0000-B9D6-3D78AF011158", 0, 1534954953, null, 1534954953, null, "{ }", "2001 GOURMET DELI", "2001", "CLINTON AVE", "Bronx", "10457", "2017", "5", "40.846375", "-73.888858", "6", "17", "371", "2012682", "2030950057", "East Tremont" ]
+, [ "row-hnnx-uddt_9qep", "00000000-0000-0000-5227-5C829D65FB9F", 0, 1534954953, null, 1534954953, null, "{ }", "347 CHABELY DELI GROCERY", "347", "E 173RD ST", "Bronx", "10457", "2017", "5", "40.843433", "-73.905145", "4", "15", "22902", "2007331", "2027900057", "Mount Hope" ]
+, [ "row-8ky9_a48f-w478", "00000000-0000-0000-1494-7CBCC09911AB", 0, 1534954953, null, 1534954953, null, "{ }", "ALFONSOS DELI & GROCERY", "2236", "GRAND CONCOURSE", "Bronx", "10457", "2017", "5", "40.856256", "-73.90064", "5", "15", "38301", "2013718", "2031580001", "Fordham South" ]
+, [ "row-eb2p.8rmp_zw6c", "00000000-0000-0000-3050-9CAE2E3B038A", 0, 1534954953, null, 1534954953, null, "{ }", "AMIGOS GROCERY", "551", "EAST 172ND ST", "Bronx", "10457", "2017", "5", "40.839504", "-73.899545", "3", "16", "167", "2009658", "2029290082", "Claremont-Bathgate" ]
+, [ "row-tagb.q745-g8th", "00000000-0000-0000-3855-D08315DF87D0", 0, 1534954953, null, 1534954953, null, "{ }", "FELINO GROCERY", "1836", "ANTHONY AVE", "Bronx", "10457", "2017", "5", "40.847412", "-73.903704", "5", "15", "23302", "2007579", "2028030001", "Mount Hope" ]
+, [ "row-snbd-q7xn~cexc", "00000000-0000-0000-ACB8-327758321C19", 0, 1534954953, null, 1534954953, null, "{ }", "FELOMAR GROCERY STORE", "154", "E 175TH ST", "Bronx", "10457", "2017", "5", "40.846798", "-73.908111", "5", "15", "22901", "2007424", "2027960028", "Mount Hope" ]
+, [ "row-ur9b~9f8u_ugdu", "00000000-0000-0000-4197-7911E45C11E4", 0, 1534954953, null, 1534954953, null, "{ }", "HABIBI DELI", "2070", "CLINTON AVE", "Bronx", "10457", "2017", "5", "40.847236", "-73.888101", "6", "15", "371", "2012652", "2030940014", "East Tremont" ]
+, [ "row-fv79_ihy6~xa2u", "00000000-0000-0000-3AFD-CA6FB15D89E3", 0, 1534954953, null, 1534954953, null, "{ }", "LOS PALMARITOS DELI GROCERY", "2080", "VALENTINE AVE", "Bronx", "10457", "2017", "5", "40.852753", "-73.899897", "5", "15", "379", "2013341", "2031440001", "Mount Hope" ]
+, [ "row-azm7_4y75.vunj", "00000000-0000-0000-9D13-8BCF8233715F", 0, 1534954953, null, 1534954953, null, "{ }", "PAULINO GROCERY", "4378", "3RD AVE", "Bronx", "10457", "2017", "5", "40.850821", "-73.893958", "6", "15", "37504", "2011850", "2030620001", "East Tremont" ]
+, [ "row-a2af_qpsd~kf4v", "00000000-0000-0000-44A3-FF4B8CD6A708", 0, 1534954953, null, 1534954953, null, "{ }", "SAER & JAMAL MARKET 2", "563", "E TREMONT AVE", "Bronx", "10457", "2017", "5", "40.846509", "-73.894814", "6", "15", "37504", "2011828", "2030600050", "East Tremont" ]
+, [ "row-mxmj_cspt.phqc", "00000000-0000-0000-4137-C588700EF933", 0, 1534954953, null, 1534954953, null, "{ }", "CONCOURSE FOOD PLAZA", "2096", "GRAND CONCOURSE", "Bronx", "10457", "2017", "5", "40.854042", "-73.902295", "5", "15", "23502", "2013681", "2031560102", "Mount Hope" ]
+, [ "row-r89m_qdd6.pf26", "00000000-0000-0000-26CF-68758C62143D", 0, 1534954953, null, 1534954953, null, "{ }", "305 GROCERY DELI", "305", "EAST 181ST ST", "Bronx", "10457", "2017", "5", "40.854045", "-73.899172", "5", "15", "379", "2013375", "2031440045", "Mount Hope" ]
+, [ "row-s4de.yaj5_4guc", "00000000-0000-0000-0D2D-51E7C62BC8F5", 0, 1534954953, null, 1534954953, null, "{ }", "551 REY FOOD", "551", "E 178TH ST", "Bronx", "10457", "2017", "5", "40.847528", "-73.894599", "6", "15", "37504", "2011842", "2030610036", "East Tremont" ]
+, [ "row-ysux.hqxe_rxdh", "00000000-0000-0000-4B0F-3D506220E4DD", 0, 1534954953, null, 1534954953, null, "{ }", "ALANTE ALANTE DELI GROCERY", "207", "MT HOPE PL", "Bronx", "10457", "2017", "5", "40.84833", "-73.905669", "5", "15", "23302", "2007592", "2028040001", "Mount Hope" ]
+, [ "row-xtsr_wmp7~jiku", "00000000-0000-0000-E466-39D04E42EF22", 0, 1534954953, null, 1534954953, null, "{ }", "BANESA DELI GROCERY 2", "2007", "ANTHONY AVE", "Bronx", "10457", "2017", "5", "40.851468", "-73.902885", "5", "15", "23502", "2007758", "2028130001", "Mount Hope" ]
+, [ "row-29zi~jqst.m8kv", "00000000-0000-0000-B428-1C0E1EF4AA31", 0, 1534954953, null, 1534954953, null, "{ }", "BODEGA BUILT", "601", "EAST 180TH STREET", "Bronx", "10457", "2017", "5", "40.849394", "-73.891375", "6", "15", "373", "2012024", "2030700001", "East Tremont" ]
+, [ "row-58vp.mcuj-dppv", "00000000-0000-0000-A919-BF46884F3CAF", 0, 1534954953, null, 1534954953, null, "{ }", "CHICKEN DELI GROCERY", "555", "EAST 180TH ST", "Bronx", "10457", "2017", "5", "40.850351", "-73.893326", "6", "15", "37504", "2011853", "2030620015", "East Tremont" ]
+, [ "row-9teg~68m3~in3m", "00000000-0000-0000-C500-BD5AC35BAC39", 0, 1534954953, null, 1534954953, null, "{ }", "JJN CORP", "1512", "WASHINGTON AVE", "Bronx", "10457", "2017", "5", "40.837956", "-73.90315", "3", "16", "169", "2009543", "2029120001", "Claremont-Bathgate" ]
+, [ "row-g5xb.eca3_9962", "00000000-0000-0000-32CF-6819D640A55B", 0, 1534954953, null, 1534954953, null, "{ }", "LOS PRIMOS DELI GROCERY", "1798", "CROTONA AVE", "Bronx", "10457", "2017", "5", "40.842792", "-73.893526", "6", "17", "36902", "2009916", "2029480001", "East Tremont" ]
+, [ "row-eb8z-ca2g.dqwa", "00000000-0000-0000-F22E-687DB7302A8F", 0, 1534954953, null, 1534954953, null, "{ }", "ZAEL DELI & GROCERY", "2160", "TIEBOUT AVE", "Bronx", "10457", "2017", "5", "40.854091", "-73.898554", "5", "15", "38302", "2013317", "2031430130", "Fordham South" ]
+, [ "row-vczb.3dk8.fjsa", "00000000-0000-0000-B7F7-48108EB4CC86", 0, 1534954953, null, 1534954953, null, "{ }", "FINE FARE SUPERMARKET", "708", "East TREMONT AVE", "Bronx", "10457", "2017", "5", "40.845227", "-73.890771", "6", "17", "36901", "2009975", "2029500054", "East Tremont" ]
+, [ "row-4did.jzev.dhvh", "00000000-0000-0000-0C1C-C6A19998EC6E", 0, 1534954953, null, 1534954953, null, "{ }", "C & T DELI GROCERY STORE", "2275", "WASHINGTON AVE", "Bronx", "10457", "2017", "5", "40.855028", "-73.893336", "6", "15", "385", "2011339", "2030380027", "Claremont-Bathgate" ]
+, [ "row-esy2.c2cu~4rys", "00000000-0000-0000-6B5F-C796C86E51AF", 0, 1534954953, null, 1534954953, null, "{ }", "C-TOWN", "309", "East BURNSIDE AVE", "Bronx", "10457", "2017", "5", "40.850588", "-73.901133", "5", "15", "381", "2013524", "2031490068", "Mount Hope" ]
+, [ "row-uysn-deyb_8x2h", "00000000-0000-0000-70C8-12B169116EF3", 0, 1534954953, null, 1534954953, null, "{ }", "LOS PRIMOS GROCERY", "1965", "WEBSTER AVE", "Bronx", "10457", "2017", "5", "40.849462", "-73.899949", "5", "15", "379", "2013301", "2031420094", "Mount Hope" ]
+, [ "row-b89c_5qsg.a96f", "00000000-0000-0000-9DB3-47ED998E8288", 0, 1534954953, null, 1534954953, null, "{ }", "269 MINI MARKET & DELI", "269", "East BURNSIDE AVE", "Bronx", "10457", "2017", "5", "40.851333", "-73.902133", "5", "15", "381", "2013676", "2031567501", "Mount Hope" ]
+, [ "row-f5zq.bbix.uh5q", "00000000-0000-0000-03B9-D7109216F7C2", 0, 1534954953, null, 1534954953, null, "{ }", "JR 2121 DELI GROCERY", "2121", "BELMONT AVE", "Bronx", "10457", "2017", "5", "40.849172", "-73.889446", "6", "15", "373", "2012356", "2030810013", "East Tremont" ]
+, [ "row-r7nb-akr7~my3q", "00000000-0000-0000-17B9-9D6861AEC006", 0, 1534954953, null, 1534954953, null, "{ }", "BBB DELI GROCERY", "214B", "E 180TH ST", "Bronx", "10457", "2017", "5", "40.853232", "-73.901971", "5", "15", "23502", "2013632", "2031560018", "Mount Hope" ]
+, [ "row-wnnu_87ie.4s6y", "00000000-0000-0000-ED71-53D623FD36E9", 0, 1534954953, null, 1534954953, null, "{ }", "DIAZ DELI GROCERY", "306", "E 178TH ST", "Bronx", "10457", "2017", "5", "40.849999", "-73.902497", "5", "15", "381", "2007766", "2028140029", "Mount Hope" ]
+, [ "row-spqe~ekxf-epxf", "00000000-0000-0000-C6E2-DEBAAB578196", 0, 1534954953, null, 1534954953, null, "{ }", "LA ANTILLANA MEAT WAREHOUSE", "245", "East TREMONT AVE", "Bronx", "10457", "2017", "5", "40.848922", "-73.904407", "5", "15", "23502", "2007717", "2028090045", "Mount Hope" ]
+, [ "row-vv2w-bckt_m9hm", "00000000-0000-0000-6494-34AB05778B13", 0, 1534954953, null, 1534954953, null, "{ }", "JADE FOOD CENTER", "3822", "3RD AVE", "Bronx", "10457", "2017", "5", "40.837875", "-73.901412", "3", "16", "169", "2009644", "2029280012", "Claremont-Bathgate" ]
+, [ "row-egi4-527i_4cwk", "00000000-0000-0000-AEC7-669D80224307", 0, 1534954953, null, 1534954953, null, "{ }", "OJ DELI GROCERY", "230", "E 174TH ST", "Bronx", "10457", "2017", "5", "40.84472", "-73.907427", "4", "15", "22902", "2007368", "2027920037", "Mount Hope" ]
+, [ "row-xctt~dk7i.86ay", "00000000-0000-0000-5AD9-6CF20B46F9CC", 0, 1534954953, null, 1534954953, null, "{ }", "LA BODEGUITA DE ROSAURA", "160", "E 174TH ST", "Bronx", "10457", "2017", "5", "40.844817", "-73.909238", "4", "15", "22902", "2007398", "2027940042", "Mount Hope" ]
+, [ "row-kz5a-gmnz~2g5z", "00000000-0000-0000-6503-E63496711C7D", 0, 1534954953, null, 1534954953, null, "{ }", "EXPRESS MARKET", "469", "E TREMONT AVE", "Bronx", "10457", "2017", "5", "40.847075", "-73.898247", "6", "15", "395", "2011246", "2030340046", "Claremont-Bathgate" ]
+, [ "row-9vcc_54it-ss8s", "00000000-0000-0000-F580-2C7BAC0E159A", 0, 1534954953, null, 1534954953, null, "{ }", "3 Sisters Deli Grocery", "269", "Dumont Ave", "Brooklyn", "11212", "2017", "5", "40.664065", "-73.909566", "16", "41", "924", "3081792", "3035600048", "Brownsville" ]
+, [ "row-zg3c.j83v.knd3", "00000000-0000-0000-FCC8-40B2FAF78A7B", 0, 1534954953, null, 1534954953, null, "{ }", "702 Livonia Ave Deli", "702", "Rockaway Ave", "Brooklyn", "11212", "2017", "5", "40.662769", "-73.908984", "16", "41", "924", "3081941", "3035750001", "Brownsville" ]
+, [ "row-pwqr-kre9_4i6d", "00000000-0000-0000-3CF8-03EC8162B1E9", 0, 1534954953, null, 1534954953, null, "{ }", "Chester Food Market", "241", "Blake Ave", "Brooklyn", "11212", "2017", "5", "40.665518", "-73.910487", "16", "41", "924", "3081443", "3035430001", "Brownsville" ]
+, [ "row-idbs-7ffx_b23c", "00000000-0000-0000-7DDB-79EE7247A6F6", 0, 1534954953, null, 1534954953, null, "{ }", "MJT Grocery Store", "666", "Rockaway Ave", "Brooklyn", "11212", "2017", "5", "40.663255", "-73.909106", "16", "41", "924", "3326506", "3035750011", "Brownsville" ]
+, [ "row-crw4-9km3-7kch", "00000000-0000-0000-182C-7F093E4A942D", 0, 1534954953, null, 1534954953, null, "{ }", "Blessings Food Corp.", "578", "Rockaway Ave", "Brooklyn", "11212", "2017", "5", "40.665951", "-73.909795", "16", "41", "924", "3326651", "3035430043", "Brownsville" ]
+, [ "row-azps_mdj2~zcjv", "00000000-0000-0000-A9EF-E9C18C0F5EEB", 0, 1534954953, null, 1534954953, null, "{ }", "Rockaway Deli Food Corp.", "674", "Rockaway Ave", "Brooklyn", "11212", "2017", "5", "40.663148", "-73.909077", "16", "41", "924", "3326506", "3035750011", "Brownsville" ]
+, [ "row-8wdr-dx9w~tfce", "00000000-0000-0000-6FA0-26E25A67A030", 0, 1534954953, null, 1534954953, null, "{ }", "El Especial Deli & Gril", "774", "Rockaway Ave", "Brooklyn", "11212", "2017", "5", "40.66071", "-73.908457", "16", "42", "916", "3393959", "3036027501", "Brownsville" ]
+, [ "row-apct-ep39~cv33", "00000000-0000-0000-6BC1-4BF8FB4D9BAF", 0, 1534954953, null, 1534954953, null, "{ }", "Friendly Food & Grocery", "784", "Saratoga Ave", "Brooklyn", "11212", "2017", "5", "40.661305", "-73.91542", "16", "42", "894", "3326659", "3035820032", "Brownsville" ]
+, [ "row-h8gc~hfqx~zpui", "00000000-0000-0000-9B2D-C22A08E78BAB", 0, 1534954953, null, 1534954953, null, "{ }", "Sanaa Express Grocery", "245", "Riverdale Ave", "Brooklyn", "11212", "2017", "5", "40.661129", "-73.907812", "16", "42", "918", "3082151", "3035900001", "Brownsville" ]
+, [ "row-nidm-wnqv~jdct", "00000000-0000-0000-C259-D77F8214A713", 0, 1534954953, null, 1534954953, null, "{ }", "Cherry Valley", "381", "Mother Gaston Blvd", "Brooklyn", "11212", "2017", "5", "40.669745", "-73.906859", "16", "41", "908", "3083889", "3037260008", "Brownsville" ]
+, [ "row-x3f5~7m6m-bfd2", "00000000-0000-0000-2CC0-FC7350D5E924", 0, 1534954953, null, 1534954953, null, "{ }", "Jamao Grocery", "174", "Blake Ave", "Brooklyn", "11212", "2017", "5", "40.665097", "-73.913206", "16", "41", "898", "3081748", "3035570025", "Brownsville" ]
+, [ "row-8byz_krk6~45nt", "00000000-0000-0000-F5AB-D35540DA1B86", 0, 1534954953, null, 1534954953, null, "{ }", "Los Primos Grocery", "57", "Sutter Ave", "Brooklyn", "11212", "2017", "5", "40.665613", "-73.920587", "16", "41", "900", "3080851", "3035100076", "Brownsville" ]
+, [ "row-b36z-k5ge_xiaz", "00000000-0000-0000-DF1E-1AF056C21756", 0, 1534954953, null, 1534954953, null, "{ }", "39 Lott Grocery", "39", "Lott", "Brooklyn", "11212", "2017", "5", null, null, null, null, null, null, null, null ]
+, [ "row-ba9r_j3qj~hp4s", "00000000-0000-0000-05CB-87D7C7FE8784", 0, 1534954953, null, 1534954953, null, "{ }", "51 Deli & Grocery NYC", "51", "Hegeman Ave", "Brooklyn", "11212", "2017", "5", "40.655828", "-73.910331", "16", "42", "896", "3082720", "3036220001", "Brownsville" ]
+, [ "row-ury8-ja2n.w2an", "00000000-0000-0000-69FD-B22005510148", 0, 1534954953, null, 1534954953, null, "{ }", "77 Hegeman Mini Market", "77", "Hegeman Ave", "Brooklyn", "11212", "2017", "5", "40.655981", "-73.909322", "16", "42", "916", "3082734", "3036230001", "Brownsville" ]
+, [ "row-2dcm_7kp7-zzxp", "00000000-0000-0000-DCC8-84E40D77AC88", 0, 1534954953, null, 1534954953, null, "{ }", "Glen Deli & Grocery", "55", "Hegeman Ave", "Brooklyn", "11212", "2017", "5", "40.655883", "-73.909981", "16", "42", "916", "3082735", "3036230008", "Brownsville" ]
+, [ "row-ygur_2idp.bf3a", "00000000-0000-0000-9D60-C0B0548D2808", 0, 1534954953, null, 1534954953, null, "{ }", "Associated supermarket", "103", "Hegeman Ave", "Brooklyn", "11212", "2017", "5", "40.656153", "-73.908172", "16", "42", "916", "3082814", "3036250004", "Brownsville" ]
+, [ "row-qp9e~w4q2-kaiw", "00000000-0000-0000-2890-F07AEFD749D2", 0, 1534954953, null, 1534954953, null, "{ }", "Hidayat Deli Grocery", "1111", "Rutland Rd", "Brooklyn", "11212", "2017", "5", "40.664805", "-73.923119", "17", "41", "892", "3099558", "3046000038", "Brownsville" ]
+, [ "row-spdg.gs22_3f9k", "00000000-0000-0000-96B8-70A2AACF90A4", 0, 1534954953, null, 1534954953, null, "{ }", "T&L Deli & Grocery", "1067", "Rutland Rd", "Brooklyn", "11212", "2017", "5", "40.663944", "-73.924439", "17", "41", "892", "3099544", "3045990043", "Brownsville" ]
+, [ "row-sz3s.h84g-nqnv", "00000000-0000-0000-8B81-73ACE54E8222", 0, 1534954953, null, 1534954953, null, "{ }", "Bravo Supermarket", "80", "East 93Rd St", "Brooklyn", "11212", "2017", "5", "40.662455", "-73.926964", "17", "41", "882", "3346866", "3045950215", "Rugby-Remsen Village" ]
+, [ "row-z4u9_qtcu.9j3x", "00000000-0000-0000-B018-100B6DB2F90E", 0, 1534954953, null, 1534954953, null, "{ }", "Associated Supermarket", "190", "East 98th St", "Brooklyn", "11212", "2017", "5", "40.66264", "-73.92032", "17", "41", "892", "3100736", "3046330013", "Brownsville" ]
+, [ "row-vi87_bvxr_b6qf", "00000000-0000-0000-4D3E-59E329984BD1", 0, 1534954953, null, 1534954953, null, "{ }", "Boston MiniMarket", "9424", "Kings Highway", "Brooklyn", "11212", "2017", "5", "40.658474", "-73.920581", "17", "41", "886", "3101192", "3046490040", "Rugby-Remsen Village" ]
+, [ "row-ivre_xhgg~mda9", "00000000-0000-0000-BD1A-BBCF48C89959", 0, 1534954953, null, 1534954953, null, "{ }", "Clarkson Food", "1125", "Clarkson Ave", "Brooklyn", "11212", "2017", "5", "40.660467", "-73.92113", "17", "41", "884", "3100676", "3046310038", "Rugby-Remsen Village" ]
+, [ "row-dzy8-mu8g_2jka", "00000000-0000-0000-253F-2D8182E9E7C6", 0, 1534954953, null, 1534954953, null, "{ }", "New Way Supermarket", "1167", "Lenox Rd", "Brooklyn", "11212", "2017", "5", "40.659951", "-73.917592", "17", "41", "890", "3101284", "3046520039", "Rugby-Remsen Village" ]
+, [ "row-fbms-zigs~pnpt", "00000000-0000-0000-DEE7-9A6C46226D92", 0, 1534954953, null, 1534954953, null, "{ }", "Star Two Deli", "994", "Winthrop St", "Brooklyn", "11212", "2017", "5", "40.659738", "-73.926577", "17", "41", "866", "3100381", "3046260006", "Rugby-Remsen Village" ]
+, [ "row-96hu-cfc6.u7vm", "00000000-0000-0000-8ACC-1017867C1E86", 0, 1534954953, null, 1534954953, null, "{ }", "Ameer Food Market", "9527", "Church Ave", "Brooklyn", "11212", "2017", "5", "40.655331", "-73.916044", "17", "42", "890", "3102640", "3046920044", "Rugby-Remsen Village" ]
+, [ "row-ngi5_e6tb~urfh", "00000000-0000-0000-96E7-60954551EFAA", 0, 1534954953, null, 1534954953, null, "{ }", "El Flaco Food", "1093", "Linden Blvd", "Brooklyn", "11212", "2017", "5", "40.654327", "-73.917775", "17", "42", "888", "3102539", "3046900010", "Rugby-Remsen Village" ]
+, [ "row-re2s~8e4r.z9ij", "00000000-0000-0000-F53B-CD37AADFDD7A", 0, 1534954953, null, 1534954953, null, "{ }", "La Linda Deli Grocery", "1157", "Willmohr St", "Brooklyn", "11212", "2017", "5", "40.658163", "-73.915979", "17", "41", "890", "3101976", "3046720034", "Rugby-Remsen Village" ]
+, [ "row-4w9z.hzv5_ddsj", "00000000-0000-0000-0586-43740EF5E322", 0, 1534954953, null, 1534954953, null, "{ }", "9323 Linden Deli Food", "9323", "Church Ave", "Brooklyn", "11212", "2017", "5", "40.654538", "-73.917263", "17", "42", "888", "3102536", "3046900001", "Rugby-Remsen Village" ]
+, [ "row-duvg-5sv9.kpax", "00000000-0000-0000-B616-FCD9BD3D1284", 0, 1534954953, null, 1534954953, null, "{ }", "420 Royal Deli", "420B", "Mother Gaston Blvd", "Brooklyn", "11212", "2017", "5", "40.668668", "-73.906604", "16", "41", "906", null, null, "Brownsville" ]
+, [ "row-wuvh.32vv-43su", "00000000-0000-0000-C1DF-ED4411F82955", 0, 1534954953, null, 1534954953, null, "{ }", "Leonardo Deli Grocery", "441", "Mother Gaston Blvd", "Brooklyn", "11212", "2017", "5", "40.668248", "-73.906479", "16", "41", "908", "3084005", "3037430007", "Brownsville" ]
+, [ "row-faud_kjvr~ehnk", "00000000-0000-0000-9AD9-1581FD1E6C1F", 0, 1534954953, null, 1534954953, null, "{ }", "C-Town", "29", "Belmont Ave", "Brooklyn", "11212", "2017", "5", "40.668607", "-73.909221", "16", "41", "906", "3081095", "3035230037", "Brownsville" ]
+, [ "row-tg64-xjxs.8xi4", "00000000-0000-0000-EBE6-64BCC7FF8DB8", 0, 1534954953, null, 1534954953, null, "{ }", "Moreno Mini Market", "113", "Belmont Ave", "Brooklyn", "11212", "2017", "5", "40.669077", "-73.906038", "16", "41", "908", "3083894", "3037260034", "Brownsville" ]
+, [ "row-c48m~hp2j~n6nt", "00000000-0000-0000-8FBC-74D5E6BE9006", 0, 1534954953, null, 1534954953, null, "{ }", "Bridge Deli & Grocery", "1861", "Pitkin Ave", "Brooklyn", "11212", "2017", "5", "40.670686", "-73.904064", "16", "37", "908", "3083747", "3037120001", "Brownsville" ]
+, [ "row-bzfu-r5ht-9pg7", "00000000-0000-0000-A957-F6B5B2A7A27C", 0, 1534954953, null, 1534954953, null, "{ }", "Eye Deli & Grocery", "1540", "East New York Ave", "Brooklyn", "11212", "2017", "5", "40.672108", "-73.911243", "16", "41", "906", "3329485", "3034890120", "Brownsville" ]
+, [ "row-x2p7.8ece-s38m", "00000000-0000-0000-3B22-92C620B3E9AC", 0, 1534954953, null, 1534954953, null, "{ }", "Family Express Deli & Grocery", "112", "Watkins St", "Brooklyn", "11212", "2017", "5", "40.670289", "-73.90803", "16", "41", "906", "3338510", "3034890250", "Brownsville" ]
+, [ "row-dh4c-g3r2_qbhd", "00000000-0000-0000-0675-F520476FEA51", 0, 1534954953, null, 1534954953, null, "{ }", "Golden Deli", "1569", "E New York Ave", "Brooklyn", "11212", "2017", "5", "40.672599", "-73.910121", "16", "41", "363", "3039273", "3014610027", "Ocean Hill" ]
+, [ "row-8ccb.cnuh~q468", "00000000-0000-0000-2F59-F94C03594F9C", 0, 1534954953, null, 1534954953, null, "{ }", "New Friends Gourmet Deli", "1788", "Pitkin Ave", "Brooklyn", "11212", "2017", "5", "40.670222", "-73.907074", "16", "41", "906", "3397503", "3035250017", "Brownsville" ]
+, [ "row-bzx4_7u4x.sazw", "00000000-0000-0000-F75E-4E1665EE6A24", 0, 1534954953, null, 1534954953, null, "{ }", "Yoha Mini Market", "78", "Thatford Ave", "Brooklyn", "11212", "2017", "5", "40.670019", "-73.909865", "16", "41", "906", "3326574", "3034890228", "Brownsville" ]
+, [ "row-wrdk_rfk2_6mcs", "00000000-0000-0000-D66D-CC6AA9D8C681", 0, 1534954953, null, 1534954953, null, "{ }", "Pitikin Ave Deli & Grocery", "1801", "Pitkin Ave", "Brooklyn", "11212", "2017", "5", "40.670326", "-73.906487", "16", "37", "908", "3083739", "3037090032", "Brownsville" ]
+, [ "row-63n6.f79u~hrzg", "00000000-0000-0000-4FCB-F429366C8DFB", 0, 1534954953, null, 1534954953, null, "{ }", "Ideal Food Basket", "1488", "Pitkin Ave", "Brooklyn", "11212", "2017", "5", "40.668494", "-73.91872", "16", "41", "900", "3080901", "3035130033", "Brownsville" ]
+, [ "row-hae8_cdj4-rquu", "00000000-0000-0000-BF66-43391A4FEF2C", 0, 1534954953, null, 1534954953, null, "{ }", "Caba Deli Grocery", "1419", "E New York Ave", "Brooklyn", "11212", "2017", "5", "40.67024", "-73.915567", "16", "41", "361", "3039487", "3014720025", "Ocean Hill" ]
+, [ "row-qsuf.j932-ihpc", "00000000-0000-0000-3555-F73E75233878", 0, 1534954953, null, 1534954953, null, "{ }", "El Cibao", "38", "Herzl St", "Brooklyn", "11212", "2017", "5", "40.669062", "-73.915457", "16", "41", "902", "3326460", "3034940028", "Brownsville" ]
+, [ "row-fjiq_ywaj.hxsj", "00000000-0000-0000-C188-23C335217B65", 0, 1534954953, null, 1534954953, null, "{ }", "Shop Fair Supermarket", "256", "Livonia Ave", "Brooklyn", "11212", "2017", "5", "40.662618", "-73.908433", "16", "42", "918", "3082153", "3035900016", "Brownsville" ]
+, [ "row-ubah.xvqr-5hr2", "00000000-0000-0000-370F-545BDD1CD467", 0, 1534954953, null, 1534954953, null, "{ }", "Food Bazaar", "417", "Junius St", "Brooklyn", "11212", "2017", "5", "40.664415", "-73.901629", "16", "42", "910", "3084597", "3037980025", "Brownsville" ]
+, [ "row-d5zi-ibc3_nbt2", "00000000-0000-0000-2C2D-EED6A4D9913B", 0, 1534954953, null, 1534954953, null, "{ }", "Pioneer Supermarket", "455", "Sutter Ave", "Brooklyn", "11212", "2017", "5", "40.668324", "-73.90233", "16", "42", "908", "3394366", "3037470001", "Brownsville" ]
+, [ "row-xqdw_x255~vm6s", "00000000-0000-0000-FD9A-480631BE77C8", 0, 1534954953, null, 1534954953, null, "{ }", "Airon Food Market", "44", "New Lots Ave", "Brooklyn", "11212", "2017", "5", "40.657215", "-73.903452", "16", "42", "920", "3085891", "3038600001", "Brownsville" ]
+, [ "row-kk7v~gapb.yhb8", "00000000-0000-0000-0904-8517988C0BA3", 0, 1534954953, null, 1534954953, null, "{ }", "Giselle Mini Market", "1697", "E New York Ave", "Brooklyn", "11212", "2017", "5", "40.674615", "-73.905514", "16", "37", "36502", "3038833", "3014440041", "Ocean Hill" ]
+, [ "row-qchw-d7z6-9px9", "00000000-0000-0000-C064-286FF99B230A", 0, 1534954953, null, 1534954953, null, "{ }", "Powell Supermarket", "323", "Powell St", "Brooklyn", "11212", "2017", "5", "40.666434", "-73.90314", "16", "42", "910", "3084420", "3037800020", "Brownsville" ]
+, [ "row-ie4s_gfhu-ufuf", "00000000-0000-0000-AEF8-526DF9099EC0", 0, 1534954953, null, 1534954953, null, "{ }", "Green Village Meat Farm", "229", "Tapscott St", "Brooklyn", "11212", "2017", "5", "40.662211", "-73.919589", "16", "41", "892", "3394445", "3035650015", "Brownsville" ]
+, [ "row-gbun.cy74.surw", "00000000-0000-0000-DCCD-AC21F983BE7C", 0, 1534954953, null, 1534954953, null, "{ }", "Anabelle Deli Grocery", "2121", "2nd Ave", "New York", "10029", "2017", "5", "40.792729", "-73.940913", "11", "8", "180", "1052437", "1016590021", "East Harlem North" ]
+, [ "row-hnp6.bfxj~238p", "00000000-0000-0000-F041-32F9ED9FD05E", 0, 1534954953, null, 1534954953, null, "{ }", "Cherry Gourmet Deli", "1575", "Lexington Ave", "New York", "10029", "2017", "5", "40.78874", "-73.948825", "11", "8", "166", "1051813", "1016280050", "East Harlem South" ]
+, [ "row-srm6~ptdf-633y", "00000000-0000-0000-5158-F70B99A6CE25", 0, 1534954953, null, 1534954953, null, "{ }", "Cherry Valley Supermarket", "1968", "2nd Ave", "New York", "10029", "2017", "5", "40.787585", "-73.944655", "11", "8", "164", "1081358", "1016730001", "East Harlem South" ]
+, [ "row-m2hq~8d3p~6wct", "00000000-0000-0000-CD52-188D12C21058", 0, 1534954953, null, 1534954953, null, "{ }", "Dave’s Gourmet", "1944", "1st Ave", "New York", "10029", "2017", "5", "40.786124", "-73.942594", "11", "8", "162", "1083932", "1016940007", "East Harlem South" ]
+, [ "row-m5ut-cqgt-6pst", "00000000-0000-0000-2C9F-C509BF6B56E1", 0, 1534954953, null, 1534954953, null, "{ }", "Family 1st Deli", "2105", "1st Ave", "New York", "10029", "2017", "5", "40.791007", "-73.939069", "11", "8", "170", "1052807", "1016800023", "East Harlem South" ]
+, [ "row-rstd.q593~tp3k", "00000000-0000-0000-9E47-BD62E6C5E346", 0, 1534954953, null, 1534954953, null, "{ }", "Gold Deli", "126", "E 103rd St.", "New York", "10029", "2017", "5", "40.790581", "-73.948343", "11", "8", "166", "1051901", "1016300061", "East Harlem South" ]
+, [ "row-3t4d-7gvm_z98t", "00000000-0000-0000-1319-DDE092946851", 0, 1534954953, null, 1534954953, null, "{ }", "L&O Deli Grocery", "1618", "Madison Ave", "New York", "10029", "2017", "5", "40.795008", "-73.948495", "11", "9", "17401", "1051581", "1016140014", "East Harlem South" ]
+, [ "row-xk4g~m4aa~b85i", "00000000-0000-0000-FC57-028C71E5B916", 0, 1534954953, null, 1534954953, null, "{ }", "La Constenita Grocery", "2175", "2nd Ave", "New York", "10029", "2017", "5", "40.794249", "-73.939799", "11", "8", "180", "1052504", "1016610027", "East Harlem North" ]
+, [ "row-j8nf.tgiq-qxzx", "00000000-0000-0000-CAA8-D138B2D2BB72", 0, 1534954953, null, 1534954953, null, "{ }", "Luna Food Market", "2121", "1st Ave", "New York", "10029", "2017", "5", "40.791658", "-73.938591", "11", "8", "180", "1052837", "1016810023", "East Harlem North" ]
+, [ "row-b22p~iwxh-a3dh", "00000000-0000-0000-F40E-873D508C89DA", 0, 1534954953, null, 1534954953, null, "{ }", "Lucky Corner Deli & Pro", "2137", "2nd Ave", "New York", "10029", "2017", "5", "40.793056", "-73.94067", "11", "8", "180", "1052444", "1016590028", "East Harlem North" ]
+, [ "row-5uvn-jgt2_k3ws", "00000000-0000-0000-438D-B9D6E94E8611", 0, 1534954953, null, 1534954953, null, "{ }", "Mr. Moe’s Deli", "2001", "3rd Ave", "New York", "10029", "2017", "5", "40.793985", "-73.942905", "11", "8", "180", "1052445", "1016590045", "East Harlem North" ]
+, [ "row-3tvj-62hj_7qyq", "00000000-0000-0000-1BE2-73DA978A4DC8", 0, 1534954953, null, 1534954953, null, "{ }", ".NYC Fresh Market", "1660", "Madison Ave", "New York", "10029", "2017", "5", "40.796457", "-73.947439", "11", "9", "17402", "1085254", "1016160001", "East Harlem South" ]
+, [ "row-8f69.7jij.8kgc", "00000000-0000-0000-CC62-2AF2F24CCBE4", 0, 1534954953, null, 1534954953, null, "{ }", "Puchito Grocery", "2122", "2nd Ave", "New York", "10029", "2017", "5", "40.792642", "-73.940956", "11", "8", "180", "1052825", "1016810001", "East Harlem North" ]
+, [ "row-gci8.25y7~hi8n", "00000000-0000-0000-8E78-006C1CFEC191", 0, 1534954953, null, 1534954953, null, "{ }", "Raspberry Deli", "2127", "2nd Ave", "New York", "10029", "2017", "5", "40.792853", "-73.940822", "11", "8", "180", "1052439", "1016590023", "East Harlem North" ]
+, [ "row-n9pf~rm2w.72hp", "00000000-0000-0000-4380-CE7A9CBF7D08", 0, 1534954953, null, 1534954953, null, "{ }", "East Harlem Grocery", "85 E", "110th St.", "New York", "10029", "2017", "5", "40.795771", "-73.946725", "11", "8", "17402", "1051617", "1016160035", "East Harlem South" ]
+, [ "row-ugy8-tzbt~9ie4", "00000000-0000-0000-B405-C0D5B593415A", 0, 1534954953, null, 1534954953, null, "{ }", "Sun & Moon Deli", "142", "E 112th St.", "New York", "10029", "2017", "5", "40.796145", "-73.943676", "11", "8", "172", "1087212", "1016390057", "East Harlem South" ]
+, [ "row-y4px-d997_hvtz", "00000000-0000-0000-8A56-6341CDFC23F8", 0, 1534954953, null, 1534954953, null, "{ }", "Garden Gourmet", "2019", "1st Ave", "New York", "10029", "2017", "5", "40.788417", "-73.94096", "11", "8", "170", "1087780", "1016767504", "East Harlem South" ]
+, [ "row-dkh4_kevk_4jjp", "00000000-0000-0000-86F4-E5E4972CA550", 0, 1534954953, null, 1534954953, null, "{ }", "2037 Meat & Grocery", "2037", "2nd Ave", "New York", "10029", "2017", "5", "40.789717", "-73.943111", "11", "8", "170", "1052391", "1016540027", "East Harlem South" ]
+, [ "row-duvt_q26h-2w9g", "00000000-0000-0000-0C6D-1780822B57CE", 0, 1534954953, null, 1534954953, null, "{ }", "Oxford 2 Deli Grocery", "2024", "2nd Ave", "New York", "10029", "2017", "5", "40.789379", "-73.943332", "11", "8", "170", "1052702", "1016760001", "East Harlem South" ]
+, [ "row-ejgu-9dsa-c39y", "00000000-0000-0000-9376-5C715FB0CDAA", 0, 1534954953, null, 1534954953, null, "{ }", "Fine Fare Supermarket", "1891", "3rd Ave", "New York", "10029", "2017", "5", "40.790544", "-73.94541100000001", "11", "8", "170", "1052399", "1016540045", "East Harlem South" ]
+, [ "row-uejd-uejw-iv63", "00000000-0000-0000-5F85-066FD20F5BB2", 0, 1534954953, null, 1534954953, null, "{ }", "Asunan Inc.", "1665", "Lexington Ave", "New York", "10029", "2017", "5", "40.79131", "-73.946949", "11", "8", "166", "1051980", "1016320053", "East Harlem South" ]
+, [ "row-rt62~gaey~5b77", "00000000-0000-0000-92A8-FAC0672EBD5A", 0, 1534954953, null, 1534954953, null, "{ }", "1705 Deli Grocery", "1705", "Lexington Ave", "New York", "10029", "2017", "5", "40.792765", "-73.945886", "11", "8", "172", "1052050", "1016340049", "East Harlem South" ]
+, [ "row-ma4y_d6ic~ctbt", "00000000-0000-0000-5066-D2FA817DB4AA", 0, 1534954953, null, 1534954953, null, "{ }", "Lex & 103rd Inc.", "1629", "Lexington Ave", "New York", "10029", "2017", "5", "40.790216", "-73.947744", "11", "8", "166", "1051897", "1016300053", "East Harlem South" ]
+, [ "row-n8p9-8wre_zwc5", "00000000-0000-0000-0C94-83A66C7B1BBB", 0, 1534954953, null, 1534954953, null, "{ }", "Ranch Market", "1635", "Lexington Ave", "New York", "10029", "2017", "5", "40.790501", "-73.947538", "11", "8", "166", "1089312", "1016317501", "East Harlem South" ]
+, [ "row-2u3s~hxat.me83", "00000000-0000-0000-1DD6-DB8387C26443", 0, 1534954953, null, 1534954953, null, "{ }", "Uptown Supermarket", "1588", "Madison Ave", "New York", "10029", "2017", "5", "40.793982", "-73.949243", "11", "9", "17401", "1051514", "1016120001", "East Harlem South" ]
+, [ "row-v5ms.3fuc_6ese", "00000000-0000-0000-0512-309A1339D8B1", 0, 1534954953, null, 1534954953, null, "{ }", "El Tepeyac", "1621", "Lexington Ave", "New York", "10029", "2017", "5", "40.789922", "-73.947961", "11", "8", "166", "1051884", "1016300021", "East Harlem South" ]
+, [ "row-p4ns_ny2g.vwx6", "00000000-0000-0000-E5B3-A5DD902DF5B4", 0, 1534954953, null, 1534954953, null, "{ }", "Super Fi Emporium", "1635", "Lexington Ave", "New York", "10029", "2017", "5", "40.790501", "-73.947538", "11", "8", "166", "1089312", "1016317501", "East Harlem South" ]
+, [ "row-tnsc~h9fj.bbcv", "00000000-0000-0000-C224-52175692B289", 0, 1534954953, null, 1534954953, null, "{ }", "Manhattan Haat Baazar", "165", "East 106th St.", "New York", "10029", "2017", "5", "40.791966", "-73.945594", "11", "8", "172", "1052032", "1016340031", "East Harlem South" ]
+, [ "row-wesn.2rpt-axay", "00000000-0000-0000-F013-9AF4F7B24938", 0, 1534954953, null, 1534954953, null, "{ }", "Cappellan Deli Grocery", "1626", "Park Ave", "New York", "10029", "2017", "5", "40.798843", "-73.943587", "11", "8", "184", "1051645", "1016210035", "East Harlem North" ]
+, [ "row-6bqg-xbb2_q46m", "00000000-0000-0000-D575-A53CC0EDFA3D", 0, 1534954953, null, 1534954953, null, "{ }", "Third Avenue Gourmet", "2105", "Third Ave", "New York", "10029", "2017", "5", "40.797447", "-73.94037", "11", "8", "188", "1052515", "1016650001", "East Harlem North" ]
+, [ "row-u4eg~uhk7~ndtj", "00000000-0000-0000-7B93-1B7BE1985CB0", 0, 1534954953, null, 1534954953, null, "{ }", "Cherry Valley Supermarket", "309", "East 115th St.", "New York", "10029", "2017", "5", "40.796167", "-73.937941", "11", "8", "188", "1052901", "1016870005", "East Harlem North" ]
+, [ "row-cbfu~jg85-xdsn", "00000000-0000-0000-A172-D38190F164D0", 0, 1534954953, null, 1534954953, null, "{ }", "El Barrio Superette", "1858", "Lexington Ave", "New York", "10029", "2017", "5", "40.798118", "-73.942006", "11", "8", "182", "1052235", "1016430015", "East Harlem North" ]
+, [ "row-fxu6-hu4f.9da7", "00000000-0000-0000-F8B8-84ECA83FFA8B", 0, 1534954953, null, 1534954953, null, "{ }", "New King Deli Grocery Corp.", "23", "East 115th St.", "New York", "10029", "2017", "5", "40.799415", "-73.945645", "11", "9", "184", "1074184", "1016210013", "East Harlem North" ]
+, [ "row-fih2~eqbj~nyun", "00000000-0000-0000-BFBB-7AE47858C92D", 0, 1534954953, null, 1534954953, null, "{ }", "Little Mexico Meat Grocery", "2119", "Third Ave", "New York", "10029", "2017", "5", "40.797752", "-73.94015", "11", "8", "188", "1052552", "1016650050", "East Harlem North" ]
+, [ "row-7y52~wpxa_csf9", "00000000-0000-0000-C8FC-28C7A1378F76", 0, 1534954953, null, 1534954953, null, "{ }", "Paniagua Deli Grocery", "203", "East 115th St.", "New York", "10029", "2017", "5", "40.797233", "-73.940432", "11", "8", "188", "1052555", "1016650104", "East Harlem North" ]
+, [ "row-q7m5-4n2k.zrnr", "00000000-0000-0000-68A8-4B14C0B6BBDF", 0, 1534954953, null, 1534954953, null, "{ }", "JJ Food Market", "153", "East 99th St.", "New York", "10029", "2017", "5", "40.787686", "-73.94923", "11", "5", "166", "1051758", "1016270023", "East Harlem South" ]
+ ]
+}

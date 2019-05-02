@@ -1,0 +1,299 @@
+{
+  "library": [
+    {
+      "address": "203 Arlington Ave. at Warwick St. Brooklyn, NY 11207",
+      "library_name": "Arlington Library",
+      "zipcode": "11207"
+    },
+    {
+      "address": "7223 Ridge Blvd. at 73rd St. Brooklyn, NY 11209",
+      "library_name": "Bay Ridge Library",
+      "zipcode": "11209"
+    },
+    {
+      "address": "496 Franklin Avenue Brooklyn, NY 11238",
+      "library_name": "Bedford Library",
+      "zipcode": "11238"
+    },
+    {
+      "address": "1265 43rd St. at 13th Ave. Brooklyn, NY 11219",
+      "library_name": "Borough Park Library",
+      "zipcode": "11219"
+    },
+    {
+      "address": "16 Brighton First Rd. at Brighton Beach Ave. Brooklyn, NY 11235",
+      "library_name": "Brighton Beach Library",
+      "zipcode": "11235"
+    },
+    {
+      "address": "109 Remsen Street Brooklyn, NY 11201",
+      "library_name": "Brooklyn Heights Library",
+      "zipcode": "11201"
+    },
+    {
+      "address": "725 St. Marks Ave. at Nostrand Ave. Brooklyn, NY 11216",
+      "library_name": "Brower Park Library",
+      "zipcode": "11216"
+    },
+    {
+      "address": "61 Glenmore Ave. at Watkins St. Brooklyn, NY 11212",
+      "library_name": "Brownsville Library",
+      "zipcode": "11212"
+    },
+    {
+      "address": "340 Bushwick Avenue Brooklyn, NY 11206",
+      "library_name": "Bushwick Library",
+      "zipcode": "11206"
+    },
+    {
+      "address": "1580 Rockaway Pkwy. at Ave. J Brooklyn, NY 11236",
+      "library_name": "Canarsie Library",
+      "zipcode": "11236"
+    },
+    {
+      "address": "396 Clinton St. Brooklyn, NY 11231",
+      "library_name": "Carroll Gardens Library",
+      "zipcode": "11231"
+    },
+    {
+      "address": "10 Grand Army Plaza Brooklyn, NY 11238",
+      "library_name": "Central Library",
+      "zipcode": "11238"
+    },
+    {
+      "address": "2035 Nostrand Ave. Brooklyn, NY 11210",
+      "library_name": "Clarendon Library",
+      "zipcode": "11210"
+    },
+    {
+      "address": "380 Washington Ave. at Lafayette Ave. Brooklyn, NY 11238",
+      "library_name": "Clinton Hill Library",
+      "zipcode": "11238"
+    },
+    {
+      "address": "1901 Mermaid Ave. (Near W. 19th St.) Brooklyn, NY 11224",
+      "library_name": "Coney Island Library",
+      "zipcode": "11224"
+    },
+    {
+      "address": "1305 Cortelyou Rd. at Argyle Rd. Brooklyn, NY 11226",
+      "library_name": "Cortelyou Library",
+      "zipcode": "11226"
+    },
+    {
+      "address": "560 New York Ave. at Maple St. Brooklyn, NY 11225",
+      "library_name": "Crown Heights Library",
+      "zipcode": "11225"
+    },
+    {
+      "address": "1197 Sutter Ave. at Crystal St. Brooklyn, NY 11208",
+      "library_name": "Cypress Hills Library",
+      "zipcode": "11208"
+    },
+    {
+      "address": "790 Bushwick Ave. at DeKalb Ave. Brooklyn, NY 11221",
+      "library_name": "DeKalb Library",
+      "zipcode": "11221"
+    },
+    {
+      "address": "8202 13th Ave. (@ 82nd St.) Brooklyn, NY 11228",
+      "library_name": "Dyker Library",
+      "zipcode": "11228"
+    },
+    {
+      "address": "9612 Church Ave. at. Rockaway Pkwy. Brooklyn, NY 11212",
+      "library_name": "East Flatbush Library",
+      "zipcode": "11212"
+    },
+    {
+      "address": "1044 Eastern Pkwy. at Schenectady Ave. Brooklyn, NY 11213",
+      "library_name": "Eastern Parkway Library",
+      "zipcode": "11213"
+    },
+    {
+      "address": "22 Linden Blvd. at Flatbush Ave. Brooklyn, NY 11226",
+      "library_name": "Flatbush Library",
+      "zipcode": "11226"
+    },
+    {
+      "address": "2065 Flatbush Ave. at Ave. P Brooklyn, NY 11234",
+      "library_name": "Flatlands Library",
+      "zipcode": "11234"
+    },
+    {
+      "address": "9424 Fourth Ave. Brooklyn, NY 11209",
+      "library_name": "Fort Hamilton Library",
+      "zipcode": "11209"
+    },
+    {
+      "address": "2808 Gerritsen Ave. Brooklyn, NY 11229",
+      "library_name": "Gerritsen Beach Library",
+      "zipcode": "11229"
+    },
+    {
+      "address": "303 Ave. X at West. 2nd St. Brooklyn, NY 11223",
+      "library_name": "Gravesend Library",
+      "zipcode": "11223"
+    },
+    {
+      "address": "107 Norman Ave. at Leonard St. Brooklyn, NY 11222",
+      "library_name": "Greenpoint Library",
+      "zipcode": "11222"
+    },
+    {
+      "address": "1664 W. 13th St. at Kings Highway Brooklyn, NY 11223",
+      "library_name": "Highlawn Library",
+      "zipcode": "11223"
+    },
+    {
+      "address": "2525 Coney Island Ave. at Ave. V Brooklyn, NY 11223",
+      "library_name": "Homecrest Library",
+      "zipcode": "11223"
+    },
+    {
+      "address": "9727 Seaview Ave. at E. 98th St. near Rockaway Pkwy. Brooklyn, NY 11236",
+      "library_name": "Jamaica Bay Library",
+      "zipcode": "11236"
+    },
+    {
+      "address": "4207 18th Avenue Brooklyn, NY 11218",
+      "library_name": "Kensington Library",
+      "zipcode": "11218"
+    },
+    {
+      "address": "3650 Nostrand Ave. (near Ave. W) Brooklyn, NY 11229",
+      "library_name": "Kings Bay Library",
+      "zipcode": "11229"
+    },
+    {
+      "address": "2115 Ocean Ave. Brooklyn, NY 11229",
+      "library_name": "Kings Highway Library",
+      "zipcode": "11229"
+    },
+    {
+      "address": "81 Devoe St. at Leonard St. Brooklyn, NY 11211",
+      "library_name": "Leonard Library",
+      "zipcode": "11211"
+    },
+    {
+      "address": "361 Lewis Ave. at Macon St. Brooklyn, NY 11233",
+      "library_name": "Macon Library",
+      "zipcode": "11233"
+    },
+    {
+      "address": "1702 60th Street Brooklyn, NY 11204",
+      "library_name": "Mapleton Library",
+      "zipcode": "11204"
+    },
+    {
+      "address": "617 DeKalb Ave. at Nostrand Ave. Brooklyn, NY 11216",
+      "library_name": "Marcy Library",
+      "zipcode": "11216"
+    },
+    {
+      "address": "6802 Fort Hamilton Pkwy (at 68th St.) Brooklyn, NY 11219",
+      "library_name": "McKinley Park Library",
+      "zipcode": "11219"
+    },
+    {
+      "address": "975 East 16th St. at Avenue J Brooklyn, NY 11230",
+      "library_name": "Midwood Library",
+      "zipcode": "11230"
+    },
+    {
+      "address": "2385 Ralph Ave (near Ave N) Brooklyn, NY 11234",
+      "library_name": "Mill Basin Library",
+      "zipcode": "11234"
+    },
+    {
+      "address": "665 New Lots Avenue at Barbey St. Brooklyn, NY 11207",
+      "library_name": "New Lots Library",
+      "zipcode": "11207"
+    },
+    {
+      "address": "1743 86th St. at Bay 17th St. Brooklyn, NY 11214",
+      "library_name": "New Utrecht Library",
+      "zipcode": "11214"
+    },
+    {
+      "address": "25 Fourth Ave. at Pacific St. Brooklyn, NY 11217",
+      "library_name": "Pacific Library",
+      "zipcode": "11217"
+    },
+    {
+      "address": "850 E. 59th St. at Paerdegat Ave. South Brooklyn, NY 11234",
+      "library_name": "Paerdegat Library",
+      "zipcode": "11234"
+    },
+    {
+      "address": "431 6th Ave Brooklyn, NY 11215",
+      "library_name": "Park Slope Library",
+      "zipcode": "11215"
+    },
+    {
+      "address": "7 Wolcott St Brooklyn, NY 11231",
+      "library_name": "Red Hook Library",
+      "zipcode": "11231"
+    },
+    {
+      "address": "1000 Utica Ave. Brooklyn, NY 11203",
+      "library_name": "Rugby Library",
+      "zipcode": "11203"
+    },
+    {
+      "address": "5902 23rd Ave. Brooklyn, NY 11204",
+      "library_name": "Ryder Library",
+      "zipcode": "11204"
+    },
+    {
+      "address": "8 Thomas S. Boyland St. at Macon St. Brooklyn, NY 11233",
+      "library_name": "Saratoga Library",
+      "zipcode": "11233"
+    },
+    {
+      "address": "2636 E. 14th St. at Ave. Z Brooklyn, NY 11235",
+      "library_name": "Sheepshead Bay Library",
+      "zipcode": "11235"
+    },
+    {
+      "address": "12143 Flatlands Ave. at New Jersey Ave. Brooklyn, NY 11207",
+      "library_name": "Spring Creek Library",
+      "zipcode": "11207"
+    },
+    {
+      "address": "581 Mother Gaston Boulevard Brooklyn, NY 11212",
+      "library_name": "Stone Avenue Library",
+      "zipcode": "11212"
+    },
+    {
+      "address": "4201 Fourth Avenue Brooklyn, NY 11232",
+      "library_name": "Sunset Park Library",
+      "zipcode": "11232"
+    },
+    {
+      "address": "2602 Bath Avenue at 26th Ave Brooklyn, NY 11214",
+      "library_name": "Ulmer Park Library",
+      "zipcode": "11214"
+    },
+    {
+      "address": "93 Saint Edwards Street Brooklyn, NY 11205",
+      "library_name": "Walt Whitman Library",
+      "zipcode": "11205"
+    },
+    {
+      "address": "360 Irving Ave. (at Woodbine St.) Brooklyn, NY 11237",
+      "library_name": "Washington Irving Library",
+      "zipcode": "11237"
+    },
+    {
+      "address": "240 Division Ave. at Marcy Ave. Brooklyn, NY 11211",
+      "library_name": "Williamsburgh Library",
+      "zipcode": "11211"
+    },
+    {
+      "address": "160 E. 5th St. at Ft. Hamilton Pkwy. Brooklyn, NY 11218",
+      "library_name": "Windsor Terrace Library",
+      "zipcode": "11218"
+    }
+  ]
+}

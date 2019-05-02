@@ -1,0 +1,949 @@
+{
+  "garden": [
+    {
+      "address": "274 15th Street",
+      "garden_name": "6/15 Green",
+      "zipcode": "11215"
+    },
+    {
+      "address": "700 Decatur Street",
+      "garden_name": "700 Decatur Street Block Association",
+      "zipcode": "11233"
+    },
+    {
+      "address": "495 Osborn Street",
+      "garden_name": "Abib Newborn",
+      "zipcode": "11212"
+    },
+    {
+      "address": "149 Tompkins Avenue",
+      "garden_name": "All People's Church of the Apostolic Faith Community Garden",
+      "zipcode": "11206"
+    },
+    {
+      "address": "261-265 Columbia Street",
+      "garden_name": "Amazing Garden",
+      "zipcode": "11231"
+    },
+    {
+      "address": "199 Amboy Street",
+      "garden_name": "Amboy St. Garden",
+      "zipcode": "11212"
+    },
+    {
+      "address": "122 Hart Street",
+      "garden_name": "American Heart",
+      "zipcode": "11206"
+    },
+    {
+      "address": "213 Atkins Avenue",
+      "garden_name": "Atkins Gardeners",
+      "zipcode": "11208"
+    },
+    {
+      "address": "61-73 Hamilton Avenue",
+      "garden_name": "Backyard Garden",
+      "zipcode": "11231"
+    },
+    {
+      "address": "404 Decatur Street",
+      "garden_name": "Bed-Stuy Farm",
+      "zipcode": "11233"
+    },
+    {
+      "address": "301-303 Berry Street",
+      "garden_name": "Berry Street Garden",
+      "zipcode": "11249"
+    },
+    {
+      "address": "436 Van Siclen Avenue",
+      "garden_name": "Big Red Garden",
+      "zipcode": "11207"
+    },
+    {
+      "address": "397-401 Carlton Avenue",
+      "garden_name": "Brooklyn Bears/Carlton Avenue Garden",
+      "zipcode": "11238"
+    },
+    {
+      "address": "65-73 Flatbush Avenue",
+      "garden_name": "Brooklyn Bears/Rockwell Place Garden",
+      "zipcode": "11217"
+    },
+    {
+      "address": "48 Lefferts Place",
+      "garden_name": "Brooklyn's Finest Garden",
+      "zipcode": "11238"
+    },
+    {
+      "address": "790 Blake Avenue",
+      "garden_name": "C.A.U.S.A. Festival Garden",
+      "zipcode": "11207"
+    },
+    {
+      "address": "534 Carroll Street",
+      "garden_name": "Carroll Street Community Garden (Our Lady of Peace Church or Gil Hodges Garden)",
+      "zipcode": "11215"
+    },
+    {
+      "address": "305 Greene Avenue",
+      "garden_name": "Cedar Tree Garden",
+      "zipcode": "11238"
+    },
+    {
+      "address": "277-279 Bainbridge Street",
+      "garden_name": "Central Bainbridge Block Association Inc.",
+      "zipcode": "11233"
+    },
+    {
+      "address": "127 Patchen Avenue",
+      "garden_name": "Citizens for a Better Community",
+      "zipcode": "11221"
+    },
+    {
+      "address": "573-579 Glenmore Avenue",
+      "garden_name": "Clara's Garden",
+      "zipcode": "11207"
+    },
+    {
+      "address": "474 Classon Avenue",
+      "garden_name": "Classon/Fulgate Block Association",
+      "zipcode": "11238"
+    },
+    {
+      "address": "433-435 Cleveland Street",
+      "garden_name": "Cleveland Street Vegetable Garden",
+      "zipcode": "11208"
+    },
+    {
+      "address": "289 Grand Avenue",
+      "garden_name": "Clifton Place Garden",
+      "zipcode": "11238"
+    },
+    {
+      "address": "1031-35 Bedford Avenue",
+      "garden_name": "Clifton Place Memorial Park & Garden",
+      "zipcode": "11216"
+    },
+    {
+      "address": "72-74 Grove Street",
+      "garden_name": "Concerned Citizens of Grove Street",
+      "zipcode": "11221"
+    },
+    {
+      "address": "606 Glenmore Avenue",
+      "garden_name": "Concerned Residents of Barbey Street",
+      "zipcode": "11207"
+    },
+    {
+      "address": "214 Montauk Avenue",
+      "garden_name": "Concerned Residents of Montauk Avenue",
+      "zipcode": "11208"
+    },
+    {
+      "address": "1475 Bushwick Avenue",
+      "garden_name": "Contented Hart Garden",
+      "zipcode": "11207"
+    },
+    {
+      "address": "41 Cooper Street",
+      "garden_name": "Cooper Street Block Buster Block Association.",
+      "zipcode": "11207"
+    },
+    {
+      "address": "34 Cooper Street",
+      "garden_name": "Cooper Street Gardeners",
+      "zipcode": "11207"
+    },
+    {
+      "address": "248-250 Bergen Street",
+      "garden_name": "David Foulke Community Garden",
+      "zipcode": "11217"
+    },
+    {
+      "address": "1052 Decatur Street",
+      "garden_name": "Decatur Street Community Garden",
+      "zipcode": "11207"
+    },
+    {
+      "address": "171 E 4th Street",
+      "garden_name": "East 4th St. Com. Gar.(Windsor Terrace Kensington Veterans Mem.)",
+      "zipcode": "11218"
+    },
+    {
+      "address": "203-207 South 2nd Street",
+      "garden_name": "El Puente: EspÃ­ritu Tierra Community Garden",
+      "zipcode": "11211"
+    },
+    {
+      "address": "585 Elton Street",
+      "garden_name": "Elton Street Block Association",
+      "zipcode": "11208"
+    },
+    {
+      "address": "3030 Fulton Street",
+      "garden_name": "Essex Street Community Fulton Street Garden (Fulton Street Community Garden)",
+      "zipcode": "11208"
+    },
+    {
+      "address": "532 Euclid Avenue",
+      "garden_name": "Euclid 500 Block Association.",
+      "zipcode": "11208"
+    },
+    {
+      "address": "808 Herkimer Street",
+      "garden_name": "F.A.R.R. Block Association",
+      "zipcode": "11233"
+    },
+    {
+      "address": "793 Cleveland Street",
+      "garden_name": "Family Community Garden - Brooklyn",
+      "zipcode": "11208"
+    },
+    {
+      "address": "181 Legion Street",
+      "garden_name": "Fantasy Garden",
+      "zipcode": "11212"
+    },
+    {
+      "address": "1897-1905 Bergen Street",
+      "garden_name": "Farmers Garden",
+      "zipcode": "11233"
+    },
+    {
+      "address": "397-401 Quincy Street",
+      "garden_name": "First Quincy Street GreenThumb Garden",
+      "zipcode": "11221"
+    },
+    {
+      "address": "494 Bradford Street",
+      "garden_name": "First Temple of David",
+      "zipcode": "11207"
+    },
+    {
+      "address": "2379-2385 Pitkin Avenue",
+      "garden_name": "Floral Vineyard",
+      "zipcode": "11207"
+    },
+    {
+      "address": "978 Greene Avenue",
+      "garden_name": "Garden of Angels",
+      "zipcode": "11221"
+    },
+    {
+      "address": "392 Hancock Street",
+      "garden_name": "Garden of Hope",
+      "zipcode": "11216"
+    },
+    {
+      "address": "298-304 Snediker Avenue",
+      "garden_name": "Genesis Homes Garden",
+      "zipcode": "11207"
+    },
+    {
+      "address": "105 Johnson Street (Tech), Brooklyn, NY 11201",
+      "garden_name": "George Westinghouse HS - Marvin's Garden",
+      "zipcode": "11201"
+    },
+    {
+      "address": "328 New Lots Avenue",
+      "garden_name": "Georgia Avenue Community Garden",
+      "zipcode": "11207"
+    },
+    {
+      "address": "144 Newport Street",
+      "garden_name": "Gethsemane Garden",
+      "zipcode": "11212"
+    },
+    {
+      "address": "555 Glenmore Avenue",
+      "garden_name": "Glenmore Hendrix Block Assoc.",
+      "zipcode": "11207"
+    },
+    {
+      "address": "555-557 Shepherd Avenue",
+      "garden_name": "Good Shepherd's Community Group",
+      "zipcode": "11208"
+    },
+    {
+      "address": "28-32 Granite Street",
+      "garden_name": "Granite Street Block Association",
+      "zipcode": "11207"
+    },
+    {
+      "address": "229 North 12th Street",
+      "garden_name": "Green Dome",
+      "zipcode": "11211"
+    },
+    {
+      "address": "947-953 Glenmore Avenue",
+      "garden_name": "Green Gems",
+      "zipcode": "11208"
+    },
+    {
+      "address": "222 5th Avenue",
+      "garden_name": "Green Space @ President Street",
+      "zipcode": "11215"
+    },
+    {
+      "address": "490 Greene Avenue",
+      "garden_name": "Greene Avenue United Neighbors Association",
+      "zipcode": "11216"
+    },
+    {
+      "address": "2 South Portland Avenue",
+      "garden_name": "Greene Garden",
+      "zipcode": "11217"
+    },
+    {
+      "address": "774 Halsey St.",
+      "garden_name": "Halsey Ralph and Howard Garden",
+      "zipcode": "11233"
+    },
+    {
+      "address": "322-324 Hancock Street",
+      "garden_name": "Hancock T & T Block Association",
+      "zipcode": "11216"
+    },
+    {
+      "address": "169-171 Hart Street",
+      "garden_name": "Hart Street Community Garden",
+      "zipcode": "11206"
+    },
+    {
+      "address": "104-108 Hart Street",
+      "garden_name": "Hart to Hart",
+      "zipcode": "11206"
+    },
+    {
+      "address": "134-136 Scholes Street",
+      "garden_name": "Heckscher Foundation For Children's Garden",
+      "zipcode": "11206"
+    },
+    {
+      "address": "532 Hendrix Street",
+      "garden_name": "Hendrix Street Community Garden (Block Association of Hendrix Street)",
+      "zipcode": "11207"
+    },
+    {
+      "address": "582 - 590 Glenmore Avenue",
+      "garden_name": "Herbal Garden of East New York",
+      "zipcode": "11207"
+    },
+    {
+      "address": "460 Washington Avenue",
+      "garden_name": "Hollenback Community Garden",
+      "zipcode": "11238"
+    },
+    {
+      "address": "750 Howard Avenue",
+      "garden_name": "Howard Garden",
+      "zipcode": "11212"
+    },
+    {
+      "address": "196 Hull Street",
+      "garden_name": "Hull Street Community Garden Inc.",
+      "zipcode": "11233"
+    },
+    {
+      "address": "145 Hull Street",
+      "garden_name": "Hull Street Playground",
+      "zipcode": "11233"
+    },
+    {
+      "address": "207-209 Columbia Street",
+      "garden_name": "Human Compass Community  Garden Inc.",
+      "zipcode": "11231"
+    },
+    {
+      "address": "800 Van Siclen Avenue, Brooklyn, NY 11207",
+      "garden_name": "I.S. 311 - The Essence School",
+      "zipcode": "11207"
+    },
+    {
+      "address": "700 Cortelyou Road",
+      "garden_name": "I.S. 62 - The Greening of Ditmas",
+      "zipcode": "11218"
+    },
+    {
+      "address": "215 Heyward Street",
+      "garden_name": "I.S. 71",
+      "zipcode": "11206"
+    },
+    {
+      "address": "99 Avenue P",
+      "garden_name": "I.S. 96",
+      "zipcode": "11204"
+    },
+    {
+      "address": "87-91 Schenectady Avenue",
+      "garden_name": "Imani II Garden (Schenectady Avenue Community Garden)",
+      "zipcode": "11213"
+    },
+    {
+      "address": "101 Park Avenue",
+      "garden_name": "J.H.S. 265",
+      "zipcode": "11205"
+    },
+    {
+      "address": "327-329 Greene Avenue",
+      "garden_name": "Jane Bailey Memorial Garden",
+      "zipcode": "11238"
+    },
+    {
+      "address": "447 Jerome Street",
+      "garden_name": "Jerome Gardens",
+      "zipcode": "11207"
+    },
+    {
+      "address": "349 Schenck Avenue",
+      "garden_name": "Jerry and the Senior Gents of E.N.Y.",
+      "zipcode": "11207"
+    },
+    {
+      "address": "155 Amboy Street",
+      "garden_name": "Jes Good Rewards Children's Garden",
+      "zipcode": "11212"
+    },
+    {
+      "address": "237 7th Avenue.  Brooklyn, NY 11215",
+      "garden_name": "John Jay High School",
+      "zipcode": "11215"
+    },
+    {
+      "address": "10 Stuyvesant Avenue",
+      "garden_name": "John the Baptist Community Center Inc.",
+      "zipcode": "11221"
+    },
+    {
+      "address": "385-389 Kosciusko Street",
+      "garden_name": "Kosciusko St. Comm. Pk./Learning Center",
+      "zipcode": "11221"
+    },
+    {
+      "address": "1036 Flushing Avenue",
+      "garden_name": "La Finea",
+      "zipcode": "11237"
+    },
+    {
+      "address": "162 Lefferts Place",
+      "garden_name": "Lefferts Place Block Association",
+      "zipcode": "11238"
+    },
+    {
+      "address": "316 Lincoln Road",
+      "garden_name": "Lincoln Road Garden",
+      "zipcode": "11225"
+    },
+    {
+      "address": "20 Lincoln Place",
+      "garden_name": "Lincoln-Berkeley Comm. Garden",
+      "zipcode": "11217"
+    },
+    {
+      "address": "113 Linden Street",
+      "garden_name": "Linden-Bushwick Garden",
+      "zipcode": "11221"
+    },
+    {
+      "address": "227 Sterling Place",
+      "garden_name": "M.S. 340",
+      "zipcode": "11238"
+    },
+    {
+      "address": "790 East New York Avenue",
+      "garden_name": "M.S. 391 Mahalia Jackson",
+      "zipcode": "11203"
+    },
+    {
+      "address": "400 Empire Boulevard.",
+      "garden_name": "M.S. 61 -  Atwell",
+      "zipcode": "11225"
+    },
+    {
+      "address": "894 Madison Street",
+      "garden_name": "Madison Community GreenThumb Garden",
+      "zipcode": "11221"
+    },
+    {
+      "address": "1262-1264 Madison Street",
+      "garden_name": "Madison Square Garden",
+      "zipcode": "11221"
+    },
+    {
+      "address": "974 Madison Street",
+      "garden_name": "Madison Street Association",
+      "zipcode": "11221"
+    },
+    {
+      "address": "88-90 Madison Street",
+      "garden_name": "Madison Street Block Association",
+      "zipcode": "11216"
+    },
+    {
+      "address": "1397 Bedford Avenue",
+      "garden_name": "MaMa Dee's Garden",
+      "zipcode": "11216"
+    },
+    {
+      "address": "2539 Pitkin Avenue",
+      "garden_name": "Manleys Place",
+      "zipcode": "11208"
+    },
+    {
+      "address": "130 Liberty Avenue",
+      "garden_name": "McLeods Community Garden (formerly Powell Street Block Association - Liberty Ave)",
+      "zipcode": "11212"
+    },
+    {
+      "address": "354 Stuyvesant Avenue.",
+      "garden_name": "Mt. Lebanon Baptist Church",
+      "zipcode": "11233"
+    },
+    {
+      "address": "565 Barbey Street",
+      "garden_name": "Nehemiah Ten GreenThumb Block Association",
+      "zipcode": "11207"
+    },
+    {
+      "address": "1123 Saint Marks Avenue",
+      "garden_name": "Neighborhood Community Garden",
+      "zipcode": "11213"
+    },
+    {
+      "address": "953 Gates Avenue",
+      "garden_name": "New Age Pride (Victory Garden's Group)",
+      "zipcode": "11221"
+    },
+    {
+      "address": "590-594 Schenck Avenue.",
+      "garden_name": "New Vision Garden",
+      "zipcode": "11207"
+    },
+    {
+      "address": "823 Rockaway Avenue",
+      "garden_name": "Newport Gardens",
+      "zipcode": "11212"
+    },
+    {
+      "address": "599 Driggs Avenue",
+      "garden_name": "Northside Community Garden",
+      "zipcode": "11211"
+    },
+    {
+      "address": "21-25 Olive Street",
+      "garden_name": "Olive Garden",
+      "zipcode": "11211"
+    },
+    {
+      "address": "369-371 Barbey Street & 326-328 Jerome St",
+      "garden_name": "Oriental Garden",
+      "zipcode": "11207"
+    },
+    {
+      "address": "1301 8th Avenue",
+      "garden_name": "P.S. 107 - Rainbow Garden",
+      "zipcode": "11215"
+    },
+    {
+      "address": "3829 Avenue K",
+      "garden_name": "P.S. 119",
+      "zipcode": "11210"
+    },
+    {
+      "address": "121 Saratoga Avenue",
+      "garden_name": "P.S. 137",
+      "zipcode": "11233"
+    },
+    {
+      "address": "365-67 Wyona Street",
+      "garden_name": "P.S. 149 - Artsy Bloom Community Garden",
+      "zipcode": "11207"
+    },
+    {
+      "address": "1355 Herkimer Street",
+      "garden_name": "P.S. 155",
+      "zipcode": "11233"
+    },
+    {
+      "address": "4211 14th Avenue",
+      "garden_name": "P.S. 164 - Stepping Into the New Millenium",
+      "zipcode": "11219"
+    },
+    {
+      "address": "5601-23 16th Avenue  Brooklyn NY 11204",
+      "garden_name": "P.S. 180 - Our Secret Garden",
+      "zipcode": "11204"
+    },
+    {
+      "address": "1023 New York Avenue",
+      "garden_name": "P.S. 181K - Garden Club",
+      "zipcode": "11203"
+    },
+    {
+      "address": "325 South 3rd Street Brooklyn, NY 11211",
+      "garden_name": "P.S. 19K - Kid's Garden",
+      "zipcode": "11211"
+    },
+    {
+      "address": "4801 Avenue D  Brooklyn, NY 11234",
+      "garden_name": "P.S. 208",
+      "zipcode": "11203"
+    },
+    {
+      "address": "525 Lenox Road, Brooklyn NY 11203",
+      "garden_name": "P.S. 235",
+      "zipcode": "11203"
+    },
+    {
+      "address": "1580 Dean Street",
+      "garden_name": "P.S. 243 - Weeksville School",
+      "zipcode": "11213"
+    },
+    {
+      "address": "7000 21st Avenue",
+      "garden_name": "P.S. 247K",
+      "zipcode": "11204"
+    },
+    {
+      "address": "18 Marlborough Road",
+      "garden_name": "P.S. 249",
+      "zipcode": "11226"
+    },
+    {
+      "address": "108 Montrose Avenue",
+      "garden_name": "P.S. 250",
+      "zipcode": "11206"
+    },
+    {
+      "address": "133 E. 53rd Street",
+      "garden_name": "P.S. 268",
+      "zipcode": "11203"
+    },
+    {
+      "address": "27 Huntington Street Brooklyn. NY 11231",
+      "garden_name": "P.S. 27 / M.S. 826",
+      "zipcode": "11231"
+    },
+    {
+      "address": "2310 Glenwood  Rd.",
+      "garden_name": "P.S. 315K",
+      "zipcode": "11210"
+    },
+    {
+      "address": "219 First Street",
+      "garden_name": "P.S. 372@834 / The Children's School",
+      "zipcode": "11215"
+    },
+    {
+      "address": "2707 Albemarle Road",
+      "garden_name": "P.S. 399",
+      "zipcode": "11226"
+    },
+    {
+      "address": "530 Stanley Avenue",
+      "garden_name": "P.S. 4 at P.S. 843",
+      "zipcode": "11207"
+    },
+    {
+      "address": "676-696 Glenmore Avenue",
+      "garden_name": "P.S. 4K - Paradise Garden",
+      "zipcode": "11207"
+    },
+    {
+      "address": "522 Bradford Street",
+      "garden_name": "P.S. 53",
+      "zipcode": "11207"
+    },
+    {
+      "address": "2242-62 Bedford Avenue",
+      "garden_name": "P.S. 6 - Operation Push",
+      "zipcode": "11226"
+    },
+    {
+      "address": "51 St. Edwards Street",
+      "garden_name": "P.S. 67 - Charles Dorsey School",
+      "zipcode": "11205"
+    },
+    {
+      "address": "372 Schermerhorn Street",
+      "garden_name": "P.S. 753K @ The Bklyn. School for Career Development",
+      "zipcode": "11217"
+    },
+    {
+      "address": "62 Park Place",
+      "garden_name": "P.S. 77K @ P. S 902K",
+      "zipcode": "11217"
+    },
+    {
+      "address": "80 Underhill Avenue  Broolyn, NY   11328",
+      "garden_name": "P.S. 9 - Winston Robins Memorial Garden",
+      "zipcode": "11238"
+    },
+    {
+      "address": "112 Schermerhorn Street",
+      "garden_name": "Pacific High School",
+      "zipcode": "11201"
+    },
+    {
+      "address": "992 Sutter Avenue",
+      "garden_name": "Pagans Garden (Linwood Street Block Association)",
+      "zipcode": "11208"
+    },
+    {
+      "address": "49 Patchen Avenue",
+      "garden_name": "Patchen Avenue United Block Association",
+      "zipcode": "11221"
+    },
+    {
+      "address": "1237-1241 Broadway",
+      "garden_name": "People's Garden (Youth City Little League)",
+      "zipcode": "11221"
+    },
+    {
+      "address": "664 East 105th Street",
+      "garden_name": "Ponderosa Garden",
+      "zipcode": "11236"
+    },
+    {
+      "address": "337 Van Siclen Avenue",
+      "garden_name": "Poppa & Momma Jones Historical Garden",
+      "zipcode": "11207"
+    },
+    {
+      "address": "633 Powell Street",
+      "garden_name": "Powell Street Block Association - Powell St",
+      "zipcode": "11212"
+    },
+    {
+      "address": "276-278 Powers Street",
+      "garden_name": "Powers Street Garden",
+      "zipcode": "11211"
+    },
+    {
+      "address": "1711 Park Place",
+      "garden_name": "Preston Community Garden",
+      "zipcode": "11233"
+    },
+    {
+      "address": "94 - 110 Walton St.",
+      "garden_name": "Project Roots Garden",
+      "zipcode": "11206"
+    },
+    {
+      "address": "43-69 Malta Street",
+      "garden_name": "Prophecy Garden Church of God of Prophecy",
+      "zipcode": "11207"
+    },
+    {
+      "address": "252-256 St. Marks Avenue",
+      "garden_name": "Prospect Heights Community Farm",
+      "zipcode": "11238"
+    },
+    {
+      "address": "1652-1654 St. John's Place",
+      "garden_name": "Ralph-Lincoln Service Center",
+      "zipcode": "11233"
+    },
+    {
+      "address": "604 Marcy Avenue",
+      "garden_name": "Red Gate Garden",
+      "zipcode": "11206"
+    },
+    {
+      "address": "558 Columbia Street",
+      "garden_name": "Red Hook Farm/Added Value",
+      "zipcode": "11231"
+    },
+    {
+      "address": "2601-2603 Tilden Avenue.",
+      "garden_name": "Rogers/Tilden/Veronica Place Block Association",
+      "zipcode": "11226"
+    },
+    {
+      "address": "2110 Mermaid Avenue",
+      "garden_name": "Santos White Garden",
+      "zipcode": "11224"
+    },
+    {
+      "address": "9-11 Rochester Avenue",
+      "garden_name": "Seasons of Vision",
+      "zipcode": "11233"
+    },
+    {
+      "address": "2917-2923 West 20th Street",
+      "garden_name": "Senior Citizens Block Association of Mermaid Avenue",
+      "zipcode": "11224"
+    },
+    {
+      "address": "673 Sheffield Avenue",
+      "garden_name": "Sheffield South Block Association",
+      "zipcode": "11207"
+    },
+    {
+      "address": "323-325 Monroe Street",
+      "garden_name": "Shiloh Garden Inc.",
+      "zipcode": "11216"
+    },
+    {
+      "address": "2084-90 Pacific Street",
+      "garden_name": "Shma Yisrael",
+      "zipcode": "11233"
+    },
+    {
+      "address": "1688-1696 Bergen Street",
+      "garden_name": "Society for Preservation of Weeksville",
+      "zipcode": "11213"
+    },
+    {
+      "address": "230A Spencer Street",
+      "garden_name": "Spencer Street Community Garden",
+      "zipcode": "11205"
+    },
+    {
+      "address": "476-484 New Jersey Avenue",
+      "garden_name": "St. John Cantius Parish",
+      "zipcode": "11207"
+    },
+    {
+      "address": "1642 St. John's Place",
+      "garden_name": "St. Johns Place Renaissance Garden",
+      "zipcode": "11233"
+    },
+    {
+      "address": "207 St. Marks Avenue",
+      "garden_name": "St. Marks Avenue/ Prospect Heights Community Garden",
+      "zipcode": "11238"
+    },
+    {
+      "address": "213 Madison Street",
+      "garden_name": "Stars of Hope Community Garden",
+      "zipcode": "11216"
+    },
+    {
+      "address": "461 Williams Avenue",
+      "garden_name": "Success Garden",
+      "zipcode": "11207"
+    },
+    {
+      "address": "281-283 Columbia Street",
+      "garden_name": "Summit Street Community Garden",
+      "zipcode": "11231"
+    },
+    {
+      "address": "182 Sumpter Street",
+      "garden_name": "Sumpter Community Garden",
+      "zipcode": "11233"
+    },
+    {
+      "address": "99-100 McKibben Street",
+      "garden_name": "Sunshine Community Garden",
+      "zipcode": "11206"
+    },
+    {
+      "address": "2829 Surf Avenue",
+      "garden_name": "Surf Side Garden",
+      "zipcode": "11224"
+    },
+    {
+      "address": "931-933 Bedford Avenue",
+      "garden_name": "Target (Brooklyn) Community Garden (Bedford Avenue Block Association Garden)",
+      "zipcode": "11205"
+    },
+    {
+      "address": "15-17 Ten Eyck Street",
+      "garden_name": "Ten Eyck Houses HDFC",
+      "zipcode": "11206"
+    },
+    {
+      "address": "642-648 Blake Avenue",
+      "garden_name": "Thomas Jefferson High School",
+      "zipcode": "11207"
+    },
+    {
+      "address": "271 Glenmore Avenue",
+      "garden_name": "TLC Sculpture Park",
+      "zipcode": "11207"
+    },
+    {
+      "address": "267 Throop Ave.",
+      "garden_name": "Tranquility Farm",
+      "zipcode": "11206"
+    },
+    {
+      "address": "613 Hendrix Street",
+      "garden_name": "Triple R/Relaxation, Reflection, Revenue (Victoria Garden)",
+      "zipcode": "11207"
+    },
+    {
+      "address": "285 - 303 New Lots Avenue",
+      "garden_name": "United Community Centers Site I",
+      "zipcode": "11207"
+    },
+    {
+      "address": "97 Herkimer Street",
+      "garden_name": "United Herkimer Garden Club",
+      "zipcode": "11216"
+    },
+    {
+      "address": "1917-23 Surf Avenue",
+      "garden_name": "Unity Tower Tenant Association",
+      "zipcode": "11224"
+    },
+    {
+      "address": "2556 Pitkin Avenue.",
+      "garden_name": "Upon This Rock Community Garden",
+      "zipcode": "11208"
+    },
+    {
+      "address": "49 Van Buren Street",
+      "garden_name": "Van Buren Street Garden",
+      "zipcode": "11221"
+    },
+    {
+      "address": "253 Throop Avenue",
+      "garden_name": "Vernon (Throop Avenue Block Assoc.)",
+      "zipcode": "11206"
+    },
+    {
+      "address": "42-48 Vernon Avenue",
+      "garden_name": "Vernon New Harvest",
+      "zipcode": "11206"
+    },
+    {
+      "address": "200 Vernon Ave.",
+      "garden_name": "Vernon T&T Block Assoc.",
+      "zipcode": "11206"
+    },
+    {
+      "address": "953 Gates Avenue",
+      "garden_name": "Victory Gardens Group",
+      "zipcode": "11221"
+    },
+    {
+      "address": "1093-1095 Dean Street",
+      "garden_name": "Walt L. Shamal Community Garden",
+      "zipcode": "11216"
+    },
+    {
+      "address": "623 Warren Street",
+      "garden_name": "Warren-St.Marks Community Garden",
+      "zipcode": "11217"
+    },
+    {
+      "address": "681 Halsey Street",
+      "garden_name": "Welcome Home Garden",
+      "zipcode": "11233"
+    },
+    {
+      "address": "1233 Pacific Street",
+      "garden_name": "Westbrook Memorial Garden",
+      "zipcode": "11216"
+    },
+    {
+      "address": "146 Woodbine Street",
+      "garden_name": "Woodbine St. Block Assoc.",
+      "zipcode": "11221"
+    }
+  ]
+}

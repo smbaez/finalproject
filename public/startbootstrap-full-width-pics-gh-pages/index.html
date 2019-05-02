@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/superagent/3.8.3/superagent.min.js"></script>
+  <script src="http://maps.google.com/maps/api/js?key=AIzaSyARxs_0QWBQzZ-7tnFIkcz6Tzh5Fr1I0xg"></script>
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Where Will You Go?</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/full-width-pics.css" rel="stylesheet">
+  <style>
+  .slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 15px;
+  border-radius: 5px;   
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%; 
+  background: #4CAF50;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #4CAF50;
+  cursor: pointer;
+}</style>
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">Where Will You Go?</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home
+              <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Header - set the background image for the header in the line below -->
+  <header class="py-5 bg-image-full" style="background-image: url('https://unsplash.it/1900/1080?image=1076');">
+    <img class="img-fluid d-block mx-auto" src="http://placehold.it/200x200&text=Logo" alt="">
+  </header>
+
+  <!-- Content section -->
+  <section class="py-5">
+    <div class="container">
+      <h1>Section Heading</h1>
+      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, suscipit, rerum quos facilis repellat architecto commodi officia atque nemo facere eum non illo voluptatem quae delectus odit vel itaque amet.</p>
+    
+      <!--MY CODE-->
+      <div class="slidecontainer">Public Libraries 
+        <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+      </div>
+      <textarea id ="libField">Libraries</textarea>
+      <div><br></div>
+    
+      <div class="slidecontainer"> Parks
+        <input type="range" min="1" max="100" value="50" class="slider" id="myRange2">
+      </div>
+      <textarea id ="parkField">Parks</textarea>
+      <div><br></div>
+    
+      <div class="slidecontainer">Gardens
+        <input type="range" min="1" max="100" value="50" class="slider" id="myRange3">
+      </div>
+      <textarea id="gardenField">Gardens</textarea>
+      <div><br></div>
+    
+      <div class="slidecontainer">Art Galleries 
+        <input type="range" min="1" max="100" value="50" class="slider" id="myRange4">
+      </div>
+      <textarea id="artField">Art Galleries</textarea>
+      <div><br></div>
+    
+      <button id="btnn" onclick="myFunction()">Generate Best Neighborhoods</button></br></br>
+      <div id ="createStatus"></div>
+      <div><br></div>
+      <button id="btnn2" onclick="reveal()">DIsplay area</button>
+    
+      <div id="map" style="width:1024px; height:768px"></div>
+    </div>
+    <script>
+      var slider = document.getElementById("myRange");
+      var output = document.getElementById("libField");
+      output.innerHTML = slider.value; 
+      slider.oninput = function() {
+        output.innerHTML = this.value;
+      }
+      
+      var slider2 = document.getElementById("myRange2");
+      var output2 = document.getElementById("parkField");
+      output2.innerHTML = slider2.value;
+      slider2.oninput = function(){
+          output2.innerHTML = this.value;
+      }
+      
+      var slider3 = document.getElementById("myRange3");
+      var output3 = document.getElementById("gardenField");
+      output3.innerHTML = slider3.value;
+      slider3.oninput = function(){
+          output3.innerHTML = this.value;
+      }
+      
+      var slider4 = document.getElementById("myRange4");
+      var output4 = document.getElementById("artField");
+      output4.innerHTML = slider4.value;
+      slider4.oninput = function(){
+          output4.innerHTML = this.value;
+      }
+      </script>
+      <script>
+
+        function myFunction() {
+        var library = document.getElementById('libField').value;
+        var park = document.getElementById('parkField').value;
+        var garden= document.getElementById('gardenField').value;
+        var gallery= document.getElementById('artField').value;
+        var status   = document.getElementById('createStatus');
+        
+        var url = '/data/' + library + '/'+ park+ '/'+ garden+ '/'+ gallery;
+        
+        superagent
+               .get(url)
+               .end(function(err, res){
+                   if (err) {
+                       console.log(err);
+                   } else {
+                       console.log(res.text);
+                       status.innerHTML = res.text; //response coming back, can draw it on the map later
+                   }
+        });
+        
+        };
+        
+        </script>
+        <script>
+        var map;
+        var myZips = [11212, 11213, 11216, 11233, 11238, 11209, 11214, 11228, 11204, 11218, 11219, 11230, 11234, 11236, 11239, 11223, 11224, 11229, 11235, 11201, 11205, 11215, 11217, 11231, 11203, 11210, 11225, 11226, 11207, 11208, 11211, 11222, 11220, 11232, 11206, 11221, 11237]
+        
+        function init(){
+          var myOptions = {
+            zoom      : 12,
+            center    : { lat:40.6782,lng:-73.9442},
+            mapTypeId : google.maps.MapTypeId.ROADMAP
+          };
+          var element = document.getElementById('map');
+            map = new google.maps.Map(element, myOptions);
+        }
+        window.onload = init;
+        
+        function reveal(){
+            var bigString= document.getElementById('createStatus').innerHTML
+                    map.data.loadGeoJson(bigString.substring(3,8) + '.json');
+                    map.data.loadGeoJson(bigString.substring(15,20) + '.json');
+                    map.data.loadGeoJson(bigString.substring(27,32) + '.json');
+        }
+        </script>
+  </section>
+
+  <!-- Image Section - set the background image for the header in the line below -->
+  <section class="py-5 bg-image-full" style="background-image: url('https://unsplash.it/1900/1080?image=1081');">
+    <!-- Put anything you want here! There is just a spacer below for demo purposes! -->
+    <div style="height: 200px;"></div>
+  </section>
+
+  <!-- Content section -->
+  <section class="py-5">
+    <div class="container">
+      <h1>Section Heading</h1>
+      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, suscipit, rerum quos facilis repellat architecto commodi officia atque nemo facere eum non illo voluptatem quae delectus odit vel itaque amet.</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white">Copyright &copy; Your Website 2019</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
